@@ -1,0 +1,170 @@
+Basic,Basic1,Reading,B1RAPET,B1RAPET001,TRUE,RadioSingle
+Basic,Basic1,Reading,B1RAPET,B1RAPET003,TRUE,RadioSingle
+Basic,Basic1,Reading,B1RAPET,B1RAPET004,Tuesday evening at eight o'clock.,RadioSingle
+Basic,Basic1,Reading,B1RAPET,B1RAPET005,2 dollars for a 5-year-old child.,RadioSingle
+Basic,Basic1,Reading,B1RAPET,B1RAPET006,FALSE,RadioSingle
+Basic,Basic1,Listening,b1ltp1t,b1ltp1t001,bus,DragAndDropMultiple
+Basic,Basic1,Listening,b1ltp1t,b1ltp1t002,FALSE,RadioSingle
+Basic,Basic1,Listening,b1ltp1t,b1ltp1t003,FALSE,RadioSingle
+Basic,Basic1,Listening,b1ltp1t,b1ltp1t004,FALSE,RadioSingle
+Basic,Basic1,Listening,b1ltp1t,b1ltp1t005,it's not.,RadioSingle
+Basic,Basic1,Grammar,b1gpp1t,b1gpp1t001,is|are,comboBox
+Basic,Basic1,Grammar,b1gpp1t,b1gpp1t002,am|is,comboBox
+Basic,Basic1,Grammar,b1gpp1t,b1gpp1t003, 's|ries|es,comboBox
+Basic,Basic1,Grammar,b1gpp1t,b1gpp1t004,There are,DragAndDropMultiple
+Basic,Basic1,Grammar,b1gpp1t,b1gpp1t005,is sleeping on the chair,DragAndDropMultiple
+Basic,Basic1,Grammar,b1gpp1t,b1gpp1t006,is buying,DragAndDropMultiple
+Basic,Basic1,Grammar,b1gpp1t,b1gpp1t007,ming|are watching,comboBox
+Basic,Basic1,Grammar,b1gpp1t,b1gpp1t008,'re giving|Are you coming|ying,comboBox
+Basic,Basic1,Grammar,b1gpp1t,b1gpp1t009,am not studying,DragAndDropMultiple
+Basic,Basic1,Grammar,b1gpp1t,b1gpp1t010,yours,DragAndDropMultiple
+Basic,Basic2,Reading,b2rsp1t,b2rsp1t001,My Interesting Neighborhood,DragAndDropMultiple
+Basic,Basic2,Reading,b2rsp1t,b2rsp1t002,She lives on a quiet street with interesting neighbors.,RadioSingle
+Basic,Basic2,Reading,b2rsp1t,b2rsp1t003,He works at night.,RadioSingle
+Basic,Basic2,Reading,b2rsp1t,b2rsp1t004,Paulo Guzman,RadioSingle
+Basic,Basic2,Reading,b2rsp1t,b2rsp1t005,cars,RadioSingle
+Basic,Basic2,Listening,b2lrp1t,b2lrp1t001,FALSE,RadioSingle
+Basic,Basic2,Listening,b2lrp1t,b2lrp1t002,It's in Washington,RadioSingle
+Basic,Basic2,Listening,b2lrp1t,b2lrp1t003,They were in their rooms.,RadioSingle
+Basic,Basic2,Listening,b2lrp1t,b2lrp1t004,the hotel receptionist,RadioSingle
+Basic,Basic2,Listening,b2lrp1t,b2lrp1t005,The firemen worked very hard.,RadioSingle
+Basic,Basic2,Grammar,b2gpp1t,b2gpp1t001,Why|was|David|wasn't,DragAndDropMultiple
+Basic,Basic2,Grammar,b2gpp1t,b2gpp1t002,He's taking|He doesn't usually take,DragAndDropMultiple
+Basic,Basic2,Grammar,b2gpp1t,b2gpp1t003,does she want|She's looking for,comboBox
+Basic,Basic2,Grammar,b2gpp1t,b2gpp1t004,hear|is coming,comboBox
+Basic,Basic2,Grammar,b2gpp1t,b2gpp1t005,She's going|She goes,DragAndDropMultiple
+Basic,Basic2,Grammar,b2gpp1t,b2gpp1t006,Where were|was,comboBox
+Basic,Basic2,Grammar,b2gpp1t,b2gpp1t007,didn't swim|sat,comboBox
+Basic,Basic2,Grammar,b2gpp1t,b2gpp1t008,fell,DragAndDropMultiple
+Basic,Basic2,Grammar,b2gpp1t,b2gpp1t009,do you have to|may,comboBox
+Basic,Basic2,Grammar,b2gpp1t,b2gpp1t010,May|Can,comboBox
+Basic,Basic2,Grammar,b2gpp1t,b2gpp1t011,any|a little,comboBox
+Basic,Basic2,Grammar,b2gpp1t,b2gpp1t012,Is|some,comboBox
+Basic,Basic3,Reading,b3rap1t,b3rap1t001,a factory,DragAndDropMultiple
+Basic,Basic3,Reading,b3rap1t,,she worked hard,DragAndDropMultiple
+Basic,Basic3,Reading,b3rap1t,,factory,RadioSingle
+Basic,Basic3,Reading,b3rap1t,b3rap1t004,A Businesswoman's Success,DragAndDropMultiple
+Basic,Basic3,Reading,b3rap1t,b3rap1t005,FALSE,RadioSingle
+Basic,Basic3,Listening,b3ltp1t,b3ltp1t001,He's on the trip for business.,RadioSingle
+Basic,Basic3,Listening,b3ltp1t,b3ltp1t002,He waited in the airport.,RadioSingle
+Basic,Basic3,Listening,b3ltp1t,b3ltp1t003,John only has a briefcase with him,comboBox
+Basic,Basic3,Listening,b3ltp1t,b3ltp1t004,FALSE,RadioSingle
+Basic,Basic3,Listening,b3ltp1t,b3ltp1t005,He ate on the plane.,RadioSingle
+Basic,Basic3,Grammar,b3gpp1t,b3gpp1t001,more cheaply|sooner,comboBox
+Basic,Basic3,Grammar,b3gpp1t,b3gpp1t002,it's going to snow|I'll be|won't,comboBox
+Basic,Basic3,Grammar,b3gpp1t,b3gpp1t003,Are you eating|are going,DragAndDropMultiple
+Basic,Basic3,Grammar,b3gpp1t,b3gpp1t004,looking at|giving,comboBox
+Basic,Basic3,Grammar,b3gpp1t,b3gpp1t005,ordering|for asking,DragAndDropMultiple
+Basic,Basic3,Grammar,b3gpp1t,b3gpp1t006,the man to tell|to discuss,comboBox
+Basic,Basic3,Grammar,b3gpp1t,b3gpp1t007,to go|to study,DragAndDropMultiple
+Basic,Basic3,Grammar,b3gpp1t,b3gpp1t008,had to|should,comboBox
+Basic,Basic3,Grammar,b3gpp1t,b3gpp1t009,arrived|was climbing,comboBox
+Basic,Basic3,Grammar,b3gpp1t,b3gpp1t010,didn't want to|was having|Was,comboBox
+Intermediate ,Intermediate1,Reading,i1rap1t,i1rap1t001,She can find them a date.|They answer a lot of questions about themselves.| people who answer the questions in a similar way,RadioMultiple
+Intermediate ,Intermediate1,Reading,i1rap1t,i1rap1t002,are celebrating|anniversary|tradition|get along|date,DragAndDropMultiple
+Intermediate ,Intermediate1,Listening ,i1ltp1t,i1ltp1t001,to tell him about his promotion,RadioSingle
+Intermediate ,Intermediate1,Listening ,i1ltp1t,i1ltp1t002,to get something for his cold,RadioSingle
+Intermediate ,Intermediate1,Listening ,i1ltp1t,i1ltp1t003,since that morning,DragAndDropMultiple
+Intermediate ,Intermediate1,Listening ,i1ltp1t,i1ltp1t004,FALSE,RadioSingle
+Intermediate ,Intermediate1,Listening ,i1ltp1t,i1ltp1t005,TRUE,RadioSingle
+Intermediate ,Intermediate1,Grammar ,i1gpp1t,i1gpp1t001,who gave|who,comboBox
+Intermediate ,Intermediate1,Grammar ,i1gpp1t,i1gpp1t002,I could afford|that|Dad says ,comboBox
+Intermediate ,Intermediate1,Grammar ,i1gpp1t,i1gpp1t003, I met|he works for,comboBox
+Intermediate ,Intermediate1,Grammar ,i1gpp1t,i1gpp1t004, Have|ever|read|haven't,DragAndDropMultiple
+Intermediate ,Intermediate1,Grammar ,i1gpp1t,i1gpp1t005, have been trying|for|was ,comboBox
+Intermediate ,Intermediate1,Grammar ,i1gpp1t,i1gpp1t006, Has|begun|started ,DragAndDropMultiple
+Intermediate ,Intermediate1,Grammar ,i1gpp1t,i1gpp1t007, haven't made|stayed  ,DragAndDropMultiple
+Intermediate ,Intermediate1,Grammar ,i1gpp1t,i1gpp1t008, was delivered|been opened  ,comboBox
+Intermediate ,Intermediate1,Grammar ,i1gpp1t,i1gpp1t009, is|sung|by,DragAndDropMultiple
+Intermediate ,Intermediate1,Grammar ,i1gpp1t,i1gpp1t010, be ridden|is fixed,DragAndDropMultiple
+Intermediate ,Intermediate2,Reading,i2rnp1t,i2rnp1t001,New Town has joined an ecology program.|in cities and towns throughout the U.S.|to encourage recycling,RadioMultiple
+Intermediate ,Intermediate2,Reading,i2rnp1t,i2rnp1t002,Citizens|garbage|paper|recycling|successful,DragAndDropMultiple
+Intermediate ,Intermediate2,Listening ,i2ltp1t,i2ltp1t001,FALSE,RadioSingle
+Intermediate ,Intermediate2,Listening ,i2ltp1t,i2ltp1t002,because he thought that his neighbors were sleeping,RadioSingle
+Intermediate ,Intermediate2,Listening ,i2ltp1t,i2ltp1t003,FALSE,RadioSingle
+Intermediate ,Intermediate2,Listening ,i2ltp1t,i2ltp1t004,to lend him a tool,DragAndDropMultiple
+Intermediate ,Intermediate2,Listening ,i2ltp1t,i2ltp1t005,because he isn't used to the time difference,RadioSingle
+Intermediate ,Intermediate2,Grammar,i2gpp1t,i2gpp1t001,had|would ,DragAndDropMultiple
+Intermediate ,Intermediate2,Grammar,i2gpp1t,i2gpp1t002,went|wouldn't|don't,comboBox
+Intermediate ,Intermediate2,Grammar,i2gpp1t,i2gpp1t003,were|'d|'ll,DragAndDropMultiple
+Intermediate ,Intermediate2,Grammar,i2gpp1t,i2gpp1t004, don't|didn't|wouldn't,comboBox
+Intermediate ,Intermediate2,Grammar,i2gpp1t,i2gpp1t005, his name was|he lived,DragAndDropMultiple
+Intermediate ,Intermediate2,Grammar,i2gpp1t,i2gpp1t006, was leaving|that,DragAndDropMultiple
+Intermediate ,Intermediate2,Grammar,i2gpp1t,i2gpp1t007, should|would,DragAndDropMultiple
+Intermediate ,Intermediate2,Grammar,i2gpp1t,i2gpp1t008, said they weren't|that,DragAndDropMultiple
+Intermediate ,Intermediate2,Grammar,i2gpp1t,i2gpp1t009, delivered|to wait,DragAndDropMultiple
+Intermediate ,Intermediate2,Grammar,i2gpp1t,i2gpp1t010, to prepare|make,DragAndDropMultiple
+Intermediate ,Intermediate3,Reading,i3rap1t,i3rap1t001,people don't want to break with tradition.,RadioSingle
+Intermediate ,Intermediate3,Reading,i3rap1t,i3rap1t002,preserving,RadioSingle
+Intermediate ,Intermediate3,Reading,i3rap1t,i3rap1t003,accomplish great things,RadioSingle
+Intermediate ,Intermediate3,Reading,i3rap1t,i3rap1t004,keep in mind,RadioSingle
+Intermediate ,Intermediate3,Reading,i3rap1t,i3rap1t005,accomplish more,RadioSingle
+Intermediate ,Intermediate3,Listening ,i3lrp1t,i3lrp1t001,Camping up north will be fun this weekend.,RadioSingle
+Intermediate ,Intermediate3,Listening ,i3lrp1t,i3lrp1t002,It probably won't rain.,RadioSingle
+Intermediate ,Intermediate3,Listening ,i3lrp1t,i3lrp1t003,They had probably wanted to go camping up north,RadioSingle
+Intermediate ,Intermediate3,Grammar,i3gpp1t,i3gpp1t001, either|or|either,comboBox
+Intermediate ,Intermediate3,Grammar,i3gpp1t,i3gpp1t002, not|Not only|but also,comboBox
+Intermediate ,Intermediate3,Grammar,i3gpp1t,i3gpp1t003, had attended|would|had called,comboBox
+Intermediate ,Intermediate3,Grammar,i3gpp1t,i3gpp1t004, had taught|wouldn't be|taken,comboBox
+Intermediate ,Intermediate3,Grammar,i3gpp1t,i3gpp1t005, wouldn't|have|bought|had,DragAndDropMultiple
+Intermediate ,Intermediate3,Grammar,i3gpp1t,i3gpp1t006, might have|could|they| have|fallen,DragAndDropMultiple
+Intermediate ,Intermediate3,Grammar,i3gpp1t,i3gpp1t007, could have|should have ,comboBox
+Intermediate ,Intermediate3,Grammar,i3gpp1t,i3gpp1t008, may have forgotten,DragAndDropMultiple
+Intermediate ,Intermediate3,Grammar,i3gpp1t,i3gpp1t009, whose|Whatever,comboBox
+Intermediate ,Intermediate3,Grammar,i3gpp1t,i3gpp1t010, whose ,DragAndDropMultiple
+Advanced ,Advanced1 ,Reading,a1rap1t,a1rap1t001,Agriculture isn't producing food fast enough for the growing population.|so that humans will be able to live on Mars in the future,RadioMultiple
+Advanced ,Advanced1 ,Reading,a1rap1t,a1rap1t002, conditions|Medicine|an innovative,comboBox
+Advanced ,Advanced1 ,Listening ,a1lap1t,a1lap1t001,a personal ad,RadioSingle
+Advanced ,Advanced1 ,Listening ,a1lap1t,a1lap1t002,offensive,RadioSingle
+Advanced ,Advanced1 ,Listening ,a1lap1t,a1lap1t003,send a letter and a picture.,RadioSingle
+Advanced ,Advanced1 ,Listening ,a1lap1t,a1lap1t004,people who believe in organized religion,RadioSingle
+Advanced ,Advanced1 ,Listening ,a1lap1t,a1lap1t005,Yes,RadioSingle
+Advanced ,Advanced1 ,Grammar ,a1gpp1t,a1gpp1t001, will he be staying|'ll have just come ,comboBox
+Advanced ,Advanced1 ,Grammar ,a1gpp1t,a1gpp1t002, will be getting|will have known,comboBox
+Advanced ,Advanced1 ,Grammar ,a1gpp1t,a1gpp1t003, 'll be feeling|'ll have been,DragAndDropMultiple
+Advanced ,Advanced1 ,Grammar ,a1gpp1t,a1gpp1t004, to have become|to be turned up,comboBox
+Advanced ,Advanced1 ,Grammar ,a1gpp1t,a1gpp1t005, to have had|to be searched,comboBox
+Advanced ,Advanced1 ,Grammar ,a1gpp1t,a1gpp1t006, to have influenced|to be informed,comboBox
+Advanced ,Advanced1 ,Grammar ,a1gpp1t,a1gpp1t007, put|it|off ,DragAndDropMultiple
+Advanced ,Advanced1 ,Grammar ,a1gpp1t,a1gpp1t008, talk|it|over ,DragAndDropMultiple
+Advanced ,Advanced1 ,Grammar ,a1gpp1t,a1gpp1t009, now that,DragAndDropMultiple
+Advanced ,Advanced1 ,Grammar ,a1gpp1t,a1gpp1t010, such fun,DragAndDropMultiple
+Advanced ,Advanced2,Reading ,a2rap1t,a2rap1t001,They want an investigation before the cleanup.|a Delray representative|It is responsible for contaminating the environment.,RadioMultiple
+Advanced ,Advanced2,Reading ,a2rap1t,a2rap1t001,FALSE|TRUE|FALSE,RadioMultiple
+Advanced ,Advanced2,Listening ,a2ltp1t,a2ltp1t001,to retrace an Ancestor's path,RadioSingle
+Advanced ,Advanced2,Listening ,a2ltp1t,a2ltp1t002,a long walk across the desert,RadioSingle
+Advanced ,Advanced2,Listening ,a2ltp1t,a2ltp1t003,They are united,RadioSingle
+Advanced ,Advanced2,Listening ,a2ltp1t,a2ltp1t004,TRUE,RadioSingle
+Advanced ,Advanced2,Listening ,a2ltp1t,a2ltp1t005,FALSE,RadioSingle
+Advanced ,Advanced2,Grammar,a2gpp1t,a2gpp1t001, in spite of|provided that,comboBox
+Advanced ,Advanced2,Grammar,a2gpp1t,a2gpp1t002, in case,DragAndDropMultiple
+Advanced ,Advanced2,Grammar,a2gpp1t,a2gpp1t003, seeing that,DragAndDropMultiple
+Advanced ,Advanced2,Grammar,a2gpp1t,a2gpp1t004, It was|you'd better,comboBox
+Advanced ,Advanced2,Grammar,a2gpp1t,a2gpp1t005, You'd better make|I'd rather not,comboBox
+Advanced ,Advanced2,Grammar,a2gpp1t,a2gpp1t006, short|blue|leather|skirt,DragAndDropMultiple
+Advanced ,Advanced2,Grammar,a2gpp1t,a2gpp1t007, wouldn't|would|would ,comboBox
+Advanced ,Advanced2,Grammar,a2gpp1t,a2gpp1t008, will|won't,DragAndDropMultiple
+Advanced ,Advanced2,Grammar,a2gpp1t,a2gpp1t009, amazing|was amazed,DragAndDropMultiple
+Advanced ,Advanced2,Grammar,a2gpp1t,a2gpp1t010, interested|interesting,DragAndDropMultiple
+Advanced ,Advanced3,Reading,a3rlp1t,a3rlp1t001,by questionnaires in the mail,RadioSingle
+Advanced ,Advanced3,Reading,a3rlp1t,a3rlp1t002,will also benefit them.,RadioSingle
+Advanced ,Advanced3,Reading,a3rlp1t,a3rlp1t003,TRUE,RadioSingle
+Advanced ,Advanced3,Reading,a3rlp1t,a3rlp1t004,FALSE,RadioSingle
+Advanced ,Advanced3,Reading,a3rlp1t,a3rlp1t005,procrastinate,RadioSingle
+Advanced ,Advanced3,Listening,a3lap1t,a3lap1t001,Brendon for Gerald,RadioSingle
+Advanced ,Advanced3,Listening,a3lap1t,a3lap1t002,It's in a decline.,RadioSingle
+Advanced ,Advanced3,Listening,a3lap1t,a3lap1t003,to send baskets of fruit to the companies they work with,RadioSingle
+Advanced ,Advanced3,Listening,a3lap1t,a3lap1t004,TRUE,RadioSingle
+Advanced ,Advanced3,Listening,a3lap1t,a3lap1t005,FALSE,RadioSingle
+Advanced ,Advanced3,Grammar ,a3gpp1t,a3gpp1t001, for|so sick that,DragAndDropMultiple
+Advanced ,Advanced3,Grammar ,a3gpp1t,a3gpp1t002, on|so hard that,comboBox
+Advanced ,Advanced3,Grammar ,a3gpp1t,a3gpp1t003, Such|so|in ,comboBox
+Advanced ,Advanced3,Grammar ,a3gpp1t,a3gpp1t004,such|so  ,DragAndDropMultiple
+Advanced ,Advanced3,Grammar ,a3gpp1t,a3gpp1t005, to have achieved|only to suffer ,comboBox
+Advanced ,Advanced3,Grammar ,a3gpp1t,a3gpp1t006, to mail|to take,comboBox
+Advanced ,Advanced3,Grammar ,a3gpp1t,a3gpp1t007, Neither of ,DragAndDropMultiple
+Advanced ,Advanced3,Grammar ,a3gpp1t,a3gpp1t008, have,DragAndDropMultiple
+Advanced ,Advanced3,Grammar ,a3gpp1t,a3gpp1t009, meet,DragAndDropMultiple
+Advanced ,Advanced3,Grammar ,a3gpp1t,a3gpp1t010, stopped,DragAndDropMultiple
+Intermediate ,Intermediate2new,Reading,i2rnp1t,i2rnp1t001,New Town has joined an ecology program.|in cities and towns throughout the U.S.|to encourage recycling,RadioMultiple
+Intermediate ,Intermediate2new,Reading,i2rnp1t,i2rnp1t002,Citizens|garbage|paper|recycling,DragAndDropMultiple

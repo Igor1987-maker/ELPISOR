@@ -1,0 +1,537 @@
+Basic	Basic1	Reading	B1RAPET	B1RAPET001	TRUE	RadioSingle
+Basic	Basic1	Reading	B1RAPET	B1RAPET003	TRUE	RadioSingle
+Basic	Basic1	Reading	B1RAPET	B1RAPET004	Tuesday evening at eight o'clock.	RadioSingle
+Basic	Basic1	Reading	B1RAPET	B1RAPET005	2 dollars for a 5-year-old child.	RadioSingle
+Basic	Basic1	Reading	B1RAPET	B1RAPET006	FALSE	RadioSingle
+Basic	Basic1	Listening	b1ltp1t	b1ltp1t001	bus	DragAndDropMultiple
+Basic	Basic1	Listening	b1ltp1t	b1ltp1t002	FALSE	RadioSingle
+Basic	Basic1	Listening	b1ltp1t	b1ltp1t003	FALSE	RadioSingle
+Basic	Basic1	Listening	b1ltp1t	b1ltp1t004	FALSE	RadioSingle
+Basic	Basic1	Listening	b1ltp1t	b1ltp1t005	it's not.	RadioSingle
+Basic	Basic1	Grammar	b1gpp1t	b1gpp1t001	is|are	comboBox
+Basic	Basic1	Grammar	b1gpp1t	b1gpp1t002	am|is	comboBox
+Basic	Basic1	Grammar	b1gpp1t	b1gpp1t003	 's|ries|es	comboBox
+Basic	Basic1	Grammar	b1gpp1t	b1gpp1t004	There are	DragAndDropMultiple
+Basic	Basic1	Grammar	b1gpp1t	b1gpp1t005	is sleeping on the chair	DragAndDropMultiple
+Basic	Basic1	Grammar	b1gpp1t	b1gpp1t006	is buying	DragAndDropMultiple
+Basic	Basic1	Grammar	b1gpp1t	b1gpp1t007	ming|are watching	comboBox
+Basic	Basic1	Grammar	b1gpp1t	b1gpp1t008	're giving|Are you coming|ying	comboBox
+Basic	Basic1	Grammar	b1gpp1t	b1gpp1t009	am not studying	DragAndDropMultiple
+Basic	Basic1	Grammar	b1gpp1t	b1gpp1t010	yours	DragAndDropMultiple
+Basic	Basic2	Reading	b2rsp1t	b2rsp1t001	My Interesting Neighborhood	DragAndDropMultiple
+Basic	Basic2	Reading	b2rsp1t	b2rsp1t002	She lives on a quiet street with interesting neighbors.	RadioSingle
+Basic	Basic2	Reading	b2rsp1t	b2rsp1t003	He works at night.	RadioSingle
+Basic	Basic2	Reading	b2rsp1t	b2rsp1t004	Paulo Guzman	RadioSingle
+Basic	Basic2	Reading	b2rsp1t	b2rsp1t005	cars	RadioSingle
+Basic	Basic2	Listening	b2lrp1t	b2lrp1t001	FALSE	RadioSingle
+Basic	Basic2	Listening	b2lrp1t	b2lrp1t002	It's in Washington	RadioSingle
+Basic	Basic2	Listening	b2lrp1t	b2lrp1t003	They were in their rooms.	RadioSingle
+Basic	Basic2	Listening	b2lrp1t	b2lrp1t004	the hotel receptionist	RadioSingle
+Basic	Basic2	Listening	b2lrp1t	b2lrp1t005	The firemen worked very hard.	RadioSingle
+Basic	Basic2	Grammar	b2gpp1t	b2gpp1t001	Why|was|David|wasn't	DragAndDropMultiple
+Basic	Basic2	Grammar	b2gpp1t	b2gpp1t002	He's taking|He doesn't usually take	DragAndDropMultiple
+Basic	Basic2	Grammar	b2gpp1t	b2gpp1t003	does she want|She's looking for	comboBox
+Basic	Basic2	Grammar	b2gpp1t	b2gpp1t004	hear|is coming	comboBox
+Basic	Basic2	Grammar	b2gpp1t	b2gpp1t005	She's going|She goes	DragAndDropMultiple
+Basic	Basic2	Grammar	b2gpp1t	b2gpp1t006	Where were|was	comboBox
+Basic	Basic2	Grammar	b2gpp1t	b2gpp1t007	didn't swim|sat	comboBox
+Basic	Basic2	Grammar	b2gpp1t	b2gpp1t008	fell	DragAndDropMultiple
+Basic	Basic2	Grammar	b2gpp1t	b2gpp1t009	do you have to|may	comboBox
+Basic	Basic2	Grammar	b2gpp1t	b2gpp1t010	May|Can	comboBox
+Basic	Basic2	Grammar	b2gpp1t	b2gpp1t011	any|a little	comboBox
+Basic	Basic2	Grammar	b2gpp1t	b2gpp1t012	Is|some	comboBox
+Basic	Basic3	Reading	b3rap1t	b3rap1t001	a factory	DragAndDropMultiple
+Basic	Basic3	Reading	b3rap1t		she worked hard	DragAndDropMultiple
+Basic	Basic3	Reading	b3rap1t		factory	RadioSingle
+Basic	Basic3	Reading	b3rap1t	b3rap1t004	A Businesswoman's Success	DragAndDropMultiple
+Basic	Basic3	Reading	b3rap1t	b3rap1t005	FALSE	RadioSingle
+Basic	Basic3	Listening	b3ltp1t	b3ltp1t001	He's on the trip for business.	RadioSingle
+Basic	Basic3	Listening	b3ltp1t	b3ltp1t002	He waited in the airport.	RadioSingle
+Basic	Basic3	Listening	b3ltp1t	b3ltp1t003	John only has a briefcase with him	comboBox
+Basic	Basic3	Listening	b3ltp1t	b3ltp1t004	FALSE	RadioSingle
+Basic	Basic3	Listening	b3ltp1t	b3ltp1t005	He ate on the plane.	RadioSingle
+Basic	Basic3	Grammar	b3gpp1t	b3gpp1t001	more cheaply|sooner	comboBox
+Basic	Basic3	Grammar	b3gpp1t	b3gpp1t002	it's going to snow|I'll be|won't	comboBox
+Basic	Basic3	Grammar	b3gpp1t	b3gpp1t003	Are you eating|are going	DragAndDropMultiple
+Basic	Basic3	Grammar	b3gpp1t	b3gpp1t004	looking at|giving	comboBox
+Basic	Basic3	Grammar	b3gpp1t	b3gpp1t005	ordering|for asking	DragAndDropMultiple
+Basic	Basic3	Grammar	b3gpp1t	b3gpp1t006	the man to tell|to discuss	comboBox
+Basic	Basic3	Grammar	b3gpp1t	b3gpp1t007	to go|to study	DragAndDropMultiple
+Basic	Basic3	Grammar	b3gpp1t	b3gpp1t008	had to|should	comboBox
+Basic	Basic3	Grammar	b3gpp1t	b3gpp1t009	arrived|was climbing	comboBox
+Basic	Basic3	Grammar	b3gpp1t	b3gpp1t010	didn't want to|was having|Was	comboBox
+Intermediate 	Intermediate1	Reading	i1rap1t	i1rap1t001	She can find them a date.|They answer a lot of questions about themselves.| people who answer the questions in a similar way	RadioMultiple
+Intermediate 	Intermediate1	Reading	i1rap1t	i1rap1t002	are celebrating|anniversary|tradition|get along|date	DragAndDropMultiple
+Intermediate 	Intermediate1	Listening 	i1ltp1t	i1ltp1t001	to tell him about his promotion	RadioSingle
+Intermediate 	Intermediate1	Listening 	i1ltp1t	i1ltp1t002	to get something for his cold	RadioSingle
+Intermediate 	Intermediate1	Listening 	i1ltp1t	i1ltp1t003	since that morning	DragAndDropMultiple
+Intermediate 	Intermediate1	Listening 	i1ltp1t	i1ltp1t004	FALSE	RadioSingle
+Intermediate 	Intermediate1	Listening 	i1ltp1t	i1ltp1t005	TRUE	RadioSingle
+Intermediate 	Intermediate1	Grammar 	i1gpp1t	i1gpp1t001	who gave|who	comboBox
+Intermediate 	Intermediate1	Grammar 	i1gpp1t	i1gpp1t002	I could afford|that|Dad says 	comboBox
+Intermediate 	Intermediate1	Grammar 	i1gpp1t	i1gpp1t003	 I met|he works for	comboBox
+Intermediate 	Intermediate1	Grammar 	i1gpp1t	i1gpp1t004	 Have|ever|read|haven't	DragAndDropMultiple
+Intermediate 	Intermediate1	Grammar 	i1gpp1t	i1gpp1t005	 have been trying|for|was 	comboBox
+Intermediate 	Intermediate1	Grammar 	i1gpp1t	i1gpp1t006	 Has|begun|started 	DragAndDropMultiple
+Intermediate 	Intermediate1	Grammar 	i1gpp1t	i1gpp1t007	 haven't made|stayed  	DragAndDropMultiple
+Intermediate 	Intermediate1	Grammar 	i1gpp1t	i1gpp1t008	 was delivered|been opened  	comboBox
+Intermediate 	Intermediate1	Grammar 	i1gpp1t	i1gpp1t009	 is|sung|by	DragAndDropMultiple
+Intermediate 	Intermediate1	Grammar 	i1gpp1t	i1gpp1t010	 be ridden|is fixed	DragAndDropMultiple
+Intermediate 	Intermediate2	Reading	i2rnp1t	i2rnp1t001	New Town has joined an ecology program.|in cities and towns throughout the U.S.|to encourage recycling	RadioMultiple
+Intermediate 	Intermediate2	Reading	i2rnp1t	i2rnp1t002	Citizens|garbage|paper|recycling|successful	DragAndDropMultiple
+Intermediate 	Intermediate2	Listening 	i2ltp1t	i2ltp1t001	FALSE	RadioSingle
+Intermediate 	Intermediate2	Listening 	i2ltp1t	i2ltp1t002	because he thought that his neighbors were sleeping	RadioSingle
+Intermediate 	Intermediate2	Listening 	i2ltp1t	i2ltp1t003	FALSE	RadioSingle
+Intermediate 	Intermediate2	Listening 	i2ltp1t	i2ltp1t004	to lend him a tool	DragAndDropMultiple
+Intermediate 	Intermediate2	Listening 	i2ltp1t	i2ltp1t005	because he isn't used to the time difference	RadioSingle
+Intermediate 	Intermediate2	Grammar	i2gpp1t	i2gpp1t001	had|would 	DragAndDropMultiple
+Intermediate 	Intermediate2	Grammar	i2gpp1t	i2gpp1t002	went|wouldn't|don't	comboBox
+Intermediate 	Intermediate2	Grammar	i2gpp1t	i2gpp1t003	were|'d|'ll	DragAndDropMultiple
+Intermediate 	Intermediate2	Grammar	i2gpp1t	i2gpp1t004	 don't|didn't|wouldn't	comboBox
+Intermediate 	Intermediate2	Grammar	i2gpp1t	i2gpp1t005	 his name was|he lived	DragAndDropMultiple
+Intermediate 	Intermediate2	Grammar	i2gpp1t	i2gpp1t006	 was leaving|that	DragAndDropMultiple
+Intermediate 	Intermediate2	Grammar	i2gpp1t	i2gpp1t007	 should|would	DragAndDropMultiple
+Intermediate 	Intermediate2	Grammar	i2gpp1t	i2gpp1t008	 said they weren't|that	DragAndDropMultiple
+Intermediate 	Intermediate2	Grammar	i2gpp1t	i2gpp1t009	 delivered|to wait	DragAndDropMultiple
+Intermediate 	Intermediate2	Grammar	i2gpp1t	i2gpp1t010	 to prepare|make	DragAndDropMultiple
+Intermediate 	Intermediate3	Reading	i3rap1t	i3rap1t001	people don't want to break with tradition.	RadioSingle
+Intermediate 	Intermediate3	Reading	i3rap1t	i3rap1t002	preserving	RadioSingle
+Intermediate 	Intermediate3	Reading	i3rap1t	i3rap1t003	accomplish great things	RadioSingle
+Intermediate 	Intermediate3	Reading	i3rap1t	i3rap1t004	keep in mind	RadioSingle
+Intermediate 	Intermediate3	Reading	i3rap1t	i3rap1t005	accomplish more	RadioSingle
+Intermediate 	Intermediate3	Listening 	i3lrp1t	i3lrp1t001	Camping up north will be fun this weekend.	RadioSingle
+Intermediate 	Intermediate3	Listening 	i3lrp1t	i3lrp1t002	It probably won't rain.	RadioSingle
+Intermediate 	Intermediate3	Listening 	i3lrp1t	i3lrp1t003	They had probably wanted to go camping up north	RadioSingle
+Intermediate 	Intermediate3	Grammar	i3gpp1t	i3gpp1t001	 either|or|either	comboBox
+Intermediate 	Intermediate3	Grammar	i3gpp1t	i3gpp1t002	 not|Not only|but also	comboBox
+Intermediate 	Intermediate3	Grammar	i3gpp1t	i3gpp1t003	 had attended|would|had called	comboBox
+Intermediate 	Intermediate3	Grammar	i3gpp1t	i3gpp1t004	 had taught|wouldn't be|taken	comboBox
+Intermediate 	Intermediate3	Grammar	i3gpp1t	i3gpp1t005	 wouldn't|have|bought|had	DragAndDropMultiple
+Intermediate 	Intermediate3	Grammar	i3gpp1t	i3gpp1t006	 might have|could|they| have|fallen	DragAndDropMultiple
+Intermediate 	Intermediate3	Grammar	i3gpp1t	i3gpp1t007	 could have|should have 	comboBox
+Intermediate 	Intermediate3	Grammar	i3gpp1t	i3gpp1t008	 may have forgotten	DragAndDropMultiple
+Intermediate 	Intermediate3	Grammar	i3gpp1t	i3gpp1t009	 whose|Whatever	comboBox
+Intermediate 	Intermediate3	Grammar	i3gpp1t	i3gpp1t010	 whose 	DragAndDropMultiple
+Advanced 	Advanced1 	Reading	a1rap1t	a1rap1t001	Agriculture isn't producing food fast enough for the growing population.|so that humans will be able to live on Mars in the future	RadioMultiple
+Advanced 	Advanced1 	Reading	a1rap1t	a1rap1t002	 conditions|Medicine|an innovative	comboBox
+Advanced 	Advanced1 	Listening 	a1lap1t	a1lap1t001	a personal ad	RadioSingle
+Advanced 	Advanced1 	Listening 	a1lap1t	a1lap1t002	offensive	RadioSingle
+Advanced 	Advanced1 	Listening 	a1lap1t	a1lap1t003	send a letter and a picture.	RadioSingle
+Advanced 	Advanced1 	Listening 	a1lap1t	a1lap1t004	people who believe in organized religion	RadioSingle
+Advanced 	Advanced1 	Listening 	a1lap1t	a1lap1t005	Yes	RadioSingle
+Advanced 	Advanced1 	Grammar 	a1gpp1t	a1gpp1t001	 will he be staying|'ll have just come 	comboBox
+Advanced 	Advanced1 	Grammar 	a1gpp1t	a1gpp1t002	 will be getting|will have known	comboBox
+Advanced 	Advanced1 	Grammar 	a1gpp1t	a1gpp1t003	 'll be feeling|'ll have been	DragAndDropMultiple
+Advanced 	Advanced1 	Grammar 	a1gpp1t	a1gpp1t004	 to have become|to be turned up	comboBox
+Advanced 	Advanced1 	Grammar 	a1gpp1t	a1gpp1t005	 to have had|to be searched	comboBox
+Advanced 	Advanced1 	Grammar 	a1gpp1t	a1gpp1t006	 to have influenced|to be informed	comboBox
+Advanced 	Advanced1 	Grammar 	a1gpp1t	a1gpp1t007	 put|it|off 	DragAndDropMultiple
+Advanced 	Advanced1 	Grammar 	a1gpp1t	a1gpp1t008	 talk|it|over 	DragAndDropMultiple
+Advanced 	Advanced1 	Grammar 	a1gpp1t	a1gpp1t009	 now that	DragAndDropMultiple
+Advanced 	Advanced1 	Grammar 	a1gpp1t	a1gpp1t010	 such fun	DragAndDropMultiple
+Advanced 	Advanced2	Reading 	a2rap1t	a2rap1t001	They want an investigation before the cleanup.|a Delray representative|It is responsible for contaminating the environment.	RadioMultiple
+Advanced 	Advanced2	Reading 	a2rap1t	a2rap1t001	FALSE|TRUE|FALSE	RadioMultiple
+Advanced 	Advanced2	Listening 	a2ltp1t	a2ltp1t001	to retrace an Ancestor's path	RadioSingle
+Advanced 	Advanced2	Listening 	a2ltp1t	a2ltp1t002	a long walk across the desert	RadioSingle
+Advanced 	Advanced2	Listening 	a2ltp1t	a2ltp1t003	They are united	RadioSingle
+Advanced 	Advanced2	Listening 	a2ltp1t	a2ltp1t004	TRUE	RadioSingle
+Advanced 	Advanced2	Listening 	a2ltp1t	a2ltp1t005	FALSE	RadioSingle
+Advanced 	Advanced2	Grammar	a2gpp1t	a2gpp1t001	 in spite of|provided that	comboBox
+Advanced 	Advanced2	Grammar	a2gpp1t	a2gpp1t002	 in case	DragAndDropMultiple
+Advanced 	Advanced2	Grammar	a2gpp1t	a2gpp1t003	 seeing that	DragAndDropMultiple
+Advanced 	Advanced2	Grammar	a2gpp1t	a2gpp1t004	 It was|you'd better	comboBox
+Advanced 	Advanced2	Grammar	a2gpp1t	a2gpp1t005	 You'd better make|I'd rather not	comboBox
+Advanced 	Advanced2	Grammar	a2gpp1t	a2gpp1t006	 short|blue|leather|skirt	DragAndDropMultiple
+Advanced 	Advanced2	Grammar	a2gpp1t	a2gpp1t007	 wouldn't|would|would 	comboBox
+Advanced 	Advanced2	Grammar	a2gpp1t	a2gpp1t008	 will|won't	DragAndDropMultiple
+Advanced 	Advanced2	Grammar	a2gpp1t	a2gpp1t009	 amazing|was amazed	DragAndDropMultiple
+Advanced 	Advanced2	Grammar	a2gpp1t	a2gpp1t010	 interested|interesting	DragAndDropMultiple
+Advanced 	Advanced3	Reading	a3rlp1t	a3rlp1t001	by questionnaires in the mail	RadioSingle
+Advanced 	Advanced3	Reading	a3rlp1t	a3rlp1t002	will also benefit them.	RadioSingle
+Advanced 	Advanced3	Reading	a3rlp1t	a3rlp1t003	TRUE	RadioSingle
+Advanced 	Advanced3	Reading	a3rlp1t	a3rlp1t004	FALSE	RadioSingle
+Advanced 	Advanced3	Reading	a3rlp1t	a3rlp1t005	procrastinate	RadioSingle
+Advanced 	Advanced3	Listening	a3lap1t	a3lap1t001	Brendon for Gerald	RadioSingle
+Advanced 	Advanced3	Listening	a3lap1t	a3lap1t002	It's in a decline.	RadioSingle
+Advanced 	Advanced3	Listening	a3lap1t	a3lap1t003	to send baskets of fruit to the companies they work with	RadioSingle
+Advanced 	Advanced3	Listening	a3lap1t	a3lap1t004	TRUE	RadioSingle
+Advanced 	Advanced3	Listening	a3lap1t	a3lap1t005	FALSE	RadioSingle
+Advanced 	Advanced3	Grammar 	a3gpp1t	a3gpp1t001	 for|so sick that	DragAndDropMultiple
+Advanced 	Advanced3	Grammar 	a3gpp1t	a3gpp1t002	 on|so hard that	comboBox
+Advanced 	Advanced3	Grammar 	a3gpp1t	a3gpp1t003	 Such|so|in 	comboBox
+Advanced 	Advanced3	Grammar 	a3gpp1t	a3gpp1t004	such|so  	DragAndDropMultiple
+Advanced 	Advanced3	Grammar 	a3gpp1t	a3gpp1t005	 to have achieved|only to suffer 	comboBox
+Advanced 	Advanced3	Grammar 	a3gpp1t	a3gpp1t006	 to mail|to take	comboBox
+Advanced 	Advanced3	Grammar 	a3gpp1t	a3gpp1t007	 Neither of 	DragAndDropMultiple
+Advanced 	Advanced3	Grammar 	a3gpp1t	a3gpp1t008	 have	DragAndDropMultiple
+Advanced 	Advanced3	Grammar 	a3gpp1t	a3gpp1t009	 meet	DragAndDropMultiple
+Advanced 	Advanced3	Grammar 	a3gpp1t	a3gpp1t010	 stopped	DragAndDropMultiple
+Intermediate 	Intermediate2new	Reading	i2rnp1t	i2rnp1t001	New Town has joined an ecology program.|in cities and towns throughout the U.S.|to encourage recycling	RadioMultiple
+Intermediate 	Intermediate2new	Reading	i2rnp1t	i2rnp1t002	Citizens|garbage|paper|recycling	DragAndDropMultiple
+Basic	Basic1	Reading	b1ralm	b1ralmt001	chicken and fish	DragAndDropMultiple
+Basic	Basic1	Reading	b1ralm	b1ralmt002	Americans	RadioSingle
+Basic	Basic1	Reading	b1ralm	b1ralmt003	Americans are trying to be healthy.	RadioSingle
+Basic	Basic1	Reading	b1ralm	b1ralmt004	They are exercising.	RadioSingle
+Basic	Basic1	Listening	b1lrsp	b1lrspt001	5	RadioSingle
+Basic	Basic1	Listening	b1lrsp	b1lrspt002	FALSE	RadioSingle
+Basic	Basic1	Listening	b1lrsp	b1lrspt003	TRUE	RadioSingle
+Basic	Basic1	Listening	b1lrsp	b1lrspt004	Johnson is a good player	DragAndDropMultiple
+Basic	Basic1	Grammar	b1gpal	b1gpalt001	What are the boys doing|Are they listening|they aren't listening	DragAndDropMultiple
+Basic	Basic1	Grammar	b1gpal	b1gpalt002	When are you going|taking|Are you going	DragAndDropMultiple
+Basic	Basic1	Grammar	b1gpal	b1gpalt003	ming|are watching	comboBox
+Basic	Basic1	Grammar	b1gpal	b1gpalt004	What are you doing|I'm looking for Brazil on the map|you're looking	DragAndDropMultiple
+Basic	Basic1	Grammar	b1gpal	b1gpalt005	are living|is living	comboBox
+Basic	Basic1	Grammar	b1gpal	b1gpalt006	are not drinking|'re drinking	comboBox
+Basic	Basic1	Grammar	b1gpal	b1gpalt007	are not dancing|am having	comboBox
+Basic	Basic1	Grammar	b1gpal	b1gpalt008	'm going|Are you taking|'re staying	comboBox
+Basic	Basic1	Grammar	b1gpal	b1gpalt009	Are you using this telephone|am waiting	comboBox
+Basic	Basic1	Grammar	b1gpal	b1gpalt010	Are you walking to work|ing	comboBox
+Basic	Basic1	Grammar	b1gpal	b1gpalt011	Are you eating your vegetables|am eating	comboBox
+Basic	Basic1	Grammar	b1gpal	b1gpalt012	stopping|are walking	comboBox
+Basic	Basic1	Grammar	b1gpal	b1gpalt013	is not studying|is studying	comboBox
+Basic	Basic1	Grammar	b1gpal	b1gpalt014	am not listening|am listening	comboBox
+Basic	Basic1	Grammar	b1gpal	b1gpalt015	is not smiling|is thinking	comboBox
+Basic	Basic2	Reading	b2rpcm	b2rpcmt001	FALSE	RadioSingle
+Basic	Basic2	Reading	b2rpcm	b2rpcmt002	Timmy doesn't like the food.	RadioSingle
+Basic	Basic2	Reading	b2rpcm	b2rpcmt003	the sports	RadioSingle
+Basic	Basic2	Reading	b2rpcm	b2rpcmt004	He hurt his foot	RadioSingle
+Basic	Basic2	Reading	b2rpcm	b2rpcmt005	when he played soccer	RadioSingle
+Basic	Basic2	Listening	b2lrad	b2lradt001	all kinds of homes	DragAndDropMultiple
+Basic	Basic2	Listening	b2lrad	b2lradt002	They have safe apartments on quiet streets.	RadioSingle
+Basic	Basic2	Listening	b2lrad	b2lradt003	D.C	RadioSingle
+Basic	Basic2	Listening	b2lrad	b2lradt004	Maggie Jim or Bob	RadioSingle
+Basic	Basic2	Listening	b2lrad	b2lradt005	a safe quiet place to live	DragAndDropMultiple
+Basic	Basic2	Grammar	b2gpal	b2gpalt001	didn't you|I did|changed|gave	DragAndDropMultiple
+Basic	Basic2	Grammar	b2gpal	b2gpalt002	bought|did he pay|have|charged	DragAndDropMultiple
+Basic	Basic2	Grammar	b2gpal	b2gpalt003	do|invited|serve|didn't serve|gave	comboBox
+Basic	Basic2	Grammar	b2gpal	b2gpalt004	did|bring|brought	DragAndDropMultiple
+Basic	Basic2	Grammar	b2gpal	b2gpalt005	buy|paid|did|he|get	DragAndDropMultiple
+Basic	Basic2	Grammar	b2gpal	b2gpalt006	Did you sell|sold|looked	comboBox
+Basic	Basic2	Grammar	b2gpal	b2gpalt007	Did you enjoy|didn't send	comboBox
+Basic	Basic2	Grammar	b2gpal	b2gpalt008	did|you|get|stood|came	DragAndDropMultiple
+Basic	Basic2	Grammar	b2gpal	b2gpalt009	went|ran|played	DragAndDropMultiple
+Basic	Basic2	Grammar	b2gpal	b2gpalt010	did|find out|didn't tell|told	DragAndDropMultiple
+Basic	Basic3	Reading	b3rdat	b3rdatt001	8:00	DragAndDropMultiple
+Basic	Basic3	Reading	b3rdat	b3rdatt002	There aren't any ushers.	RadioSingle
+Basic	Basic3	Reading	b3rdat	b3rdatt003	FALSE	RadioSingle
+Basic	Basic3	Reading	b3rdat	b3rdatt004	latest	DragAndDropMultiple
+Basic	Basic3	Reading	b3rdat	b3rdatt005	Everyone is tired of movies.	RadioSingle
+Basic	Basic3	Listening	b3lasa	b3lasat001	FALSE	RadioSingle
+Basic	Basic3	Listening	b3lasa	b3lasat002	five	DragAndDropMultiple
+Basic	Basic3	Listening	b3lasa	b3lasat003	a teenager	DragAndDropMultiple
+Basic	Basic3	Listening	b3lasa	b3lasat004	Employees get paid extra if they work overtime.	RadioSingle
+Basic	Basic3	Listening	b3lasa	b3lasat005	Yes	RadioSingle
+Basic	Basic3	Grammar	b3gpal	b3gpalt001	was changing|rang	comboBox
+Basic	Basic3	Grammar	b3gpal	b3gpalt002	arrived|was climbing	comboBox
+Basic	Basic3	Grammar	b3gpal	b3gpalt003	were you standing|was beginning	comboBox
+Basic	Basic3	Grammar	b3gpal	b3gpalt004	were working|was relaxing	comboBox
+Basic	Basic3	Grammar	b3gpal	b3gpalt005	didn't want to|was having|Was	comboBox
+Basic	Basic3	Grammar	b3gpal	b3gpalt006	spoke|was studying|called	comboBox
+Basic	Basic3	Grammar	b3gpal	b3gpalt007	coming|saw	DragAndDropMultiple
+Basic	Basic3	Grammar	b3gpal	b3gpalt008	met|was teaching|was going out	comboBox
+Basic	Basic3	Grammar	b3gpal	b3gpalt009	was dressing|was sitting	comboBox
+Basic	Basic3	Grammar	b3gpal	b3gpalt010	Were you having|weren't|were working	comboBox
+Intermediate	Intermediate1	Reading	i1raff	i1rafft001	glass	RadioSingle
+Intermediate	Intermediate1	Reading	i1raff	i1rafft002	He asks teenagers themselves.	RadioSingle
+Intermediate	Intermediate1	Reading	i1raff	i1rafft003	Fashion Fads'	RadioSingle
+Intermediate	Intermediate1	Reading	i1raff	i1rafft004	teenagers	RadioSingle
+Intermediate	Intermediate1	Reading	i1raff	i1rafft005	exported	RadioSingle
+Intermediate	Intermediate1	Listening	i1lrad	i1lradt001	for a summer vacation	RadioSingle
+Intermediate	Intermediate1	Listening	i1lrad	i1lradt002	fifty dollars for each person	RadioSingle
+Intermediate	Intermediate1	Listening	i1lrad	i1lradt003	swimming sailing and waterskiing	RadioSingle
+Intermediate	Intermediate1	Listening	i1lrad	i1lradt004	because they can make crafts and play in the gardens	RadioSingle
+Intermediate	Intermediate1	Listening	i1lrad	i1lradt005	an exciting vacation	DragAndDropMultiple
+Intermediate	Intermediate1	Grammar	i1gval	i1gvalt001	was made by|it be washed|be dry-cleaned	comboBox
+Intermediate	Intermediate1	Grammar	i1gval	i1gvalt002	has been hired|are being put up	comboBox
+Intermediate	Intermediate1	Grammar	i1gval	i1gvalt003	is|being|be sent	DragAndDropMultiple
+Intermediate	Intermediate1	Grammar	i1gval	i1gvalt004	should be built|be fixed up|could be	comboBox
+Intermediate	Intermediate1	Grammar	i1gval	i1gvalt005	were made|were left	comboBox
+Intermediate	Intermediate1	Grammar	i1gval	i1gvalt006	been warned|been stolen	comboBox
+Intermediate	Intermediate1	Grammar	i1gval	i1gvalt007	be read|be answered	comboBox
+Intermediate	Intermediate1	Grammar	i1gval	i1gvalt008	hurt|were broken|was torn	DragAndDropMultiple
+Intermediate	Intermediate1	Grammar	i1gval	i1gvalt009	be fixed|being made	comboBox
+Intermediate	Intermediate1	Grammar	i1gval	i1gvalt010	's imported|was made|'re sold	comboBox
+Intermediate	Intermediate2	Reading	i2rsav	i2rsavt001	board	RadioSingle
+Intermediate	Intermediate2	Reading	i2rsav	i2rsavt002	stay home	RadioSingle
+Intermediate	Intermediate2	Reading	i2rsav	i2rsavt003	TRUE	RadioSingle
+Intermediate	Intermediate2	Reading	i2rsav	i2rsavt004	decided	RadioSingle
+Intermediate	Intermediate2	Reading	i2rsav	i2rsavt005	taking a vacation	RadioSingle
+Intermediate	Intermediate2	Listening	i2labu	i2labut001	We don't know.	RadioSingle
+Intermediate	Intermediate2	Listening	i2labu	i2labut002	He is in charge of the guards on duty.	RadioSingle
+Intermediate	Intermediate2	Listening	i2labu	i2labut003	John is the best coordinator they have.	RadioSingle
+Intermediate	Intermediate2	Listening	i2labu	i2labut004	FALSE	RadioSingle
+Intermediate	Intermediate2	Listening	i2labu	i2labut005	He didn't know about them until now.	RadioSingle
+Intermediate	Intermediate2	Grammar	i2gcal	i2gcalt001	are looking|spoke|'d	comboBox
+Intermediate	Intermediate2	Grammar	i2gcal	i2gcalt002	would|Would|saw	DragAndDropMultiple
+Intermediate	Intermediate2	Grammar	i2gcal	i2gcalt003	will|can|won't|can be	DragAndDropMultiple
+Intermediate	Intermediate2	Grammar	i2gcal	i2gcalt004	were|'d|'ll	DragAndDropMultiple
+Intermediate	Intermediate2	Grammar	i2gcal	i2gcalt005	're|didn't|'d	DragAndDropMultiple
+Intermediate	Intermediate2	Grammar	i2gcal	i2gcalt006	weren't|'re|'ll	DragAndDropMultiple
+Intermediate	Intermediate2	Grammar	i2gcal	i2gcalt007	is|wouldn't|weren't	DragAndDropMultiple
+Intermediate	Intermediate2	Grammar	i2gcal	i2gcalt008	'll|finish	DragAndDropMultiple
+Intermediate	Intermediate2	Grammar	i2gcal	i2gcalt009	had|would	DragAndDropMultiple
+Intermediate	Intermediate2	Grammar	i2gcal	i2gcalt010	can't|wouldn't|had	DragAndDropMultiple
+Intermediate	Intermediate3	Reading	i3raab	i3raabt001	young people.	RadioSingle
+Intermediate	Intermediate3	Reading	i3raab	i3raabt002	convince	RadioSingle
+Intermediate	Intermediate3	Reading	i3raab	i3raabt003	buying a product will not really affect social success.	RadioSingle
+Intermediate	Intermediate3	Reading	i3raab	i3raabt004	not to be too influenced by commercials.	RadioSingle
+Intermediate	Intermediate3	Reading	i3raab	i3raabt005	TRUE	RadioSingle
+Intermediate	Intermediate3	Listening	i3lafr	i3lafrt001	Jen and Fran	RadioSingle
+Intermediate	Intermediate3	Listening	i3lafr	i3lafrt002	They decided to go at the last minute.	RadioSingle
+Intermediate	Intermediate3	Listening	i3lafr	i3lafrt003	far away from other places.	RadioSingle
+Intermediate	Intermediate3	Listening	i3lafr	i3lafrt004	FALSE	RadioSingle
+Intermediate	Intermediate3	Listening	i3lafr	i3lafrt005	We don't know	RadioSingle
+Intermediate	Intermediate3	Grammar	i3gral	i3gralt001	which|where	comboBox
+Intermediate	Intermediate3	Grammar	i3gral	i3gralt002	which I regret|whenever	comboBox
+Intermediate	Intermediate3	Grammar	i3gral	i3gralt003	which|wherever	DragAndDropMultiple
+Intermediate	Intermediate3	Grammar	i3gral	i3gralt004	where|wherever	DragAndDropMultiple
+Intermediate	Intermediate3	Grammar	i3gral	i3gralt005	where| which	DragAndDropMultiple
+Intermediate	Intermediate3	Grammar	i3gral	i3gralt006	who|whenever	DragAndDropMultiple
+Intermediate	Intermediate3	Grammar	i3gral	i3gralt007	where|Wherever	DragAndDropMultiple
+Intermediate	Intermediate3	Grammar	i3gral	i3gralt008	which|where	DragAndDropMultiple
+Intermediate	Intermediate3	Grammar	i3gral	i3gralt009	whose|wherever	DragAndDropMultiple
+Intermediate	Intermediate3	Grammar	i3gral	i3gralt010	where|whatever	DragAndDropMultiple
+Advanced	Advanced1	Reading	a1rltt	a1rlttt001	space travel	RadioSingle
+Advanced	Advanced1	Reading	a1rltt	a1rlttt002	drastic	RadioSingle
+Advanced	Advanced1	Reading	a1rltt	a1rlttt003	"Space Travel Is Worthwhile."""""	RadioSingle
+Advanced	Advanced1	Reading	a1rltt	a1rlttt004	TRUE	RadioSingle
+Advanced	Advanced1	Reading	a1rltt	a1rlttt005	TRUE	RadioSingle
+Advanced	Advanced1	Listening	a1lrwe	a1lrwet001	was not a lot of rain.	RadioSingle
+Advanced	Advanced1	Listening	a1lrwe	a1lrwet002	FALSE	RadioSingle
+Advanced	Advanced1	Listening	a1lrwe	a1lrwet003	thirty-five inches	RadioSingle
+Advanced	Advanced1	Listening	a1lrwe	a1lrwet004	to conserve water	RadioSingle
+Advanced	Advanced1	Listening	a1lrwe	a1lrwet005	The water crisis may soon be over.	RadioSingle
+Advanced	Advanced1	Grammar	a1gfal	a1gfalt001	will be moving|he'll have forgotten	comboBox
+Advanced	Advanced1	Grammar	a1gfal	a1gfalt002	'll be getting|'ll have saved	DragAndDropMultiple
+Advanced	Advanced1	Grammar	a1gfal	a1gfalt003	will have|will be	DragAndDropMultiple
+Advanced	Advanced1	Grammar	a1gfal	a1gfalt004	will have been chosen|will be running	comboBox
+Advanced	Advanced1	Grammar	a1gfal	a1gfalt005	be performing|have heard of	DragAndDropMultiple
+Advanced	Advanced1	Grammar	a1gfal	a1gfalt006	won't be sleeping|'ll have been fired	DragAndDropMultiple
+Advanced	Advanced1	Grammar	a1gfal	a1gfalt007	will be lying|'ll have forgotten	DragAndDropMultiple
+Advanced	Advanced1	Grammar	a1gfal	a1gfalt008	won't have left|will be dating	DragAndDropMultiple
+Advanced	Advanced1	Grammar	a1gfal	a1gfalt009	'll be feeling|'ll have been	DragAndDropMultiple
+Advanced	Advanced1	Grammar	a1gfal	a1gfalt010	'll be watching|'ll have set	DragAndDropMultiple
+Advanced	Advanced2	Reading	a2rltt	a2rlttt001	reflects political reality.	RadioSingle
+Advanced	Advanced2	Reading	a2rltt	a2rlttt002	thinks corruption can't be justified.	RadioSingle
+Advanced	Advanced2	Reading	a2rltt	a2rlttt003	TRUE	RadioSingle
+Advanced	Advanced2	Reading	a2rltt	a2rlttt004	take into account	RadioSingle
+Advanced	Advanced2	Reading	a2rltt	a2rlttt005	"Don't Justify Morris's Crime!"""""	RadioSingle
+Advanced	Advanced2	Listening	a2lafa	a2lafat001	she had the flu.	RadioSingle
+Advanced	Advanced2	Listening	a2lafa	a2lafat002	she had taken some aspirin.	RadioSingle
+Advanced	Advanced2	Listening	a2lafa	a2lafat003	cancel their date for the evening.	RadioSingle
+Advanced	Advanced2	Listening	a2lafa	a2lafat004	FALSE	RadioSingle
+Advanced	Advanced2	Listening	a2lafa	a2lafat005	she might catch the flu.	RadioSingle
+Advanced	Advanced2	Grammar	a2geal	a2gealt001	I'd rather|there isn't	comboBox
+Advanced	Advanced2	Grammar	a2geal	a2gealt002	It's|to do|She'd	comboBox
+Advanced	Advanced2	Grammar	a2geal	a2gealt003	they'd better|made	comboBox
+Advanced	Advanced2	Grammar	a2geal	a2gealt004	It looks|do	DragAndDropMultiple
+Advanced	Advanced2	Grammar	a2geal	a2gealt005	did|It was	DragAndDropMultiple
+Advanced	Advanced2	Grammar	a2geal	a2gealt006	do|Make	comboBox
+Advanced	Advanced2	Grammar	a2geal	a2gealt007	You'd better|It doesn't	comboBox
+Advanced	Advanced2	Grammar	a2geal	a2gealt008	She'd|It's	comboBox
+Advanced	Advanced2	Grammar	a2geal	a2gealt009	There are|do	comboBox
+Advanced	Advanced2	Grammar	a2geal	a2gealt010	made|there was	comboBox
+Advanced	Advanced2	Grammar	a2geal	a2gealt011	huge|round|black|metal|sculpture	DragAndDropMultiple
+Advanced	Advanced2	Grammar	a2geal	a2gealt012	done up|big|bright|orange	DragAndDropMultiple
+Advanced	Advanced2	Grammar	a2geal	a2gealt013	do|Hadn't we better	DragAndDropMultiple
+Advanced	Advanced2	Grammar	a2geal	a2gealt014	There's|It's	DragAndDropMultiple
+Advanced	Advanced2	Grammar	a2geal	a2gealt015	do|better	DragAndDropMultiple
+Advanced	Advanced3	Reading	a3raou	a3raout001	transforming an old neighborhood to make it more exclusive.	RadioSingle
+Advanced	Advanced3	Reading	a3raou	a3raout002	something they have a right to.	RadioSingle
+Advanced	Advanced3	Reading	a3raou	a3raout003	fundamental	RadioSingle
+Advanced	Advanced3	Reading	a3raou	a3raout004	that gentrification is a positive thing.	RadioSingle
+Advanced	Advanced3	Reading	a3raou	a3raout005	people moving from the suburbs to the city	RadioSingle
+Advanced	Advanced3	Listening	a3lrwe	a3lrwet001	a camping trip	RadioSingle
+Advanced	Advanced3	Listening	a3lrwe	a3lrwet002	FALSE	RadioSingle
+Advanced	Advanced3	Listening	a3lrwe	a3lrwet004	FALSE	RadioSingle
+Advanced	Advanced3	Listening	a3lrwe	a3lrwet003	he's afraid of getting lost.	RadioSingle
+Advanced	Advanced3	Listening	a3lrwe	a3lrwet005	hunt	RadioSingle
+Advanced	Advanced3	Grammar	a3geal	a3gealt001	so|for	DragAndDropMultiple
+Advanced	Advanced3	Grammar	a3geal	a3gealt002	such a|on	DragAndDropMultiple
+Advanced	Advanced3	Grammar	a3geal	a3gealt003	such|with	DragAndDropMultiple
+Advanced	Advanced3	Grammar	a3geal	a3gealt004	mind|so	DragAndDropMultiple
+Advanced	Advanced3	Grammar	a3geal	a3gealt005	with|Such	DragAndDropMultiple
+Advanced	Advanced3	Grammar	a3geal	a3gealt006	for|so sick that	DragAndDropMultiple
+Advanced	Advanced3	Grammar	a3geal	a3gealt007	on|so hard that	comboBox
+Advanced	Advanced3	Grammar	a3geal	a3gealt008	such|about	comboBox
+Advanced	Advanced3	Grammar	a3geal	a3gealt009	Would you like|so kind	comboBox
+Advanced	Advanced3	Grammar	a3geal	a3gealt010	Such|so|in	comboBox
+Advanced	Advanced3	Grammar	a3geal	a3gealt011	so silly that|about	comboBox
+Advanced	Advanced3	Grammar	a3geal	a3gealt012	such a beautiful|read	comboBox
+Advanced	Advanced3	Grammar	a3geal	a3gealt013	sang|ate|so excited	comboBox
+Advanced	Advanced3	Grammar	a3geal	a3gealt014	mind|from	DragAndDropMultiple
+Advanced	Advanced3	Grammar	a3geal	a3gealt015	such|so	DragAndDropMultiple
+Basic	Basic1	Reading	b1ramm	b1rammt001	FALSE	RadioSingle
+Basic	Basic1	Reading	b1ramm	b1rammt002	$126 	DragAndDropMultiple
+Basic	Basic1	Reading	b1ramm	b1rammt003	We don't know.	RadioSingle
+Basic	Basic1	Reading	b1ramm	b1rammt004	no one knows	RadioSingle
+Basic	Basic1	Reading	b1ramm	b1rammt005	the computers	RadioSingle
+Basic	Basic1	Listening	b1lrwe	b1lrwet001	warm	DragAndDropMultiple
+Basic	Basic1	Listening	b1lrwe	b1lrwet002	FALSE	RadioSingle
+Basic	Basic1	Listening	b1lrwe	b1lrwet003	FALSE	RadioSingle
+Basic	Basic1	Listening	b1lrwe	b1lrwet004	this afternoon	DragAndDropMultiple
+Basic	Basic1	Grammar	b1gral	b1gralt001	my|She|Her|her	DragAndDropMultiple
+Basic	Basic1	Grammar	b1gral	b1gralt002	I|her|she	DragAndDropMultiple
+Basic	Basic1	Grammar	b1gral	b1gralt003	your|My|you|me	DragAndDropMultiple
+Basic	Basic1	Grammar	b1gral	b1gralt004	She|you|I|her	DragAndDropMultiple
+Basic	Basic1	Grammar	b1gral	b1gralt005	your|my|it	comboBox
+Basic	Basic2	Reading	b2rdmm	b2rdmmt001	"Great Bargains at Mad Mo's"""""	RadioSingle
+Basic	Basic2	Reading	b2rdmm	b2rdmmt002	TRUE	RadioSingle
+Basic	Basic2	Reading	b2rdmm	b2rdmmt003	the customer's	RadioSingle
+Basic	Basic2	Reading	b2rdmm	b2rdmmt004	suitcases	RadioSingle
+Basic	Basic2	Reading	b2rdmm	b2rdmmt005	They are ninety-nine dollars.	RadioSingle
+Basic	Basic2	Listening	b2lrnw	b2lrnwt001	FALSE	RadioSingle
+Basic	Basic2	Listening	b2lrnw	b2lrnwt002	"It's in Washington, D.C."	RadioSingle
+Basic	Basic2	Listening	b2lrnw	b2lrnwt003	They were in their rooms.	RadioSingle
+Basic	Basic2	Listening	b2lrnw	b2lrnwt004	the hotel receptionist	RadioSingle
+Basic	Basic2	Listening	b2lrnw	b2lrnwt005	The firefighters worked very hard.	RadioSingle
+Basic	Basic2	Grammar	b2grvs	b2grvst001	She's going|She goes	DragAndDropMultiple
+Basic	Basic2	Grammar	b2grvs	b2grvst002	I'm doing|I don't	comboBox
+Basic	Basic2	Grammar	b2grvs	b2grvst003	love|am writing	DragAndDropMultiple
+Basic	Basic2	Grammar	b2grvs	b2grvst004	are you saying|do you mean	comboBox
+Basic	Basic2	Grammar	b2grvs	b2grvst005	is he wearing|teaches|wears	DragAndDropMultiple
+Basic	Basic3	Reading	b3rapa	b3rapat001	a hot dog	DragAndDropMultiple
+Basic	Basic3	Reading	b3rapa	b3rapat002	angry	DragAndDropMultiple
+Basic	Basic3	Reading	b3rapa	b3rapat003	October 31st	RadioSingle
+Basic	Basic3	Reading	b3rapa	b3rapat004	Johnny Troublemaker	RadioSingle
+Basic	Basic3	Reading	b3rapa	b3rapat005	"Brixton Catches Troublemaker"""""	RadioSingle
+Basic	Basic3	Listening	b3lrci	b3lrcit001	to give their opinion	RadioSingle
+Basic	Basic3	Listening	b3lrci	b3lrcit002	FALSE	RadioSingle
+Basic	Basic3	Listening	b3lrci	b3lrcit003	give less homework	RadioSingle
+Basic	Basic3	Listening	b3lrci	b3lrcit004	He stays up late doing homework.	RadioSingle
+Basic	Basic3	Listening	b3lrci	b3lrcit005	homework	DragAndDropMultiple
+Basic	Basic3	Grammar	b3gmal	b3gmalt001	wasn't able to|had to	DragAndDropMultiple
+Basic	Basic3	Grammar	b3gmal	b3gmalt002	had to|must	comboBox
+Basic	Basic3	Grammar	b3gmal	b3gmalt003	should|mustn't	DragAndDropMultiple
+Basic	Basic3	Grammar	b3gmal	b3gmalt004	wasn't able to|had to	DragAndDropMultiple
+Basic	Basic3	Grammar	b3gmal	b3gmalt005	was|wasn't	DragAndDropMultiple
+Basic	Basic3	Grammar	b3gmal	b3gmalt006	had to|wasn't able to	comboBox
+Basic	Basic3	Grammar	b3gmal	b3gmalt007	don't have to|mustn't	DragAndDropMultiple
+Basic	Basic3	Grammar	b3gmal	b3gmalt008	shouldn't|should	comboBox
+Basic	Basic3	Grammar	b3gmal	b3gmalt009	shouldn't|be able to	DragAndDropMultiple
+Basic	Basic3	Grammar	b3gmal	b3gmalt010	mustn't|should	comboBox
+Basic	Basic3	Grammar	b3gmal	b3gmalt011	didn't have to|were able to	DragAndDropMultiple
+Basic	Basic3	Grammar	b3gmal	b3gmalt012	wasn't able to|had to	comboBox
+Basic	Basic3	Grammar	b3gmal	b3gmalt013	must|should	comboBox
+Basic	Basic3	Grammar	b3gmal	b3gmalt014	must|should	DragAndDropMultiple
+Basic	Basic3	Grammar	b3gmal	b3gmalt015	mustn't|will be able to	DragAndDropMultiple
+Intermediate	Intermediate1	Reading	i1rnsn	i1rnsnt001	the history examination	RadioSingle
+Intermediate	Intermediate1	Reading	i1rnsn	i1rnsnt002	all the secondary school teachers	RadioSingle
+Intermediate	Intermediate1	Reading	i1rnsn	i1rnsnt003	before the history examination	RadioSingle
+Intermediate	Intermediate1	Reading	i1rnsn	i1rnsnt004	examination	RadioSingle
+Intermediate	Intermediate1	Reading	i1rnsn	i1rnsnt005	so that they will try to get similar grades	RadioSingle
+Intermediate	Intermediate1	Listening	i1lrqu	i1lrqut001	Mrs. Smith's	RadioSingle
+Intermediate	Intermediate1	Listening	i1lrqu	i1lrqut002	morning	RadioSingle
+Intermediate	Intermediate1	Listening	i1lrqu	i1lrqut003	two	RadioSingle
+Intermediate	Intermediate1	Listening	i1lrqu	i1lrqut004	a cow	RadioSingle
+Intermediate	Intermediate1	Listening	i1lrqu	i1lrqut005	this is the first prize she has ever won	DragAndDropMultiple
+Intermediate	Intermediate1	Grammar	i1gpal	i1gpalt001	has been|recently|have	comboBox
+Intermediate	Intermediate1	Grammar	i1gpal	i1gpalt002	Have|chosen|have decided	comboBox
+Intermediate	Intermediate1	Grammar	i1gpal	i1gpalt003	Have you ever fallen|ridden	comboBox
+Intermediate	Intermediate1	Grammar	i1gpal	i1gpalt004	has been|since|was	comboBox
+Intermediate	Intermediate1	Grammar	i1gpal	i1gpalt005	Has|taken|took	DragAndDropMultiple
+Intermediate	Intermediate1	Grammar	i1gpal	i1gpalt006	have been going|has been having	comboBox
+Intermediate	Intermediate1	Grammar	i1gpal	i1gpalt007	has|been|teaching|graduated	DragAndDropMultiple
+Intermediate	Intermediate1	Grammar	i1gpal	i1gpalt008	have|ever|thrown|threw	DragAndDropMultiple
+Intermediate	Intermediate1	Grammar	i1gpal	i1gpalt009	she's been crying|hit	comboBox
+Intermediate	Intermediate1	Grammar	i1gpal	i1gpalt010	broke|broken|haven't	comboBox
+Intermediate	Intermediate2	Reading	i2race	i2racet001	All of the above	RadioSingle
+Intermediate	Intermediate2	Reading	i2race	i2racet002	A Computer Expo conference organizer	RadioSingle
+Intermediate	Intermediate2	Reading	i2race	i2racet003	motion and gesture technology.	RadioSingle
+Intermediate	Intermediate2	Reading	i2race	i2racet004	Computer devices using the newest technology	RadioSingle
+Intermediate	Intermediate2	Reading	i2race	i2racet005	anyone who wants to attend.	RadioSingle
+Intermediate	Intermediate2	Listening	i2lrsp	i2lrspt001	Nigel Franklin.	RadioSingle
+Intermediate	Intermediate2	Listening	i2lrsp	i2lrspt002	injured	RadioSingle
+Intermediate	Intermediate2	Listening	i2lrsp	i2lrspt003	"It was hurt, but not seriously."	RadioSingle
+Intermediate	Intermediate2	Listening	i2lrsp	i2lrspt004	FALSE	RadioSingle
+Intermediate	Intermediate2	Listening	i2lrsp	i2lrspt005	he might have fallen off the cliff.	RadioSingle
+Intermediate	Intermediate2	Grammar	i2gpal	i2gpalt001	'd been walking|had gotten|had gone	comboBox
+Intermediate	Intermediate2	Grammar	i2gpal	i2gpalt002	had just closed|had forgotten	comboBox
+Intermediate	Intermediate2	Grammar	i2gpal	i2gpalt003	had been writing|had been sold	comboBox
+Intermediate	Intermediate2	Grammar	i2gpal	i2gpalt004	'd never been|'d been feeling|hadn't been	comboBox
+Intermediate	Intermediate2	Grammar	i2gpal	i2gpalt005	had started|hadn't been	comboBox
+Intermediate	Intermediate2	Grammar	i2gpal	i2gpalt006	hadn't been|'d been taking	comboBox
+Intermediate	Intermediate2	Grammar	i2gpal	i2gpalt007	had just stopped|had failed	comboBox
+Intermediate	Intermediate2	Grammar	i2gpal	i2gpalt008	'd felt|'d received	DragAndDropMultiple
+Intermediate	Intermediate2	Grammar	i2gpal	i2gpalt009	hadn't finished|had been ringing	comboBox
+Intermediate	Intermediate2	Grammar	i2gpal	i2gpalt010	had just dialed|'d been trying	comboBox
+Advanced	Intermediate3	Reading	i3rsmc	i3rsmct001	she didn't have enough money to go on vacation.	RadioSingle
+Advanced	Intermediate3	Reading	i3rsmc	i3rsmct002	going to Europe.	RadioSingle
+Advanced	Intermediate3	Reading	i3rsmc	i3rsmct003	scenic	RadioSingle
+Advanced	Intermediate3	Reading	i3rsmc	i3rsmct004	telling the truth about how they would spend their holiday	RadioSingle
+Advanced	Intermediate3	Reading	i3rsmc	i3rsmct005	remote	RadioSingle
+Intermediate	Intermediate3	Listening	i3lrwe	i3lrwet001	without any planning	DragAndDropMultiple
+Intermediate	Intermediate3	Listening	i3lrwe	i3lrwet002	remote	RadioSingle
+Intermediate	Intermediate3	Listening	i3lrwe	i3lrwet003	Camping up north will be fun this weekend.	RadioSingle
+Intermediate	Intermediate3	Listening	i3lrwe	i3lrwet004	It probably won't rain.	RadioSingle
+Intermediate	Intermediate3	Listening	i3lrwe	i3lrwet005	They had probably wanted to go camping up north.	RadioSingle
+Advanced	Intermediate3	Grammar	i3gpal	i3gpalt001	might not have been|should've called	comboBox
+Advanced	Intermediate3	Grammar	i3gpal	i3gpalt002	shouldn't|couldn't	DragAndDropMultiple
+Advanced	Intermediate3	Grammar	i3gpal	i3gpalt003	might have	DragAndDropMultiple
+Advanced	Intermediate3	Grammar	i3gpal	i3gpalt004	flown|had	DragAndDropMultiple
+Advanced	Intermediate3	Grammar	i3gpal	i3gpalt005	should've|might have	DragAndDropMultiple
+Advanced	Intermediate3	Grammar	i3gpal	i3gpalt006	could've|must have	DragAndDropMultiple
+Advanced	Intermediate3	Grammar	i3gpal	i3gpalt007	would have been|should've	DragAndDropMultiple
+Advanced	Intermediate3	Grammar	i3gpal	i3gpalt008	could've|must've	DragAndDropMultiple
+Advanced	Intermediate3	Grammar	i3gpal	i3gpalt009	could have	DragAndDropMultiple
+Advanced	Intermediate3	Grammar	i3gpal	i3gpalt010	shouldn't have|might not have	DragAndDropMultiple
+Advanced	Advanced1	Reading	a1rsbt	a1rsbtt001	talking more than working.	RadioSingle
+Advanced	Advanced1	Reading	a1rsbt	a1rsbtt002	manager of the Number One Branch.	RadioSingle
+Advanced	Advanced1	Reading	a1rsbt	a1rsbtt003	financial	RadioSingle
+Advanced	Advanced1	Reading	a1rsbt	a1rsbtt004	FALSE	RadioSingle
+Advanced	Advanced1	Reading	a1rsbt	a1rsbtt005	steal money.	RadioSingle
+Advanced	Advanced1	Listening	a1lrnw	a1lrnwt001	Not everyone has easy access to the Internet.	RadioSingle
+Advanced	Advanced1	Listening	a1lrnw	a1lrnwt002	"It's an innovative, computer-based employment service."	RadioSingle
+Advanced	Advanced1	Listening	a1lrnw	a1lrnwt003	whenever a new job is offered	RadioSingle
+Advanced	Advanced1	Listening	a1lrnw	a1lrnwt005	by using a computer	RadioSingle
+Advanced	Advanced1	Listening	a1lrnw	a1lrnwt004	FALSE	RadioSingle
+Advanced	Advanced1	Grammar	a1gral	a1gralt001	as long as	DragAndDropMultiple
+Advanced	Advanced1	Grammar	a1gral	a1gralt002	as long as	DragAndDropMultiple
+Advanced	Advanced1	Grammar	a1gral	a1gralt003	as long as	DragAndDropMultiple
+Advanced	Advanced1	Grammar	a1gral	a1gralt004	Now that	DragAndDropMultiple
+Advanced	Advanced1	Grammar	a1gral	a1gralt005	now that	DragAndDropMultiple
+Advanced	Advanced1	Grammar	a1gral	a1gralt006	now that	DragAndDropMultiple
+Advanced	Advanced1	Grammar	a1gral	a1gralt007	now that	DragAndDropMultiple
+Advanced	Advanced1	Grammar	a1gral	a1gralt008	Since	DragAndDropMultiple
+Advanced	Advanced1	Grammar	a1gral	a1gralt009	Since	DragAndDropMultiple
+Advanced	Advanced1	Grammar	a1gral	a1gralt010	since	DragAndDropMultiple
+Advanced	Advanced2	Reading	a2rshj	a2rshjt001	gamblers usually lose their money.	RadioSingle
+Advanced	Advanced2	Reading	a2rshj	a2rshjt002	he didn't get up and leave even though he kept losing.	RadioSingle
+Advanced	Advanced2	Reading	a2rshj	a2rshjt003	Win Some	RadioSingle
+Advanced	Advanced2	Reading	a2rshj	a2rshjt004	temptation	RadioSingle
+Advanced	Advanced2	Reading	a2rshj	a2rshjt005	donate	RadioSingle
+Advanced	Advanced2	Listening	a2lrmu	a2lrmut001	say something interesting about their professions	RadioSingle
+Advanced	Advanced2	Listening	a2lrmu	a2lrmut002	There is no reason given.	RadioSingle
+Advanced	Advanced2	Listening	a2lrmu	a2lrmut003	He tells her that she can win the album of her choice.	RadioSingle
+Advanced	Advanced2	Listening	a2lrmu	a2lrmut004	She has two jobs.	RadioSingle
+Advanced	Advanced2	Listening	a2lrmu	a2lrmut005	"Barry hangs up on the second person he calls, Joel."	RadioSingle
+Advanced	Advanced2	Grammar	a2gpal	a2gpalt001	relaxing|relaxed	DragAndDropMultiple
+Advanced	Advanced2	Grammar	a2gpal	a2gpalt002	exhausting|surprised	DragAndDropMultiple
+Advanced	Advanced2	Grammar	a2gpal	a2gpalt003	guided	DragAndDropMultiple
+Advanced	Advanced2	Grammar	a2gpal	a2gpalt004	surprised|tired	DragAndDropMultiple
+Advanced	Advanced2	Grammar	a2gpal	a2gpalt005	depressing|surprised	DragAndDropMultiple
+Advanced	Advanced2	Grammar	a2gpal	a2gpalt006	amusing	DragAndDropMultiple
+Advanced	Advanced2	Grammar	a2gpal	a2gpalt007	interested	DragAndDropMultiple
+Advanced	Advanced2	Grammar	a2gpal	a2gpalt008	reserved	DragAndDropMultiple
+Advanced	Advanced2	Grammar	a2gpal	a2gpalt009	tired	DragAndDropMultiple
+Advanced	Advanced2	Grammar	a2gpal	a2gpalt010	frightening|worn	DragAndDropMultiple
+Advanced	Advanced3	Reading	a3rajb	a3rajbt001	his wife wanted to.	RadioSingle
+Advanced	Advanced3	Reading	a3rajb	a3rajbt002	110 years old	RadioSingle
+Advanced	Advanced3	Reading	a3rajb	a3rajbt003	properly 	RadioSingle
+Advanced	Advanced3	Reading	a3rajb	a3rajbt004	the Prickly Pine Retirement Center	RadioSingle
+Advanced	Advanced3	Reading	a3rajb	a3rajbt005	TRUE	RadioSingle
+Advanced	Advanced3	Listening	a3lrqu	a3lrqut001	chemist.	RadioSingle
+Advanced	Advanced3	Listening	a3lrqu	a3lrqut002	he got very nervous.	RadioSingle
+Advanced	Advanced3	Listening	a3lrqu	a3lrqut003	the Loch Ness Monster.	RadioSingle
+Advanced	Advanced3	Listening	a3lrqu	a3lrqut004	TRUE	RadioSingle
+Advanced	Advanced3	Listening	a3lrqu	a3lrqut005	FALSE	RadioSingle
+Advanced	Advanced3	Grammar	a3gial	a3gialt001	to wash|to find	DragAndDropMultiple
+Advanced	Advanced3	Grammar	a3gial	a3gialt002	to know|to work	DragAndDropMultiple
+Advanced	Advanced3	Grammar	a3gial	a3gialt003	to fall|to make	DragAndDropMultiple
+Advanced	Advanced3	Grammar	a3gial	a3gialt004	to find|to get	DragAndDropMultiple
+Advanced	Advanced3	Grammar	a3gial	a3gialt005	to be|to have	DragAndDropMultiple
+Advanced	Advanced3	Grammar	a3gial	a3gialt006	to have|to clear	DragAndDropMultiple
+Advanced	Advanced3	Grammar	a3gial	a3gialt007	to keep	DragAndDropMultiple
+Advanced	Advanced3	Grammar	a3gial	a3gialt008	to earn|to be working	DragAndDropMultiple
+Advanced	Advanced3	Grammar	a3gial	a3gialt009	to eat|to have	DragAndDropMultiple
+Advanced	Advanced3	Grammar	a3gial	a3gialt010	to be moving|to have	DragAndDropMultiple

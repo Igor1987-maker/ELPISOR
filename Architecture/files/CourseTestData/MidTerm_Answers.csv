@@ -1,0 +1,884 @@
+989012504,1,FD,MidTerm,TRUE,,,RadioSingle
+989012504,1,FD,MidTerm,FALSE,,,RadioSingle
+989012504,1,FD,MidTerm,TRUE,,,RadioSingle
+989012504,1,FD,MidTerm,We don't know,,,RadioSingle
+989012504,1,FD,MidTerm,FALSE,,,RadioSingle
+989012504,2,FD,MidTerm,Thursday,,,RadioSingle
+989012504,2,FD,MidTerm,backache,,,RadioSingle
+989012504,2,FD,MidTerm,go to the doctor,,,RadioSingle
+989012504,2,FD,MidTerm,FALSE,,,RadioSingle
+989012504,2,FD,MidTerm,TRUE,,,RadioSingle
+989012504,3,FD,MidTerm,TRUE,,,RadioSingle
+989012504,3,FD,MidTerm,TRUE,,,RadioSingle
+989012504,3,FD,MidTerm,a student,,,RadioSingle
+989012504,3,FD,MidTerm,TRUE,,,RadioSingle
+989012504,3,FD,MidTerm,FALSE,,,RadioSingle
+989012504,4,FD,MidTerm,Lynn,,,RadioSingle
+989012504,4,FD,MidTerm,3:00,,,RadioSingle
+989012504,4,FD,MidTerm,TRUE,,,RadioSingle
+989012504,4,FD,MidTerm,FALSE,,,RadioSingle
+989012504,4,FD,MidTerm,Beth and Lisa,,,RadioSingle
+989012504,5,FD,MidTerm,eight|three|twelve|seven|two,,,DrapAndDropToPicture
+989012504,5,FD,MidTerm,an apple|some bread|an egg|some milk|some cheese,,,DrapAndDropToPicture
+989012504,5,FD,MidTerm,name|address|phone number|old|from,,,comboBox
+989012504,5,FD,MidTerm,wake up|start|finish|have|go to sleep,,,comboBox
+989012504,5,FD,MidTerm,It's five forty-five.|It's five o'clock.|It's a quarter past five.|It's ten to six.|It's five-thirty.|It's ten past five.,,,DrapAndDropToPicture
+989012504,5,FD,MidTerm,A sore throat|A stomachache|A headache|A hand|A finger,,,DrapAndDropToPicture
+989012509,1,B1,MidTerm,TRUE,,,RadioSingle
+989012509,1,B1,MidTerm,soup main dish dessert and drink.,,,RadioSingle
+989012509,1,B1,MidTerm,FALSE,,,RadioSingle
+989012509,1,B1,MidTerm,TRUE,,,RadioSingle
+989012509,1,B1,MidTerm,45 Main Street, Newtown,,RadioSingle
+989012509,2,B1,MidTerm,Sleeping,,,RadioSingle
+989012509,2,B1,MidTerm,Victor,,,RadioSingle
+989012509,2,B1,MidTerm,The ocean,,,RadioSingle
+989012509,2,B1,MidTerm,FALSE,,,RadioSingle
+989012509,2,B1,MidTerm,We don't know.,,,RadioSingle
+989012509,3,B1,MidTerm,at The Mozart Theater,,,RadioSingle
+989012509,3,B1,MidTerm,FALSE,,,RadioSingle
+989012509,3,B1,MidTerm,a rock star,,,RadioSingle
+989012509,3,B1,MidTerm,TRUE,,,RadioSingle
+989012509,3,B1,MidTerm,FALSE,,,RadioSingle
+989012509,4,B1,MidTerm,The man is on a business trip,,,RadioSingle
+989012509,4,B1,MidTerm,FALSE,,,RadioSingle
+989012509,4,B1,MidTerm,to the office,,,RadioSingle
+989012509,4,B1,MidTerm,He is walking,,,RadioSingle
+989012509,4,B1,MidTerm,TRUE,,,RadioSingle
+989012509,5,B1,MidTerm,restaurant|wallet|thief|looks|coffee|,,,comboBox
+989012509,5,B1,MidTerm,idea|restaurant|movie|Theater|walking|,,,comboBox
+989012509,5,B1,MidTerm,trip|guest|pool|security guard|on business|,,,DragAndDropMultiple
+989012509,5,B1,MidTerm,a|are|are|is|is|at a|The|,,,comboBox
+989012509,5,B1,MidTerm,is|Are|aren't|Is|isn't|are,,,comboBox
+989012509,5,B1,MidTerm,aren't you here|I'm not coming|What is he saying|she's not|She's asking|,,,comboBox
+989012514,1,B2,MidTerm,TRUE,,,RadioSingle
+989012514,1,B2,MidTerm,FALSE,,,RadioSingle
+989012514,1,B2,MidTerm,at least three times,,,RadioSingle
+989012514,1,B2,MidTerm,We don't know.,,,RadioSingle
+989012514,1,B2,MidTerm,She likes Professor Green's ideas.,,,RadioSingle
+989012514,2,B2,MidTerm,Ways to stay healthy,,,RadioSingle
+989012514,2,B2,MidTerm,FALSE,,,RadioSingle
+989012514,2,B2,MidTerm,have a banana,,,RadioSingle
+989012514,2,B2,MidTerm,We don't know.,,,RadioSingle
+989012514,2,B2,MidTerm,that you enjoy.,,,RadioSingle
+989012514,3,B2,MidTerm,this week,,,RadioSingle
+989012514,3,B2,MidTerm,tables and chairs and other furniture,,,RadioSingle
+989012514,3,B2,MidTerm,FALSE,,,RadioSingle
+989012514,3,B2,MidTerm,TRUE,,,RadioSingle
+989012514,3,B2,MidTerm,We don't know.,,,RadioSingle
+989012514,4,B2,MidTerm,bookstore.,,,RadioSingle
+989012514,4,B2,MidTerm,TRUE,,,RadioSingle
+989012514,4,B2,MidTerm,Diet books,,,RadioSingle
+989012514,4,B2,MidTerm,FALSE,,,RadioSingle
+989012514,4,B2,MidTerm,Find the diet books,,,RadioSingle
+989012514,5,B2,MidTerm,meal|cake|healthy|losing weight|salad|diet,,,comboBox
+989012514,5,B2,MidTerm,directions|help|map|right|train,,,comboBox
+989012514,5,B2,MidTerm,department store|saved|pay|order|delivery,,,DragAndDropMultiple
+989012514,5,B2,MidTerm,do|swim|love|open|don't,,,comboBox
+989012514,5,B2,MidTerm,cheaper|best|younger|smallest|largest,,,comboBox
+989012514,5,B2,MidTerm,some|any|an|a little|a,,,comboBox
+989012519,1,B3,MidTerm,FALSE,,,RadioSingle
+989012519,1,B3,MidTerm,We don't know.,,,RadioSingle
+989012519,1,B3,MidTerm,goes sightseeing every day.,,,RadioSingle
+989012519,1,B3,MidTerm,rent a car.,,,RadioSingle
+989012519,1,B3,MidTerm,TRUE,,,RadioSingle
+989012519,2,B3,MidTerm,a company that helps you learn.,,,RadioSingle
+989012519,2,B3,MidTerm,He is not doing well in college,,,RadioSingle
+989012519,2,B3,MidTerm,is Stephanie's brother.,,,RadioSingle
+989012519,2,B3,MidTerm,TRUE,,,RadioSingle
+989012519,2,B3,MidTerm,FALSE,,,RadioSingle
+989012519,3,B3,MidTerm,TRUE,,,RadioSingle
+989012519,3,B3,MidTerm,to talk about the new department store.,,,RadioSingle
+989012519,3,B3,MidTerm,We don't know.,,,RadioSingle
+989012519,3,B3,MidTerm,at a restaurant at 12 o'clock.,,,RadioSingle
+989012519,3,B3,MidTerm,TRUE,,,RadioSingle
+989012519,4,B3,MidTerm,a friend.,,,RadioSingle
+989012519,4,B3,MidTerm,She is planning a trip.,,,RadioSingle
+989012519,4,B3,MidTerm,stay in hotels.,,,RadioSingle
+989012519,4,B3,MidTerm,TRUE,,,RadioSingle
+989012519,4,B3,MidTerm,We don't know.,,,RadioSingle
+989012519,5,B3,MidTerm,reservation|wait|cold|strawberries|cake,,,comboBox
+989012519,5,B3,MidTerm,plans|location|offers|discussing|appointment,,,comboBox
+989012519,5,B3,MidTerm,vacation|abroad|foreigner|passport|suitcase,,,DragAndDropMultiple
+989012519,5,B3,MidTerm,studying|worked|met|looking|like,,,comboBox
+989012519,5,B3,MidTerm,had to|must|don't have to|don't have to|must,,,comboBox
+989012519,5,B3,MidTerm,I'll be able to|Are you able to|weren't able to|I'll be able to|I'm not able to,,,comboBox
+989013189,1,B3,MidTerm,To give information,,,RadioSingle
+989013189,1,B3,MidTerm,FALSE,,,RadioSingle
+989013189,1,B3,MidTerm,Bringing a second suitcase costs money.,,,RadioSingle
+989013189,1,B3,MidTerm,Have their passports,,,RadioSingle
+989013189,1,B3,MidTerm,FALSE,,,RadioSingle
+989013189,2,B3,MidTerm,Changing careers,,,RadioSingle
+989013189,2,B3,MidTerm,Worked at a bank,,,RadioSingle
+989013189,2,B3,MidTerm,FALSE,,,RadioSingle
+989013189,2,B3,MidTerm,To work part-time,,,RadioSingle
+989013189,2,B3,MidTerm,FALSE,,,RadioSingle
+989013189,3,B3,MidTerm,A review of a restaurant,,,RadioSingle
+989013189,3,B3,MidTerm,TRUE,,,RadioSingle
+989013189,3,B3,MidTerm,Dinner,,,RadioSingle
+989013189,3,B3,MidTerm,A glass of water,,,RadioSingle
+989013189,3,B3,MidTerm,FALSE,,,RadioSingle
+989013189,4,B3,MidTerm,Planning a vacation to Australia,,,RadioSingle
+989013189,4,B3,MidTerm,FALSE,,,RadioSingle
+989013189,4,B3,MidTerm,the name of a hotel.,,,RadioSingle
+989013189,4,B3,MidTerm,FALSE,,,RadioSingle
+989013189,4,B3,MidTerm,Natalie will go to class.,,,RadioSingle
+989013189,5,B3,MidTerm,high school|pass|examinations|subjects|college,,,DragAndDropMultiple
+989013189,5,B3,MidTerm,applied|interview|career|location|overtime,,,DragAndDropMultiple
+989013189,5,B3,MidTerm,travel agency|non-stop flight|cancel|sightseeing|travel arrangements,,,comboBox
+989013189,5,B3,MidTerm,working|selling|seeing|takes|walking,,,comboBox
+989013189,5,B3,MidTerm,to go|not to sleep|to stay|to give|to bring,,,DragAndDropMultiple
+989013189,5,B3,MidTerm,going to take|Are you|not going to|won't fall|will call,,,comboBox
+989013270,1,I1,MidTerm,what Rosa did on the Fourth of July.,,,RadioSingle
+989013270,1,I1,MidTerm,She went to a parade.,,,RadioSingle
+989013270,1,I1,MidTerm,We don't know.,,,RadioSingle
+989013270,1,I1,MidTerm,False,,,RadioSingle
+989013270,1,I1,MidTerm,art projects.,,,RadioSingle
+989013270,2,I1,MidTerm,Cassandra's experience studying abroad.,,,RadioSingle
+989013270,2,I1,MidTerm,She was homesick.,,,RadioSingle
+989013270,2,I1,MidTerm,True,,,RadioSingle
+989013270,2,I1,MidTerm,has been speaking a lot of Spanish.,,,RadioSingle
+989013270,2,I1,MidTerm,Cassandra's roommate,,,RadioSingle
+989013270,3,I1,MidTerm,a new exhibit.,,,RadioSingle
+989013270,3,I1,MidTerm,The number of people who came,,,RadioSingle
+989013270,3,I1,MidTerm,False,,,RadioSingle
+989013270,3,I1,MidTerm,A video of Angela,,,RadioSingle
+989013270,3,I1,MidTerm,True,,,RadioSingle
+989013270,4,I1,MidTerm,Lucas's mother.,,,RadioSingle
+989013270,4,I1,MidTerm,How to help Lucas with math,,,RadioSingle
+989013270,4,I1,MidTerm,calm.,,,RadioSingle
+989013270,4,I1,MidTerm,False,,,RadioSingle
+989013270,4,I1,MidTerm,Sharon will call her aunt.,,,RadioSingle
+989013270,5,I1,MidTerm,thunder|lightning|weather report|flooding|bright sunshine,,,DragAndDropMultiple
+989013270,5,I1,MidTerm,elementary school|good grades|homework|graduate|entrance exam,,,comboBox
+989013270,5,I1,MidTerm,band|lead singer|members|hit|fan club,,,DragAndDropMultiple
+989013270,5,I1,MidTerm,have been missing|have been having|Have you been speaking|haven't been|have been looking,,,comboBox
+989013270,5,I1,MidTerm,have you seen|haven't|never been|since|has called,,,comboBox
+989013270,5,I1,MidTerm,that|who|that|which|where,,,comboBox
+989012529,1,I2,MidTerm,without paying attention to her clothes.,,,RadioSingle
+989012529,1,I2,MidTerm,She rushed out of the house.|,,,RadioSingle
+989012529,1,I2,MidTerm,We don't know.|,,,RadioSingle
+989012529,1,I2,MidTerm,He was very worried about her.|,,,RadioSingle
+989012529,1,I2,MidTerm,Don't be careless when you are in a rush.|,,,RadioSingle
+989012529,2,I2,MidTerm,play professional basketball.|,,,RadioSingle
+989012529,2,I2,MidTerm,very small.|,,,RadioSingle
+989012529,2,I2,MidTerm,injured his knee during a game.|,,,RadioSingle
+989012529,2,I2,MidTerm,Children who have been injured|,,,RadioSingle
+989012529,2,I2,MidTerm,True|,,,RadioSingle
+989012529,3,I2,MidTerm,Robbie's house.|,,,RadioSingle
+989012529,3,I2,MidTerm,True|,,,RadioSingle
+989012529,3,I2,MidTerm,talk to Robbie's friend David|,,,RadioSingle
+989012529,3,I2,MidTerm,False|,,,RadioSingle
+989012529,3,I2,MidTerm,She doesn't want to see Charles.|,,,RadioSingle
+989012529,4,I2,MidTerm,a podcast host.|,,,RadioSingle
+989012529,4,I2,MidTerm,Deserted|,,,RadioSingle
+989012529,4,I2,MidTerm,False|,,,RadioSingle
+989012529,4,I2,MidTerm,her voice was too deep.|,,,RadioSingle
+989012529,4,I2,MidTerm,We don't know.|,,,RadioSingle
+989012529,5,I2,MidTerm,dealer|recommended|model|checked|payments,,,comboBox
+989012529,5,I2,MidTerm,introduce|assignment|help|borrow|favor,,,DragAndDropMultiple
+989012529,5,I2,MidTerm,attend a party|get dressed|show up|acquaintance|in common,,,DragAndDropMultiple
+989012529,5,I2,MidTerm,had put|had been studying|had forgotten|had fallen|had been talking,,,comboBox
+989012529,5,I2,MidTerm,don't|will make|won't|won't enjoy|get,,,comboBox
+989012529,5,I2,MidTerm,would you do|would go|I would choose|I would|would you go|you�d let me,,,comboBox
+989012534,1,I3,MidTerm,three people,,,RadioSingle
+989012534,1,I3,MidTerm,is supported by the state.,,,RadioSingle
+989012534,1,I3,MidTerm,False|,,,RadioSingle
+989012534,1,I3,MidTerm,True|,,,RadioSingle 
+989012534,1,I3,MidTerm,people who don't work|,,,RadioSingle
+989012534,2,I3,MidTerm,He thought he might|,,,RadioSingle
+989012534,2,I3,MidTerm,himself|,,,RadioSingle
+989012534,2,I3,MidTerm,She told him to think about|,,,RadioSingle
+989012534,2,I3,MidTerm,False|,,,RadioSingle
+989012534,2,I3,MidTerm,exercised a lot|,,,RadioSingle
+989012534,3,I3,MidTerm,for a romantic|,,,RadioSingle
+989012534,3,I3,MidTerm,He has something|,,,RadioSingle
+989012534,3,I3,MidTerm,is going to tell her|,,,RadioSingle
+989012534,3,I3,MidTerm,that Susan has a weak heart|,,,RadioSingle
+989012534,3,I3,MidTerm,Susan will go to the hospital|,,,RadioSingle
+989012534,4,I3,MidTerm,Sports Voice|,,,RadioSingle
+989012534,4,I3,MidTerm,False|,,,RadioSingle
+989012534,4,I3,MidTerm,when he started using|,,,RadioSingle
+989012534,4,I3,MidTerm,True|,,,RadioSingle
+989012534,4,I3,MidTerm,He had a shoulder|,,,RadioSingle
+989012534,5,I3,MidTerm,increase|quit|financial|circumstances|leave,,,comboBox
+989012534,5,I3,MidTerm,exercise|weights|shape|strength|nutritious,,,comboBox
+989012534,5,I3,MidTerm,eating sensibly|nutritious|limit|smaller quantities|weigh yourself,,,DragAndDropMultiple
+989012534,5,I3,MidTerm,who|where|who|when|when,,,comboBox
+989012534,5,I3,MidTerm,would have saved|would have said|would have been|would have regretted|would have told,,,comboBox
+989012534,5,I3,MidTerm,should have had|should have told|could have done|couldn't have|should have tried,,,comboBox
+989013464,1,A1,MidTerm,My Thoughts on Extreme Sports,,,RadioSingle
+989013464,1,A1,MidTerm,We don't know.|,,,RadioSingle
+989013464,1,A1,MidTerm,watch his videos.|,,,RadioSingle
+989013464,1,A1,MidTerm,It helps you meet new people.|,,,RadioSingle
+989013464,1,A1,MidTerm,Vic started doing extreme sports in high school.|,,,RadioSingle
+989013464,2,A1,MidTerm,Cultural differences|,,,RadioSingle
+989013464,2,A1,MidTerm,Bulgaria|,,,RadioSingle
+989013464,2,A1,MidTerm,True|,,,RadioSingle
+989013464,2,A1,MidTerm,made eye contact.|,,,RadioSingle
+989013464,2,A1,MidTerm,Research cultural differences before they travel|,,,RadioSingle
+989013464,3,A1,MidTerm,Mitch Karoll will meet with Jen and him.|,,,RadioSingle
+989013464,3,A1,MidTerm,starting their own company.|,,,RadioSingle
+989013464,3,A1,MidTerm,Miracle Jacket|,,,RadioSingle
+989013464,3,A1,MidTerm,Checking out the competition|,,,RadioSingle
+989013464,3,A1,MidTerm,It's warmer.|,,,RadioSingle
+989013464,4,A1,MidTerm,library.|,,,RadioSingle
+989013464,4,A1,MidTerm,We don't know.|,,,RadioSingle
+989013464,4,A1,MidTerm,False|,,,RadioSingle
+989013464,4,A1,MidTerm,fan of Malone's work.|,,,RadioSingle
+989013464,4,A1,MidTerm,We don't know.|,,,RadioSingle
+989013464,5,A1,MidTerm,bored|unpredictable|rough|sensitive|fabulous,,,comboBox
+989013464,5,A1,MidTerm,tabloid newspapers|scandal|gathering facts|back up the claim|hard evidence,,,DragAndDropMultiple
+989013464,5,A1,MidTerm,interest rates|bounced a check|investment|marketing strategy|campaign,,,DragAndDropMultiple
+989013464,5,A1,MidTerm,we'll have been looking|we'll have become|we'll have reserved|have finished|we'll have been friends,,,comboBox
+989013464,5,A1,MidTerm,to be helped|to be encouraged|be invited|to be accepted|to be reminded,,,comboBox
+989013464,5,A1,MidTerm,we'll be lying|you'll be working|You'll be reading|You'll be talking|won't,,,comboBox
+989013505,1,A2,MidTerm,her friend.,,,RadioSingle
+989013505,1,A2,MidTerm,True|,,,RadioSingle
+989013505,1,A2,MidTerm,The apartment has bugs.|,,,RadioSingle
+989013505,1,A2,MidTerm,Sara didn't like her last apartment.|,,,RadioSingle
+989013505,1,A2,MidTerm,We don't know.|,,,RadioSingle
+989013505,2,A2,MidTerm,How to cope with anxiety|,,,RadioSingle
+989013505,2,A2,MidTerm,False|,,,RadioSingle
+989013505,2,A2,MidTerm,doing exercises that help you relax.|,,,RadioSingle
+989013505,2,A2,MidTerm,focuses on positive things.|,,,RadioSingle
+989013505,2,A2,MidTerm,She'll give more information about the strategies she just mentioned.|,,,RadioSingle
+989013505,3,A2,MidTerm,What Keith's job interview was like|,,,RadioSingle
+989013505,3,A2,MidTerm,had challenging activities.|,,,RadioSingle
+989013505,3,A2,MidTerm,False|,,,RadioSingle
+989013505,3,A2,MidTerm,Ambitious|,,,RadioSingle
+989013505,3,A2,MidTerm,He doesn't know.|,,,RadioSingle
+989013505,4,A2,MidTerm,They're on vacation.|,,,RadioSingle
+989013505,4,A2,MidTerm,What to do first|,,,RadioSingle
+989013505,4,A2,MidTerm,False|,,,RadioSingle
+989013505,4,A2,MidTerm,it's not good weather for the beach.|,,,RadioSingle
+989013505,4,A2,MidTerm,When it's raining|,,,RadioSingle
+989013505,5,A2,MidTerm,isolation|bright and early|paperwork|struggle alone|deserve the best,,,DragAndDropMultiple
+989013505,5,A2,MidTerm,in suspense|I'd hate to have|majority|just this one time|seeing that,,,DragAndDropMultiple
+989013505,5,A2,MidTerm,ambitious|job security|challenging|I don't let anything stand in my way|account executive,,,DragAndDropMultiple
+989013505,5,A2,MidTerm,Because|as a result|since|Consequently|seeing that,,,comboBox
+989013505,5,A2,MidTerm,make|do|makes|to do,,,comboBox
+989013505,5,A2,MidTerm,would|would go|won't|they'll listen|I would do,,,comboBox
+989012549,1,A3,MidTerm,to report,,,RadioSingle
+989012549,1,A3,MidTerm,She was suspicious|,,,RadioSingle
+989012549,1,A3,MidTerm,take him|,,,RadioSingle
+989012549,1,A3,MidTerm,a cap and a gray wig|,,,RadioSingle
+989012549,1,A3,MidTerm,You're still|,,,RadioSingle
+989012549,2,A3,MidTerm,A store clerk|,,,RadioSingle
+989012549,2,A3,MidTerm,Driving on the road|,,,RadioSingle
+989012549,2,A3,MidTerm,She pulled|,,,RadioSingle
+989012549,2,A3,MidTerm,Strauss was able to|,,,RadioSingle
+989012549,2,A3,MidTerm,saving someone's life.|,,,RadioSingle
+989012549,3,A3,MidTerm,False|,,,RadioSingle
+989012549,3,A3,MidTerm,didn't play|,,,RadioSingle
+989012549,3,A3,MidTerm,True|,,,RadioSingle
+989012549,3,A3,MidTerm,determined|,,,RadioSingle
+989012549,3,A3,MidTerm,impressed|,,,RadioSingle
+989012549,4,A3,MidTerm,advertisement|,,,RadioSingle
+989012549,4,A3,MidTerm,organizes|,,,RadioSingle
+989012549,4,A3,MidTerm,getting|,,,RadioSingle
+989012549,4,A3,MidTerm,Snorkeling|,,,RadioSingle
+989012549,4,A3,MidTerm,Vacationing|,,,RadioSingle
+989012549,5,A3,MidTerm,conduct|influence|questionnaires|consumers|analyze,,,comboBox
+989012549,5,A3,MidTerm,dense|nature trail|guided|diverse|rangers,,,comboBox
+989012549,5,A3,MidTerm,detained|involved in|lost his trail.|charge|took my word for it,,,DragAndDropMultiple
+989012549,5,A3,MidTerm,come|be|shows|do|keep,,,comboBox
+989012549,5,A3,MidTerm,about|to|to|such|so|into,,,comboBox
+989012549,5,A3,MidTerm,Nobody|never|No one|Neither|not the only thing,,,comboBox
+989013101,1,FD,MidTerm,an application form.,,,RadioSingle
+989013101,1,FD,MidTerm,New York.,,,RadioSingle
+989013101,1,FD,MidTerm,30,,,RadioSingle
+989013101,1,FD,MidTerm,teacher.,,,RadioSingle
+989013101,1,FD,MidTerm,Australia.,,,RadioSingle
+989013101,2,FD,MidTerm,He's a taxi driver.,,,RadioSingle
+989013101,2,FD,MidTerm,Mexico.,,,RadioSingle
+989013101,2,FD,MidTerm,In the United Kingdom,,,RadioSingle
+989013101,2,FD,MidTerm,At 8:00 in the morning,,,RadioSingle
+989013101,2,FD,MidTerm,TRUE,,,RadioSingle
+989013101,3,FD,MidTerm,Bananas,,,RadioSingle
+989013101,3,FD,MidTerm,TRUE,,,RadioSingle
+989013101,3,FD,MidTerm,TRUE,,,RadioSingle
+989013101,3,FD,MidTerm,peppers.,,,RadioSingle
+989013101,3,FD,MidTerm,Tea,,,RadioSingle
+989013101,4,FD,MidTerm,Morning,,,RadioSingle
+989013101,4,FD,MidTerm,backache.,,,RadioSingle
+989013101,4,FD,MidTerm,two pills a day.,,,RadioSingle
+989013101,4,FD,MidTerm,FALSE,,,RadioSingle
+989013101,4,FD,MidTerm,Monday.,,,RadioSingle
+989013101,5,FD,MidTerm,sh|ch|ck|ou|ea|ai,,,DrapAndDropToPicture
+989013101,5,FD,MidTerm,morning|night|Good afternoon.|Hi!|Goodbye!,,,comboBox
+989013101,5,FD,MidTerm,twenty-five|twenty-seven|thirty|fifty|eighty|one hundred,,,DrapAndDropToPicture
+989013101,5,FD,MidTerm,33 W. Park Avenue|35|312-555-0879|RR@mail.com|United States,,,DragAndDropMultiple
+989013101,5,FD,MidTerm,a mouth|an eye|an ear|a head|a toe|a foot,,,DrapAndDropToPicture
+989013101,5,FD,MidTerm,a headache|an appointment|doctor|prescription|pills,,,comboBox
+989013148,1,B1,MidTerm,newspaper article,,,RadioSingle
+989013148,1,B1,MidTerm,She writes.,,,RadioSingle
+989013148,1,B1,MidTerm,He is famous,,,RadioSingle
+989013148,1,B1,MidTerm,TRUE,,,RadioSingle
+989013148,1,B1,MidTerm,TRUE,,,RadioSingle
+989013148,2,B1,MidTerm,Samantha,,,RadioSingle
+989013148,2,B1,MidTerm,Madrid,,,RadioSingle
+989013148,2,B1,MidTerm,The hotel manager can't find Samantha's reservation,,,RadioSingle
+989013148,2,B1,MidTerm,We don't know.,,,RadioSingle
+989013148,2,B1,MidTerm,We don't know.,,,RadioSingle
+989013148,3,B1,MidTerm,can't find his phone,,,RadioSingle
+989013148,3,B1,MidTerm,TRUE,,,RadioSingle
+989013148,3,B1,MidTerm,We don't know.,,,RadioSingle
+989013148,3,B1,MidTerm,look the same,,,RadioSingle
+989013148,3,B1,MidTerm,In the woman's bag,,,RadioSingle
+989013148,4,B1,MidTerm,talking on the phone,,,RadioSingle
+989013148,4,B1,MidTerm,She is listening to a podcast,,,RadioSingle
+989013148,4,B1,MidTerm,It's raining,,,RadioSingle
+989013148,4,B1,MidTerm,FALSE,,,RadioSingle
+989013148,4,B1,MidTerm,TRUE,,,RadioSingle
+989013148,5,B1,MidTerm,concert|music|a movie|theater|rock star|,,,comboBox
+989013148,5,B1,MidTerm,menu|delicious|an appetizer|side dish|drink|,,,comboBox
+989013148,5,B1,MidTerm,over|turning around|think|studying|meet|,,,DragAndDropMultiple
+989013148,5,B1,MidTerm,There is|Are|Is there|there are|Are there|,,,comboBox
+989013148,5,B1,MidTerm,Are you feeling|I'm trying|He's working|Is anyone helping|I'm doing|,,,comboBox
+989013148,5,B1,MidTerm,is not starting|aren't meeting|are not having|aren't resting|aren't bringing|,,,comboBox
+989013188,1,B2,MidTerm,We don't know,,,RadioSingle
+989013188,1,B2,MidTerm,7:00,,,RadioSingle
+989013188,1,B2,MidTerm,the necklace,,,RadioSingle
+989013188,1,B2,MidTerm,It is on sale,,,RadioSingle
+989013188,1,B2,MidTerm,A bag,,,RadioSingle
+989013188,2,B2,MidTerm,An ad,,,RadioSingle
+989013188,2,B2,MidTerm,Students,,,RadioSingle
+989013188,2,B2,MidTerm,They're new,,,RadioSingle
+989013188,2,B2,MidTerm,where the library is,,,RadioSingle
+989013188,2,B2,MidTerm,FALSE,,,RadioSingle
+989013188,3,B2,MidTerm,that it's,,,RadioSingle
+989013188,3,B2,MidTerm,She has,,,RadioSingle
+989013188,3,B2,MidTerm,What the best,,,RadioSingle
+989013188,3,B2,MidTerm,FALSE,,,RadioSingle
+989013188,3,B2,MidTerm,We don't know,,,RadioSingle
+989013188,4,B2,MidTerm,They are sports,,,RadioSingle
+989013188,4,B2,MidTerm,TRUE,,,RadioSingle
+989013188,4,B2,MidTerm,It was exciting,,,RadioSingle
+989013188,4,B2,MidTerm,They try,,,RadioSingle
+989013188,4,B2,MidTerm,We don't know,,,RadioSingle
+989013188,5,B2,MidTerm,delivery|pay|buy|business|store manager,,,DragAndDropMultiple
+989013188,5,B2,MidTerm,exercise|bicycle|basketball|game|win,,,DragAndDropMultiple
+989013188,5,B2,MidTerm,healthy|light|energy|fat-free|salads,,,DragAndDropMultiple
+989013188,5,B2,MidTerm,Where was|Was it|There were|you were|I was,,,comboBox
+989013188,5,B2,MidTerm,much|any|a few|some|lots of,,,comboBox
+989013188,5,B2,MidTerm,I don't|goes|Does it|it does|Do you,,,comboBox
+989012524,1,I1,MidTerm,when parents teach their children at home,,,RadioSingle
+989012524,1,I1,MidTerm,a home schooling parent.,,,RadioSingle
+989012524,1,I1,MidTerm,It's easy to find teaching materials.,,,RadioSingle
+989012524,1,I1,MidTerm,Home schooled students might not have friends.,,,RadioSingle
+989012524,1,I1,MidTerm,We do not know what is better - regular schools or home schooling.,,,RadioSingle
+989012524,2,I1,MidTerm,He was given free tickets.,,,RadioSingle
+989012524,2,I1,MidTerm,classical.,,,RadioSingle
+989012524,2,I1,MidTerm,He is the lead singer.,,,RadioSingle
+989012524,2,I1,MidTerm,Stop,,,RadioSingle
+989012524,2,I1,MidTerm,We don't know.,,,RadioSingle
+989012524,3,I1,MidTerm,a weather reporter,,,RadioSingle
+989012524,3,I1,MidTerm,The next few days will be cold and rainy.,,,RadioSingle
+989012524,3,I1,MidTerm,cold for this time of year.,,,RadioSingle
+989012524,3,I1,MidTerm,take a jacket and umbrella and cancel outdoor trips,,,RadioSingle
+989012524,3,I1,MidTerm,by Monday,,,RadioSingle
+989012524,4,I1,MidTerm,The man has been living overseas.,,,RadioSingle
+989012524,4,I1,MidTerm,works with turtles.,,,RadioSingle
+989012524,4,I1,MidTerm,Tamarindo,,,RadioSingle
+989012524,4,I1,MidTerm,False,,,RadioSingle
+989012524,4,I1,MidTerm,False,,,RadioSingle
+989012524,5,I1,MidTerm,exchange|homesick|improved|accent|long-distance,,,DragAndDropMultiple
+989012524,5,I1,MidTerm,celebrate|gathers together|annual|traditional|turkey,,,DragAndDropMultiple
+989012524,5,I1,MidTerm,weather report|bright sunshine|storm|lightning|cloudy skies,,,DragAndDropMultiple
+989012524,5,I1,MidTerm,has gone|has taken|has managed|have decorated|have been,,,comboBox
+989012524,5,I1,MidTerm,was planned|was injured|has been chosen|are expected|will be called off,,,comboBox
+989012524,5,I1,MidTerm,were given|were shown|was given|were taught|was even offered,,,comboBox
+989013369,1,I2,MidTerm,where to buy a used car.,,,RadioSingle
+989013369,1,I2,MidTerm,bought a car from Honest Auto.|,,,RadioSingle
+989013369,1,I2,MidTerm,False|,,,RadioSingle
+989013369,1,I2,MidTerm,buy your car from Honest Auto.|,,,RadioSingle
+989013369,1,I2,MidTerm,True|,,,RadioSingle
+989013369,2,I2,MidTerm,go to a party|,,,RadioSingle
+989013369,2,I2,MidTerm,False.|,,,RadioSingle
+989013369,2,I2,MidTerm,She wasn't really|,,,RadioSingle
+989013369,2,I2,MidTerm,He always|,,,RadioSingle
+989013369,2,I2,MidTerm,Anthony is going.|,,,RadioSingle
+989013369,3,I2,MidTerm,do home repairs|,,,RadioSingle
+989013369,3,I2,MidTerm,can fix things|,,,RadioSingle
+989013369,3,I2,MidTerm,He is a good doctor|,,,RadioSingle
+989013369,3,I2,MidTerm,To check|,,,RadioSingle
+989013369,3,I2,MidTerm,True|,,,RadioSingle
+989013369,4,I2,MidTerm,How to stay safe|,,,RadioSingle
+989013369,4,I2,MidTerm,An hour|,,,RadioSingle
+989013369,4,I2,MidTerm,Go back to find them,,,RadioSingle
+989013369,4,I2,MidTerm,She slipped on a rock|,,,RadioSingle
+989013369,4,I2,MidTerm,False|,,,RadioSingle
+989013369,5,I2,MidTerm,cliff|terror|got stuck|bleeding|rescue,,,DragAndDropMultiple
+989013369,5,I2,MidTerm,home repairs|leak|handyman|advice|damaged,,,DragAndDropMultiple
+989013369,5,I2,MidTerm,glamorous|disappointed|tough|bothersome|elegant,,,comboBox
+989013369,5,I2,MidTerm,You'll get there|don't take|won't|buy|won't,,,comboBox
+989013369,5,I2,MidTerm,had kept|fallen|woken|had finally stopped|had already gotten,,,comboBox
+989013369,5,I2,MidTerm,gave|would quit|I'd be|I took|wouldn't,,,comboBox
+989013421,1,I3,MidTerm,Basketball,,,RadioSingle
+989013421,1,I3,MidTerm,True.|,,,RadioSingle
+989013421,1,I3,MidTerm,Stuart Stark|,,,RadioSingle
+989013421,1,I3,MidTerm,Lions fans|,,,RadioSingle 
+989013421,1,I3,MidTerm,The coach is not|,,,RadioSingle
+989013421,2,I3,MidTerm,They're not paying their employees' salaries.,,,RadioSingle
+989013421,2,I3,MidTerm,meet with a lawyer.,,,RadioSingle
+989013421,2,I3,MidTerm,We don't know|,,,RadioSingle
+989013421,2,I3,MidTerm,False|,,,RadioSingle
+989013421,2,I3,MidTerm,Some employees will contact Ellen Rose.|,,,RadioSingle
+989013421,3,I3,MidTerm,Ways to help|,,,RadioSingle
+989013421,3,I3,MidTerm,Winter|,,,RadioSingle
+989013421,3,I3,MidTerm,is Beth's brother|,,,RadioSingle
+989013421,3,I3,MidTerm,False|,,,RadioSingle
+989013421,3,I3,MidTerm,We don't know|,,,RadioSingle
+989013421,4,I3,MidTerm,False|,,,RadioSingle
+989013421,4,I3,MidTerm,Potato chips|,,,RadioSingle
+989013421,4,I3,MidTerm,Her doctor|,,,RadioSingle
+989013421,4,I3,MidTerm,eat better|,,,RadioSingle
+989013421,4,I3,MidTerm,True|,,,RadioSingle
+989013421,5,I3,MidTerm,get engaged|spending time|easy going|sense of humor|in love,,,DragAndDropMultiple
+989013421,5,I3,MidTerm,going on strike|wage increase|empty promises|made cuts|handles the situation,,,DragAndDropMultiple
+989013421,5,I3,MidTerm,on the streets|taking steps|senior citizens|pay the rent|housing alternatives,,,DragAndDropMultiple
+989013421,5,I3,MidTerm,shouldn't have|could have given|should have felt|could have fallen|would have been,,,comboBox
+989013421,5,I3,MidTerm,have happened|I hadn't gotten|would have gone|would have asked|I'd brought it,,,comboBox
+989013421,5,I3,MidTerm,might have been|must have been|might have left|must not have done|may have eaten,,,comboBox
+989012539,1,A1,MidTerm,in the center of Churchtown.,,,RadioSingle
+989012539,1,A1,MidTerm,she suffers from the noise the teenagers make.|,,,RadioSingle
+989012539,1,A1,MidTerm,She has called the police.|,,,RadioSingle
+989012539,1,A1,MidTerm,make sure it's quiet in the park after 11 p.m.|,,,RadioSingle 
+989012539,1,A1,MidTerm,formal|,,,RadioSingle
+989012539,2,A1,MidTerm,summarize a marketing meeting.|,,,RadioSingle
+989012539,2,A1,MidTerm,Clean and Green|,,,RadioSingle
+989012539,2,A1,MidTerm,How can the company compete with larger online businesses?|,,,RadioSingle
+989012539,2,A1,MidTerm,Adopt-a-dog campaign|,,,RadioSingle
+989012539,2,A1,MidTerm,in business magazines.|,,,RadioSingle
+989012539,3,A1,MidTerm,cultural differences of the country you will be visiting|,,,RadioSingle
+989012539,3,A1,MidTerm,She often works overseas.|,,,RadioSingle
+989012539,3,A1,MidTerm,The Finns did not react to her presentation.|,,,RadioSingle
+989012539,3,A1,MidTerm,they don't speak a lot and don't mind being silent.|,,,RadioSingle
+989012539,3,A1,MidTerm,find out how people behave in the country you are planning to visit|,,,RadioSingle
+989012539,4,A1,MidTerm,False|,,,RadioSingle
+989012539,4,A1,MidTerm,he was afraid to jump.|,,,RadioSingle
+989012539,4,A1,MidTerm,flying.|,,,RadioSingle
+989012539,4,A1,MidTerm,It depends on the altitude.|,,,RadioSingle
+989012539,4,A1,MidTerm,True|,,,RadioSingle
+989012539,5,A1,MidTerm,tragic|disappeared|criminal|solution|mansion,,,DragAndDropMultiple
+989012539,5,A1,MidTerm,nerve|thrill|parachute|experience|adventure,,,comboBox
+989012539,5,A1,MidTerm,magazine issue|catchy headline|got wind of a story|follow up on that story|hard evidence,,,DragAndDropMultiple
+989012539,5,A1,MidTerm,will have been waiting|will have lost|will have been|will have arrived|will have come,,,comboBox
+989012539,5,A1,MidTerm,so|that|and|unexpected that|which,,,comboBox
+989012539,5,A1,MidTerm,to have become|have lowered|to have stayed|to have been hurt|to have been,,,comboBox
+989012544,1,A2,MidTerm,complaining,,,RadioSingle
+989012544,1,A2,MidTerm,to be successful in her career|,,,RadioSingle
+989012544,1,A2,MidTerm,cleaning|,,,RadioSingle
+989012544,1,A2,MidTerm,sad that|,,,RadioSingle 
+989012544,1,A2,MidTerm,She has a stressful job|,,,RadioSingle
+989012544,2,A2,MidTerm,summarize|,,,RadioSingle
+989012544,2,A2,MidTerm,An office building|,,,RadioSingle
+989012544,2,A2,MidTerm,Many of the town's|,,,RadioSingle
+989012544,2,A2,MidTerm,To help|,,,RadioSingle
+989012544,2,A2,MidTerm,Setting up a special committee|,,,RadioSingle
+989012544,3,A2,MidTerm,she broke up|,,,RadioSingle
+989012544,3,A2,MidTerm,Lucy thought|,,,RadioSingle
+989012544,3,A2,MidTerm,He wants to concentrate|,,,RadioSingle
+989012544,3,A2,MidTerm,she saw|,,,RadioSingle
+989012544,3,A2,MidTerm,She doesn't like|,,,RadioSingle
+989012544,4,A2,MidTerm,Ways to get|,,,RadioSingle
+989012544,4,A2,MidTerm,a person|,,,RadioSingle
+989012544,4,A2,MidTerm,She can't|,,,RadioSingle
+989012544,4,A2,MidTerm,Listening|,,,RadioSingle
+989012544,4,A2,MidTerm,stopping|,,,RadioSingle
+989012544,5,A2,MidTerm,glamorous|surveyed|ambition|challenge|executives,,,comboBox
+989012544,5,A2,MidTerm,motivation|committed|participate|range|ability,,,comboBox
+989012544,5,A2,MidTerm,what's been going on|I'm having difficulty|worse than|it's not as if|work things out,,,DragAndDropMultiple
+989012544,5,A2,MidTerm,In spite of the fact that|Seeing that|As a result of|consequently|because,,,comboBox
+989012544,5,A2,MidTerm,I'd better|boring|there are|I'd rather|make,,,comboBox
+989012544,5,A2,MidTerm,First of all|Second|After that|Finally|at first,,,comboBox
+989013545,1,A3,MidTerm,To offer,,,RadioSingle
+989013545,1,A3,MidTerm,To thank|,,,RadioSingle
+989013545,1,A3,MidTerm,True|,,,RadioSingle
+989013545,1,A3,MidTerm,Because she enjoys|,,,RadioSingle
+989013545,1,A3,MidTerm,Harvey|,,,RadioSingle
+989013545,2,A3,MidTerm,To announce the opening|,,,RadioSingle
+989013545,2,A3,MidTerm,Increasing strength|,,,RadioSingle
+989013545,2,A3,MidTerm,False|,,,RadioSingle
+989013545,2,A3,MidTerm,is in|,,,RadioSingle
+989013545,2,A3,MidTerm,Jeana Webber|,,,RadioSingle
+989013545,3,A3,MidTerm,To describe|,,,RadioSingle
+989013545,3,A3,MidTerm,Photographing|,,,RadioSingle
+989013545,3,A3,MidTerm,About the|,,,RadioSingle
+989013545,3,A3,MidTerm,Hiking|,,,RadioSingle
+989013545,3,A3,MidTerm,To see photos|,,,RadioSingle
+989013545,4,A3,MidTerm,Planning a visit with Amy's parents|,,,RadioSingle
+989013545,4,A3,MidTerm,He wants|,,,RadioSingle
+989013545,4,A3,MidTerm,to tell her|,,,RadioSingle
+989013545,4,A3,MidTerm,We don't know|,,,RadioSingle
+989013545,4,A3,MidTerm,She'd be happy|,,,RadioSingle
+989013545,5,A3,MidTerm,blind|ordeal|pessimistic|Braille|deserved,,,DragAndDropMultiple
+989013545,5,A3,MidTerm,practical jokes|giggle|had it with|It's high time|barely,,,DragAndDropMultiple
+989013545,5,A3,MidTerm,involved in|charged|to escape|lost their trail|Take my word for it,,,DragAndDropMultiple
+989013545,5,A3,MidTerm,not such|such|so|not so|such a,,,DragAndDropMultiple
+989013545,5,A3,MidTerm,Neither|nor|any|None|never,,,comboBox
+989013545,5,A3,MidTerm,do|hiking|walked|fishing|to see,,,comboBox
+989017755,1,B1,MidTerm,newspaper article,,,RadioSingle
+989017755,1,B1,MidTerm,She writes.,,,RadioSingle
+989017755,1,B1,MidTerm,He is famous,,,RadioSingle
+989017755,1,B1,MidTerm,TRUE,,,RadioSingle
+989017755,1,B1,MidTerm,TRUE,,,RadioSingle
+989017755,2,B1,MidTerm,Samantha,,,RadioSingle
+989017755,2,B1,MidTerm,Madrid.,,,RadioSingle
+989017755,2,B1,MidTerm,The hotel manager can't find Samantha's reservation.,,,RadioSingle
+989017755,2,B1,MidTerm,We don't know.,,,RadioSingle
+989017755,2,B1,MidTerm,We don't know.,,,RadioSingle
+989017755,3,B1,MidTerm,can't find his phone,,,RadioSingle
+989017755,3,B1,MidTerm,TRUE,,,RadioSingle
+989017755,3,B1,MidTerm,We don't know.,,,RadioSingle
+989017755,3,B1,MidTerm,look the same,,,RadioSingle
+989017755,3,B1,MidTerm,In the woman's bag,,,RadioSingle
+989017755,4,B1,MidTerm,talking on the phone,,,RadioSingle
+989017755,4,B1,MidTerm,She is listening to a podcast,,,RadioSingle
+989017755,4,B1,MidTerm,It's raining,,,RadioSingle
+989017755,4,B1,MidTerm,FALSE,,,RadioSingle
+989017755,4,B1,MidTerm,TRUE,,,RadioSingle
+989017755,5,B1,MidTerm,concert|music|a movie|theater|rock star|,,,comboBox
+989017755,6,B1,MidTerm,menu|delicious|an appetizer|side dish|drink,,,comboBox
+989017755,7,B1,MidTerm,over|turning around|think|studying|meet|,,,DragAndDropMultiple
+989017755,8,B1,MidTerm,There is|Are|Is there|there are|Are there|,,,comboBox
+989017755,9,B1,MidTerm,Are you feeling|I'm trying|He's working|Is anyone helping|I'm doing,,,comboBox
+989017755,10,B1,MidTerm,is not starting|aren't meeting|are not having|aren't resting|aren't bringing|,,,comboBox
+989017755#,1,B1,MidTerm,newspaper article,,,RadioSingle
+989017755#,1,B1,MidTerm,She writes.,,DoNotAnswer,RadioSingle
+989017755#,1,B1,MidTerm,He is famous,,,RadioSingle
+989017755#,1,B1,MidTerm,TRUE,,,RadioSingle
+989017755#,1,B1,MidTerm,TRUE,,,RadioSingle
+989017755#,2,B1,MidTerm,Karen,,,RadioSingle
+989017755#,2,B1,MidTerm,Turkey,,,RadioSingle
+989017755#,2,B1,MidTerm,The hotel is closed.,,,RadioSingle
+989017755#,2,B1,MidTerm,TRUE,,,RadioSingle
+989017755#,2,B1,MidTerm,TRUE,,,RadioSingle
+989017755#,3,B1,MidTerm,can't find his phone,,,RadioSingle
+989017755#,3,B1,MidTerm,TRUE,,,RadioSingle
+989017755#,3,B1,MidTerm,We don't know.,,,RadioSingle
+989017755#,3,B1,MidTerm,look the same,,,RadioSingle
+989017755#,3,B1,MidTerm,In the woman's bag,,,RadioSingle
+989017755#,4,B1,MidTerm,talking on the phone,,,RadioSingle
+989017755#,4,B1,MidTerm,She is listening to a podcast,,,RadioSingle
+989017755#,4,B1,MidTerm,It's raining,,,RadioSingle
+989017755#,4,B1,MidTerm,FALSE,,,RadioSingle
+989017755#,4,B1,MidTerm,TRUE,,,RadioSingle
+989017755#,5,B1,MidTerm,radio|music|a movie|theater|rock star,,,comboBox
+989017755#,6,B1,MidTerm,menu|dessert|an appetizer|side dish|drink,,,comboBox
+989017755#,7,B1,MidTerm,turning around|over|think|studying|meet,,,DragAndDropMultiple
+989017755#,8,B1,MidTerm,There are|Are|Is there|there are|Are there|,,,comboBox
+989017755#,9,B1,MidTerm,You feels|I'm trying|He's working|Is anyone helping|I'm doing,,,comboBox
+989017755#,10,B1,MidTerm,no start|aren't meeting|are not having|aren't resting|aren't bringing,,,comboBox
+989012509#,1,B1,MidTerm,TRUE,,,RadioSingle
+989012509#,1,B1,MidTerm,soup main dish dessert and drink.,,,RadioSingle
+989012509#,1,B1,MidTerm,FALSE,,,RadioSingle
+989012509#,1,B1,MidTerm,TRUE,,,RadioSingle
+989012509#,1,B1,MidTerm,45 Main Street, Newtown,,RadioSingle
+989012509#,2,B1,MidTerm,Studying,,,RadioSingle
+989012509#,2,B1,MidTerm,Jon,,,RadioSingle
+989012509#,2,B1,MidTerm,The news,,,RadioSingle
+989012509#,2,B1,MidTerm,TRUE,,,RadioSingle
+989012509#,2,B1,MidTerm,TRUE,,,RadioSingle
+989012509#,3,B1,MidTerm,at The Mozart Theater,,,RadioSingle
+989012509#,3,B1,MidTerm,FALSE,,,RadioSingle
+989012509#,3,B1,MidTerm,a rock star,,,RadioSingle
+989012509#,3,B1,MidTerm,TRUE,,,RadioSingle
+989012509#,3,B1,MidTerm,FALSE,,,RadioSingle
+989012509#,4,B1,MidTerm,The man is on a business trip,,,RadioSingle
+989012509#,4,B1,MidTerm,FALSE,,,RadioSingle
+989012509#,4,B1,MidTerm,to the office,,,RadioSingle
+989012509#,4,B1,MidTerm,He is walking,,,RadioSingle
+989012509#,4,B1,MidTerm,TRUE,,,RadioSingle
+989012509#,5,B1,MidTerm,station|wallet|thief|looks|coffee|,,,comboBox
+989012509#,5,B1,MidTerm,note|restaurant|movie|Theater|walking|,,,comboBox
+989012509#,5,B1,MidTerm,guest|trip|pool|security guard|on business,,,DragAndDropMultiple
+989012509#,5,B1,MidTerm,an|are|are|is|is|at a|The|,,,comboBox
+989012509#,5,B1,MidTerm,am|Are|aren't|Is|isn't|are,,,comboBox
+989012509#,5,B1,MidTerm,you not here|I'm not coming|What is he saying|she's not|She's asking|,,,comboBox
+989013148#,1,B1,MidTerm,newspaper article,,,RadioSingle
+989013148#,1,B1,MidTerm,She writes.,,,RadioSingle
+989013148#,1,B1,MidTerm,He is famous,,,RadioSingle
+989013148#,1,B1,MidTerm,TRUE,,,RadioSingle
+989013148#,1,B1,MidTerm,TRUE,,,RadioSingle
+989013148#,2,B1,MidTerm,Karen,,,RadioSingle
+989013148#,2,B1,MidTerm,Turkey,,,RadioSingle
+989013148#,2,B1,MidTerm,The hotel is closed.,,,RadioSingle
+989013148#,2,B1,MidTerm,TRUE,,,RadioSingle
+989013148#,2,B1,MidTerm,TRUE,,,RadioSingle
+989013148#,3,B1,MidTerm,can't find his phone,,,RadioSingle
+989013148#,3,B1,MidTerm,TRUE,,,RadioSingle
+989013148#,3,B1,MidTerm,We don't know.,,,RadioSingle
+989013148#,3,B1,MidTerm,look the same,,,RadioSingle
+989013148#,3,B1,MidTerm,In the woman's bag,,,RadioSingle
+989013148#,4,B1,MidTerm,talking on the phone,,,RadioSingle
+989013148#,4,B1,MidTerm,She is listening to a podcast,,,RadioSingle
+989013148#,4,B1,MidTerm,It's raining,,,RadioSingle
+989013148#,4,B1,MidTerm,FALSE,,,RadioSingle
+989013148#,4,B1,MidTerm,TRUE,,,RadioSingle
+989013148#,5,B1,MidTerm,radio|music|a movie|theater|rock star|,,,comboBox
+989013148#,5,B1,MidTerm,menu|dessert|an appetizer|side dish|drink|,,,comboBox
+989013148#,5,B1,MidTerm,turning around|over|think|studying|meet,,,DragAndDropMultiple
+989013148#,5,B1,MidTerm,There are|Are|Is there|there are|Are there|,,,comboBox
+989013148#,5,B1,MidTerm,You feels|I'm trying|He's working|Is anyone helping|I'm doing|,,,comboBox
+989013148#,5,B1,MidTerm,no start|aren't meeting|are not having|aren't resting|aren't bringing|,,,comboBox
+989022790,1,FD,MidTerm,Bananas,,,RadioSingle
+989022790,1,FD,MidTerm,TRUE,,,RadioSingle
+989022790,1,FD,MidTerm,TRUE,,,RadioSingle
+989022790,1,FD,MidTerm,peppers.,,,RadioSingle
+989022790,1,FD,MidTerm,Tea,,,RadioSingle
+989022790,2,FD,MidTerm,Morning,,,RadioSingle
+989022790,2,FD,MidTerm,backache.,,,RadioSingle
+989022790,2,FD,MidTerm,two pills a day.,,,RadioSingle
+989022790,2,FD,MidTerm,FALSE,,,RadioSingle
+989022790,2,FD,MidTerm,Monday.,,,RadioSingle
+989022790,3,FD,MidTerm,sh|ch|ck|ou|ea|ai,,,DrapAndDropToPictureNotAngular
+989022790,3,FD,MidTerm,morning|Good night|Good afternoon|Hi!|Goodbye!,,,comboBox
+989022790,3,FD,MidTerm,twenty-five|twenty-seven|thirty|fifty|eighty|one hundred,,,DrapAndDropToPictureNotAngular
+989022790,3,FD,MidTerm,33 W. Park Avenue|35|312-555-0879|RR@mail.com|United States,,,DragAndDropMultiple
+989022790,3,FD,MidTerm,a mouth|an eye|an ear|a head|a toe|a foot,,,DrapAndDropToPictureNotAngular
+989022790,3,FD,MidTerm,a headache|an appointment|doctor|prescription|pills,,,comboBox
+989022790,4,FD,MidTerm,an application form.,,,RadioSingle
+989022790,4,FD,MidTerm,New York.,,,RadioSingle
+989022790,4,FD,MidTerm,30,,,RadioSingle
+989022790,4,FD,MidTerm,teacher.,,,RadioSingle
+989022790,4,FD,MidTerm,Australia.,,,RadioSingle
+989022790,5,FD,MidTerm,He's a taxi driver.,,,RadioSingle
+989022790,5,FD,MidTerm,Mexico.,,,RadioSingle
+989022790,5,FD,MidTerm,In the United Kingdom,,,RadioSingle
+989022790,5,FD,MidTerm,At 8:00 in the morning,,,RadioSingle
+989022790,5,FD,MidTerm,TRUE,,,RadioSingle
+989022835,1,B1,MidTerm,can't find his phone,,,RadioSingle
+989022835,1,B1,MidTerm,TRUE,,,RadioSingle
+989022835,1,B1,MidTerm,We don't know.,,,RadioSingle
+989022835,1,B1,MidTerm,look the same,,,RadioSingle
+989022835,1,B1,MidTerm,In the woman's bag,,,RadioSingle
+989022835,2,B1,MidTerm,talking on the phone,,,RadioSingle
+989022835,2,B1,MidTerm,She is listening to a podcast,,,RadioSingle
+989022835,2,B1,MidTerm,It's raining,,,RadioSingle
+989022835,2,B1,MidTerm,FALSE,,,RadioSingle
+989022835,2,B1,MidTerm,TRUE,,,RadioSingle
+989022835,3,B1,MidTerm,concert|music|a movie|theater|rock star|,,,comboBox
+989022835,3,B1,MidTerm,menu|delicious|an appetizer|side dish|drink,,,comboBox
+989022835,3,B1,MidTerm,over|turning around|think|studying|meet|,,,DragAndDropMultiple
+989022835,4,B1,MidTerm,There is|Are|Is there|there are|Are there|,,,comboBox
+989022835,4,B1,MidTerm,Are you feeling|I'm trying|He's working|Is anyone helping|I'm doing,,,comboBox
+989022835,4,B1,MidTerm,is not starting|aren't meeting|are not having|aren't resting|aren't bringing|,,,comboBox
+989022835,5,B1,MidTerm,an article,,,RadioSingle
+989022835,5,B1,MidTerm,She writes.,,,RadioSingle
+989022835,5,B1,MidTerm,He is famous,,,RadioSingle
+989022835,5,B1,MidTerm,TRUE,,,RadioSingle
+989022835,5,B1,MidTerm,TRUE,,,RadioSingle
+989022835,6,B1,MidTerm,Samantha,,,RadioSingle
+989022835,6,B1,MidTerm,Madrid.,,,RadioSingle
+989022835,6,B1,MidTerm,The hotel manager can't find Samantha's reservation.,,,RadioSingle
+989022835,6,B1,MidTerm,We don't know.,,,RadioSingle
+989022835,6,B1,MidTerm,We don't know.,,,RadioSingle
+989022877,1,B2,MidTerm,that it's important to eat vegetables.,,,RadioSingle
+989022877,1,B2,MidTerm,She has a cooking show.,,,RadioSingle
+989022877,1,B2,MidTerm,What the best kind of diet is,,,RadioSingle
+989022877,1,B2,MidTerm,FALSE,,,RadioSingle
+989022877,1,B2,MidTerm,We don't know,,,RadioSingle
+989022877,2,B2,MidTerm,They are sports reporters,,,RadioSingle
+989022877,2,B2,MidTerm,TRUE,,,RadioSingle
+989022877,2,B2,MidTerm,It was exciting.,,,RadioSingle
+989022877,2,B2,MidTerm,They try harder than the Dragons.,,,RadioSingle
+989022877,2,B2,MidTerm,We don't know,,,RadioSingle
+989022877,3,B2,MidTerm,delivery|pay|buy|business|store manager,,,DragAndDropMultiple
+989022877,3,B2,MidTerm,exercise|bicycle|basketball|game|win,,,DragAndDropMultiple
+989022877,3,B2,MidTerm,healthy|light|energy|fat-free|salads,,,DragAndDropMultiple
+989022877,4,B2,MidTerm,Where was|Was it|There were|you were|I was,,,comboBox
+989022877,4,B2,MidTerm,much|any|a few|some|lots of,,,comboBox
+989022877,4,B2,MidTerm,I don't|goes|Does it|it does|Do you,,,comboBox
+989022877,5,B2,MidTerm,We don't know,,,RadioSingle
+989022877,5,B2,MidTerm,7:00,,,RadioSingle
+989022877,5,B2,MidTerm,the necklace in purple.,,,RadioSingle
+989022877,5,B2,MidTerm,It is on sale.,,,RadioSingle
+989022877,5,B2,MidTerm,A bag,,,RadioSingle
+989022877,6,B2,MidTerm,An ad,,,RadioSingle
+989022877,6,B2,MidTerm,Students,,,RadioSingle
+989022877,6,B2,MidTerm,They're new.,,,RadioSingle
+989022877,6,B2,MidTerm,where the library is.,,,RadioSingle
+989022877,6,B2,MidTerm,FALSE,,,RadioSingle
+989023044,1,B3,MidTerm,A review of a restaurant,,,RadioSingle
+989023044,1,B3,MidTerm,TRUE,,,RadioSingle
+989023044,1,B3,MidTerm,Dinner,,,RadioSingle
+989023044,1,B3,MidTerm,A glass of water,,,RadioSingle
+989023044,1,B3,MidTerm,FALSE,,,RadioSingle
+989023044,2,B3,MidTerm,Planning a vacation to Australia,,,RadioSingle
+989023044,2,B3,MidTerm,FALSE,,,RadioSingle
+989023044,2,B3,MidTerm,the name of a hotel.,,,RadioSingle
+989023044,2,B3,MidTerm,FALSE,,,RadioSingle
+989023044,2,B3,MidTerm,Natalie will go to class.,,,RadioSingle
+989023044,3,B3,MidTerm,high school|pass|examinations|subjects|college,,,DragAndDropMultiple
+989023044,3,B3,MidTerm,applied|interview|career|location|overtime,,,DragAndDropMultiple
+989023044,3,B3,MidTerm,to go|not to sleep|to stay|to give|to bring,,,DragAndDropMultiple
+989023044,4,B3,MidTerm,travel agency|non-stop flight|cancel|sightseeing|travel arrangements,,,comboBox
+989023044,4,B3,MidTerm,working|selling|seeing|takes|walking,,,comboBox
+989023044,4,B3,MidTerm,going to take|Are you|going to|won't|will call,,,comboBox
+989023044,5,B3,MidTerm,To give information,,,RadioSingle
+989023044,5,B3,MidTerm,FALSE,,,RadioSingle
+989023044,5,B3,MidTerm,Bringing a second suitcase costs money.,,,RadioSingle
+989023044,5,B3,MidTerm,Have their passports,,,RadioSingle
+989023044,5,B3,MidTerm,FALSE,,,RadioSingle
+989023044,6,B3,MidTerm,Changing careers,,,RadioSingle
+989023044,6,B3,MidTerm,Worked at a bank,,,RadioSingle
+989023044,6,B3,MidTerm,FALSE,,,RadioSingle
+989023044,6,B3,MidTerm,To work part-time,,,RadioSingle
+989023044,6,B3,MidTerm,FALSE,,,RadioSingle
+989023117,1,I1,MidTerm,a new exhibit.,,,RadioSingle
+989023117,1,I1,MidTerm,The number of people who came,,,RadioSingle
+989023117,1,I1,MidTerm,False,,,RadioSingle
+989023117,1,I1,MidTerm,A video of Angela,,,RadioSingle
+989023117,1,I1,MidTerm,True,,,RadioSingle
+989023117,2,I1,MidTerm,Lucas's mother.,,,RadioSingle
+989023117,2,I1,MidTerm,How to help Lucas with math,,,RadioSingle
+989023117,2,I1,MidTerm,calm.,,,RadioSingle
+989023117,2,I1,MidTerm,False,,,RadioSingle
+989023117,2,I1,MidTerm,Sharon will call her aunt.,,,RadioSingle
+989023117,3,I1,MidTerm,thunder|lightning|weather report|flooding|bright sunshine,,,DragAndDropMultiple
+989023117,3,I1,MidTerm,elementary school|good grades|homework|graduate|entrance exam,,,comboBox
+989023117,3,I1,MidTerm,band|lead singer|members|hit|fan club,,,DragAndDropMultiple
+989023117,4,I1,MidTerm,have been missing|have been having|Have you been speaking|haven't been speaking|have been looking,,,comboBox
+989023117,4,I1,MidTerm,have you seen|haven't|never been|since|has called,,,comboBox
+989023117,4,I1,MidTerm,that|who|that|which|where,,,comboBox
+989023117,5,I1,MidTerm,what Rosa did on the Fourth of July.,,,RadioSingle
+989023117,5,I1,MidTerm,She went to a parade.,,,RadioSingle
+989023117,5,I1,MidTerm,We don't know.,,,RadioSingle
+989023117,5,I1,MidTerm,False,,,RadioSingle
+989023117,5,I1,MidTerm,art projects.,,,RadioSingle
+989023117,6,I1,MidTerm,Cassandra's experience studying abroad.,,,RadioSingle
+989023117,6,I1,MidTerm,She was homesick.,,,RadioSingle
+989023117,6,I1,MidTerm,True,,,RadioSingle
+989023117,6,I1,MidTerm,has been speaking a lot of Spanish.,,,RadioSingle
+989023117,6,I1,MidTerm,Cassandra's roommate,,,RadioSingle
+989023161,1,I2,MidTerm,do home repairs.,,,RadioSingle
+989023161,1,I2,MidTerm,can fix things.,,,RadioSingle
+989023161,1,I2,MidTerm,He is a good doctor.,,,RadioSingle
+989023161,1,I2,MidTerm,To check the furnace,,,RadioSingle
+989023161,1,I2,MidTerm,True,,,RadioSingle
+989023161,2,I2,MidTerm,How to stay safe while hiking,,,RadioSingle
+989023161,2,I2,MidTerm,An hour,,,RadioSingle
+989023161,2,I2,MidTerm,Go back to find them,,,RadioSingle
+989023161,2,I2,MidTerm,She slipped on a rock.,,,RadioSingle
+989023161,2,I2,MidTerm,False,,,RadioSingle
+989023161,3,I2,MidTerm,cliff|terror|got stuck|bleeding|rescue,,,DragAndDropMultiple
+989023161,3,I2,MidTerm,home repairs|leak|handyman|advice|damaged,,,DragAndDropMultiple
+989023161,3,I2,MidTerm,glamorous|disappointed|tough|bothersome|elegant,,,comboBox
+989023161,4,I2,MidTerm,You'll get there|don't take|won't|buy|won't,,,comboBox
+989023161,4,I2,MidTerm,had kept|fallen|woken|had finally stopped|had already gotten,,,comboBox
+989023161,4,I2,MidTerm,would quit|I'd be|I took|wouldn't,,,comboBox
+989023161,5,I2,MidTerm,where to buy a used car.,,,RadioSingle
+989023161,5,I2,MidTerm,bought a car from Honest Auto.,,,RadioSingle
+989023161,5,I2,MidTerm,False,,,RadioSingle
+989023161,5,I2,MidTerm,buy your car from Honest Auto.,,,RadioSingle
+989023161,5,I2,MidTerm,True,,,RadioSingle
+989023161,6,I2,MidTerm,go to a party.,,,RadioSingle
+989023161,6,I2,MidTerm,False,,,RadioSingle
+989023161,6,I2,MidTerm,She wasn't really friends with her old classmates.,,,RadioSingle
+989023161,6,I2,MidTerm,He always insults people.,,,RadioSingle
+989023161,6,I2,MidTerm,Anthony is going.,,,RadioSingle
+989023208,1,I3,MidTerm,Ways to help people who are homeless,,,RadioSingle
+989023208,1,I3,MidTerm,Winter,,,RadioSingle
+989023208,1,I3,MidTerm,is Beth's brother,,,RadioSingle
+989023208,1,I3,MidTerm,False,,,RadioSingle
+989023208,1,I3,MidTerm,We don't know,,,RadioSingle
+989023208,2,I3,MidTerm,False,,,RadioSingle
+989023208,2,I3,MidTerm,Potato chips,,,RadioSingle
+989023208,2,I3,MidTerm,Her doctor,,,RadioSingle
+989023208,2,I3,MidTerm,eat better and exercise,,,RadioSingle
+989023208,2,I3,MidTerm,True,,,RadioSingle
+989023208,3,I3,MidTerm,get engaged|spending time|easy going|sense of humor|in love,,,DragAndDropMultiple
+989023208,3,I3,MidTerm,going on strike|wage increase|empty promises|made cuts|handles the situation,,,DragAndDropMultiple
+989023208,3,I3,MidTerm,on the streets|taking steps|Senior Citizens|senior citizens|housing alternatives,,,DragAndDropMultiple
+989023208,4,I3,MidTerm,shouldn't have|could have given|should have felt|could have fallen|would have been,,,comboBox
+989023208,4,I3,MidTerm,wouldn't have happened|I hadn't gotten|would have gone|would have asked|I'd brought it,,,comboBox
+989023208,4,I3,MidTerm,might have been|must have been|might have left|must not have done|may have eaten,,,comboBox
+989023208,5,I3,MidTerm,Basketball,,,RadioSingle
+989023208,5,I3,MidTerm,True,,,RadioSingle
+989023208,5,I3,MidTerm,Stuart Stark,,,RadioSingle
+989023208,5,I3,MidTerm,Lions fans,,,RadioSingle 
+989023208,5,I3,MidTerm,The coach is not very good,,,RadioSingle
+989023208,6,I3,MidTerm,They're not paying their employees' salaries.,,,RadioSingle
+989023208,6,I3,MidTerm,meet with a lawyer.,,,RadioSingle
+989023208,6,I3,MidTerm,We don't know,,,RadioSingle
+989023208,6,I3,MidTerm,False,,,RadioSingle
+989023208,6,I3,MidTerm,Some employees will contact Ellen Rose.,,,RadioSingle
+989023257,1,A1,MidTerm,Mitch Karoll will meet with Jen and him.,,,RadioSingle
+989023257,1,A1,MidTerm,starting their own company.,,,RadioSingle
+989023257,1,A1,MidTerm,Miracle Jacket,,,RadioSingle
+989023257,1,A1,MidTerm,Checking out the competition,,,RadioSingle
+989023257,1,A1,MidTerm,It's warmer.,,,RadioSingle
+989023257,2,A1,MidTerm,library.,,,RadioSingle
+989023257,2,A1,MidTerm,We don't know.,,,RadioSingle
+989023257,2,A1,MidTerm,False,,,RadioSingle
+989023257,2,A1,MidTerm,fan of Malone's work.,,,RadioSingle
+989023257,2,A1,MidTerm,We don't know.,,,RadioSingle
+989023257,3,A1,MidTerm,bored|unpredictable|rough|sensitive|fabulous,,,comboBox
+989023257,3,A1,MidTerm,tabloid newspapers|scandal|gathering facts|hard evidence,,,DragAndDropMultiple
+989023257,3,A1,MidTerm,interest rates|bounced a check|investment|marketing strategy|campaign,,,DragAndDropMultiple
+989023257,4,A1,MidTerm,we'll have been looking|we'll have become|we'll have reserved|have finished|we'll have been friends,,,comboBox
+989023257,4,A1,MidTerm,to be helped|to be encouraged|be invited|to be accepted|to be reminded of,,,comboBox
+989023257,4,A1,MidTerm,we'll be lying|you'll be working|You'll be reading|You'll be talking|won't,,,comboBox
+989023257,5,A1,MidTerm,My Thoughts on Extreme Sports,,,RadioSingle
+989023257,5,A1,MidTerm,We don't know.,,,RadioSingle
+989023257,5,A1,MidTerm,watch his videos.,,,RadioSingle
+989023257,5,A1,MidTerm,It helps you meet new people.,,,RadioSingle
+989023257,5,A1,MidTerm,Vic started doing extreme sports in high school.,,,RadioSingle
+989023257,6,A1,MidTerm,Cultural differences,,,RadioSingle
+989023257,6,A1,MidTerm,Bulgaria,,,RadioSingle
+989023257,6,A1,MidTerm,True,,,RadioSingle
+989023257,6,A1,MidTerm,made eye contact.,,,RadioSingle
+989023257,6,A1,MidTerm,Research cultural differences before they travel,,,RadioSingle
+989023299,1,A2,MidTerm,What Keith's job interview was like,,,RadioSingle
+989023299,1,A2,MidTerm,had challenging activities.,,,RadioSingle
+989023299,1,A2,MidTerm,False,,,RadioSingle
+989023299,1,A2,MidTerm,Ambitious,,,RadioSingle
+989023299,1,A2,MidTerm,He doesn't know.,,,RadioSingle
+989023299,2,A2,MidTerm,They're on vacation.,,,RadioSingle
+989023299,2,A2,MidTerm,What to do first,,,RadioSingle
+989023299,2,A2,MidTerm,False,,,RadioSingle
+989023299,2,A2,MidTerm,it's not good weather for the beach.,,,RadioSingle
+989023299,2,A2,MidTerm,When it's raining,,,RadioSingle
+989023299,3,A2,MidTerm,isolation|bright and early|paperwork|struggle alone|deserve the best,,,DragAndDropMultiple
+989023299,3,A2,MidTerm,in suspense|I'd hate to have|majority|just this one time|seeing that,,,DragAndDropMultiple
+989023299,3,A2,MidTerm,ambitious|job security|challenging|I don't let anything stand in my way|account executive,,,DragAndDropMultiple
+989023299,4,A2,MidTerm,because|as a result|since|Consequently|seeing that,,,comboBox
+989023299,4,A2,MidTerm,make|do|makes|to do,,,comboBox
+989023299,4,A2,MidTerm,would|I would go|want|they'll listen|I would do,,,comboBox
+989023299,5,A2,MidTerm,her friend.,,,RadioSingle
+989023299,5,A2,MidTerm,True,,,RadioSingle
+989023299,5,A2,MidTerm,The apartment has bugs.,,,RadioSingle
+989023299,5,A2,MidTerm,Sara didn't like her last apartment.,,,RadioSingle
+989023299,5,A2,MidTerm,We don't know.,,,RadioSingle
+989023299,6,A2,MidTerm,How to cope with anxiety,,,RadioSingle
+989023299,6,A2,MidTerm,False,,,RadioSingle
+989023299,6,A2,MidTerm,doing exercises that help you relax.,,,RadioSingle
+989023299,6,A2,MidTerm,focuses on positive things.,,,RadioSingle
+989023299,6,A2,MidTerm,She'll give more information about the strategies she just mentioned.,,,RadioSingle
+989023341,1,A3,MidTerm,To describe a trip to Flagstaff,,,RadioSingle
+989023341,1,A3,MidTerm,Photographing bears,,,RadioSingle
+989023341,1,A3,MidTerm,About the animal life in the Grand Canyon,,,RadioSingle
+989023341,1,A3,MidTerm,Hiking to the top of the canyon,,,RadioSingle
+989023341,1,A3,MidTerm,To see photos from the trip,,,RadioSingle
+989023341,2,A3,MidTerm,Planning a visit with Amy's parents,,,RadioSingle
+989023341,2,A3,MidTerm,He wants to meet them.,,,RadioSingle
+989023341,2,A3,MidTerm,to tell her they'll come for dinner Friday night.,,,RadioSingle
+989023341,2,A3,MidTerm,We don't know.,,,RadioSingle
+989023341,2,A3,MidTerm,She'd be happy to meet them.,,,RadioSingle
+989023341,3,A3,MidTerm,blind|ordeal|pessimistic|Braille|deserved,,,DragAndDropMultiple
+989023341,3,A3,MidTerm,giggle|had it with|It's high time|barely,,,DragAndDropMultiple
+989023341,3,A3,MidTerm,involved in|charged|to escape|lost their trail|Take my word for it,,,DragAndDropMultiple
+989023341,4,A3,MidTerm,not such|such|so|not so|such a,,,DragAndDropMultiple
+989023341,4,A3,MidTerm,Neither|nor|any|None|never,,,comboBox
+989023341,4,A3,MidTerm,do|hiking|walked|fishing|to see,,,comboBox
+989023341,5,A3,MidTerm,To offer Regina a full-time position,,,RadioSingle
+989023341,5,A3,MidTerm,To thank her for her work on the marketing materials,,,RadioSingle
+989023341,5,A3,MidTerm,True,,,RadioSingle
+989023341,5,A3,MidTerm,Because she enjoys the benefits of being a freelancer,,,RadioSingle
+989023341,5,A3,MidTerm,Harvey Middleton,,,RadioSingle
+989023341,6,A3,MidTerm,To announce the opening of a sports league,,,RadioSingle
+989023341,6,A3,MidTerm,Increasing strength,,,RadioSingle
+989023341,6,A3,MidTerm,False,,,RadioSingle
+989023341,6,A3,MidTerm,is in a wheelchair because of a sports injury.,,,RadioSingle
+989023341,6,A3,MidTerm,Jeana Webber,,,RadioSingle

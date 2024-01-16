@@ -1,0 +1,1 @@
+powershell.exe "files\RestartAppPool\StopRC.ps1"

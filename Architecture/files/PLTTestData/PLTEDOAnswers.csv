@@ -1,0 +1,22 @@
+1,"My Interesting Neighborhood",1_1,,,DragAndDropSingle
+1,She lives on a quiet street with interesting neighbors.,,,,RadioSingle
+1,He works at night.,,,,RadioSingle
+1,Paulo Guzman,,,,RadioSingle
+1,cars,,,,RadioSingle
+1,False,,,,RadioSingle
+1,Washington,,,,RadioSingle
+1,They were in their rooms.,,,,RadioSingle
+1,the hotel receptionist,,,,RadioSingle
+1,The firemen worked very hard.,,,,RadioSingle
+1,Why|was|David|wasn't,,,,DragAndDropMultiple
+1,He's taking|He doesn't usually take,,,,DragAndDropMultiple
+1,does she want|She's looking for,,,,comboBox
+1,hear|is coming,,,,comboBox
+1,She's going|She goes,,,,DragAndDropMultiple
+1,Where were|was,,,,comboBox
+1,didn't swim|sat,,,,comboBox
+1,fell,,,,DragAndDropSingle
+1,do you have to|may,,,,comboBox
+1,May|Can,,,,comboBox
+1,any|a little,,,,comboBox
+1,Is|some,,,,comboBox

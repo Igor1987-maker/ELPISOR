@@ -1,0 +1,62 @@
+1,B1,MidTerm,True,,,RadioSingle
+1,B1,MidTerm,and drink.|,,,RadioSingle
+1,B1,MidTerm,False|,,,RadioSingle
+1,B1,MidTerm,True|,,,RadioSingle
+1,B1,MidTerm,45 Main|,,,RadioSingle
+2,B1,MidTerm,True|,,,RadioSingle
+2,B1,MidTerm,soup and main dish.|,,,RadioSingle
+2,B1,MidTerm,False|,,,RadioSingle
+2,B1,MidTerm,True|,,,RadioSingle
+2,B1,MidTerm,excellent food.|,,,RadioSingle
+3,B1,MidTerm,restaurant|wallet|thief|looks|coffee,,,comboBox
+3,B1,MidTerm,idea|restaurant|movie|Theater|walking,,,comboBox
+3,B1,MidTerm,a|are|are|is|is|at a|The,,,comboBox
+3,B1,MidTerm,is|Are|aren't|Is|isn't|are,,,comboBox
+1,I3,FinalTest,because she took part in sports activities,,,RadioSingle
+1,I3,FinalTest,She was embarrassed about her weight.,,,RadioSingle
+1,I3,FinalTest,She was worried she would die young.,,,RadioSingle
+1,I3,FinalTest,cooking healthy meals at home and lifting weights.,,,RadioSingle
+1,I3,FinalTest,her husband started going with her to the gym.,,,RadioSingle
+1,I3,FinalTest,Karen left high school|She gave up basketball|She put on a lot of weight|Karen's doctor told her to lose weight|Her friend showed her how to make healthy meals|She started lifting weights|She lost weight|She got her husband to go to the gym with her|She opened her own gym,,,DragAndDropMultiple
+1,I3,FinalTest,in a fitness magazine,,,RadioSingle
+2,I3,FinalTest,True|,,,RadioSingle
+2,I3,FinalTest,She had left the house in a hurry,,,RadioSingle
+2,I3,FinalTest,She drove too fast and yelled at a stranger.,,,RadioSingle
+2,I3,FinalTest,Nicole was rude,,,RadioSingle
+2,I3,FinalTest,He asked her out to dinner.,,,RadioSingle
+2,I3,FinalTest,Don't be fooled by first impressions.,,,RadioSingle
+2,I3,FinalTest,Nicole's mom got sick.|She got a phone call from her dad.|She almost had an accident on the way to the hospital.|She forgot about the accident.|Her mom recovered.|Nicole met Lawrence again at a party.,,,DragAndDropMultiple
+3,I3,FinalTest,working conditions at the steel plant,,,RadioSingle
+3,I3,FinalTest,Their wages were cut.,,,RadioSingle
+3,I3,FinalTest,False|,,,RadioSingle
+3,I3,FinalTest,He didn't want to fire workers.,,,RadioSingle
+3,I3,FinalTest,when the salaries of people in management go down or the workers' salaries go up,,,RadioSingle
+3,I3,FinalTest,news report.,,,RadioSingle
+3,I3,FinalTest,neutral,,,RadioSingle
+4,I3,FinalTest,An outstanding opera singer named Carmen will soon appear in town.,,,RadioSingle
+4,I3,FinalTest,an actress.,,,RadioSingle
+4,I3,FinalTest,The Blind Date.,,,RadioSingle
+4,I3,FinalTest,False|,,,RadioSingle
+4,I3,FinalTest,We don't know.,,,RadioSingle
+4,I3,FinalTest,arts and entertainment.,,,RadioSingle
+4,I3,FinalTest,excited,,,RadioSingle
+5,I3,FinalTest,shy|snob|strangers|humor|realize,,,DragAndDropMultiple
+5,I3,FinalTest,delicious|review|appetite|silverware|roast beef,,,DragAndDropMultiple
+5,I3,FinalTest,who|whenever|whose|whoever|which,,,comboBox
+5,I3,FinalTest,nutritious|conscientious|weigh|sensibly|overweight,,,DragAndDropMultiple
+5,I3,FinalTest,could have been|should have gone|shouldn't have stayed|couldn't have been|should have known,,,comboBox
+5,I3,FinalTest,may have forgotten|must have|might have been|must have been|might not have,,,comboBox
+5,I3,FinalTest,who|whenever|which|whatever|which,,,comboBox
+5,I3,FinalTest,hadn't spoken|might have happened|wouldn't have|would have been|see,,,comboBox
+6,I3,FinalTest,A vacation in an eco-lodge,,,RadioSingle
+6,I3,FinalTest,and two bathrooms,,,RadioSingle
+6,I3,FinalTest,They have modern water-conservation systems,,,RadioSingle
+6,I3,FinalTest,True|,,,RadioSingle
+6,I3,FinalTest,The exercise machines produce electricity.,,,RadioSingle
+6,I3,FinalTest,Ms. Johnson has a pet dog.,,,RadioSingle
+6,I3,FinalTest,He works for guest services at an eco-lodge.,,,RadioSingle
+1,B1,FinalTest,a newspaper,,,RadioSingle
+1,B1,FinalTest,True|,,,RadioSingle
+1,B1,FinalTest,her wallet,,,RadioSingle
+1,B1,FinalTest,True|,,,RadioSingle
+1,B1,FinalTest,True|,,,RadioSingle

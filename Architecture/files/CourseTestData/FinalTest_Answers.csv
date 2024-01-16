@@ -1,0 +1,1028 @@
+47838,1,FD,FinalTest,husband and wife.,,,RadioSingle
+47838,1,FD,FinalTest,In a hospital|,,,RadioSingle
+47838,1,FD,FinalTest,a police officer.|,,,RadioSingle
+47838,1,FD,FinalTest,At night|,,,RadioSingle 
+47838,1,FD,FinalTest,11 years old|,,,RadioSingle
+47838,2,FD,FinalTest,2022 Olympic Road|,,,RadioSingle
+47838,2,FD,FinalTest,Football|,,,RadioSingle
+47838,2,FD,FinalTest,True|,,,RadioSingle
+47838,2,FD,FinalTest,Sundays.|,,,RadioSingle
+47838,2,FD,FinalTest,On Tuesday night|,,,RadioSingle
+47838,3,FD,FinalTest,At the supermarket|,,,RadioSingle
+47838,3,FD,FinalTest,False|,,,RadioSingle
+47838,3,FD,FinalTest,Cookies|,,,RadioSingle
+47838,3,FD,FinalTest,Three|,,,RadioSingle
+47838,3,FD,FinalTest,True|,,,RadioSingle
+47838,4,FD,FinalTest,False|,,,RadioSingle
+47838,4,FD,FinalTest,nice.|,,,RadioSingle
+47838,4,FD,FinalTest,Two|,,,RadioSingle
+47838,4,FD,FinalTest,True|,,,RadioSingle
+47838,4,FD,FinalTest,new.|,,,RadioSingle
+47838,5,FD,FinalTest,a blue dress|a green shirt|a white coat|a black hat|a yellow skirt|a pink T-shirt,,,DrapAndDropToPicture
+47838,5,FD,FinalTest,ears|head|throat|mouth|a prescription,,,comboBox
+47838,5,FD,FinalTest,tomato|an apple|a pepper|cucumber|cake,,,comboBox
+47838,5,FD,FinalTest,young|big|terrible|nice|old,,,comboBox
+47838,5,FD,FinalTest,kitchen|bathroom|garden|living room|dining room,,,comboBox
+47838,5,FD,FinalTest,teacher|secretary|taxi driver|student|nurse,,,comboBox
+47838,5,FD,FinalTest,This is my sister Angela.|Tom has two sons.|Is this your father?|Linda has a big brother.|My son is two years old.|She is a mother.,,,DrapAndDropToPicture
+47838,5,FD,FinalTest,twenty|fifteen|four|seventeen|twelve|five,,,DrapAndDropToPicture
+1540731,1,B1,FinalTest,Victor Hane's food truck.,,,RadioSingle
+1540731,1,B1,FinalTest,Burgers,,,RadioSingle
+1540731,1,B1,FinalTest,TRUE,,,RadioSingle
+1540731,1,B1,FinalTest,We don't know.,,,RadioSingle
+1540731,1,B1,FinalTest,Menus,,,RadioSingle
+1540731,2,B1,FinalTest,have someone walk their dog.,,,RadioSingle
+1540731,2,B1,FinalTest,dog walking service.,,,RadioSingle
+1540731,2,B1,FinalTest,TRUE,,,RadioSingle
+1540731,2,B1,FinalTest,$20. ,,,RadioSingle
+1540731,2,B1,FinalTest,Call them on the phone.,,,RadioSingle
+1540731,3,B1,FinalTest,On a business trip,,,RadioSingle
+1540731,3,B1,FinalTest,They work together.,,,RadioSingle
+1540731,3,B1,FinalTest,TRUE,,,RadioSingle
+1540731,3,B1,FinalTest,Is the pool nice?,,,RadioSingle
+1540731,3,B1,FinalTest,speak to a group.,,,RadioSingle
+1540731,4,B1,FinalTest,She has a podcast.,,,RadioSingle
+1540731,4,B1,FinalTest,TRUE,,,RadioSingle
+1540731,4,B1,FinalTest,FALSE,,,RadioSingle
+1540731,4,B1,FinalTest,on the radio.,,,RadioSingle
+1540731,4,B1,FinalTest,Misha will play some of his new music.,,,RadioSingle
+1540731,5,B1,FinalTest,What kinds of exercise the man can do,,,RadioSingle
+1540731,5,B1,FinalTest,runs.,,,RadioSingle
+1540731,5,B1,FinalTest,It has high prices.,,,RadioSingle
+1540731,5,B1,FinalTest,He doesn't have a bike.,,,RadioSingle
+1540731,5,B1,FinalTest,Walking,,,RadioSingle
+1540731,6,B1,FinalTest,To find out where George is,,,RadioSingle
+1540731,6,B1,FinalTest,7:00,,,RadioSingle
+1540731,6,B1,FinalTest,George is not at the train station.,,,RadioSingle
+1540731,6,B1,FinalTest,To a play,,,RadioSingle
+1540731,6,B1,FinalTest,Call Liza,,,RadioSingle
+1540731,7,B1,FinalTest,court|parking ticket|fine|judge|police officer|,,,DragAndDropMultiple
+1540731,7,B1,FinalTest,menu|main dish|side dish|delicious|drink,,,DragAndDropMultiple
+1540731,7,B1,FinalTest,looking over|turning around|talking about|writing|studying,,,comboBox
+1540731,7,B1,FinalTest,fifty percent off|gift|for sale|products|open,,,DragAndDropMultiple
+1540731,7,B1,FinalTest,in shape|fitness|swim|weights|table tennis,,,DragAndDropMultiple
+1540731,7,B1,FinalTest,Yes I am|No she is not|Yes she is|No it is not|Yes it is,,,comboBox
+1540731,7,B1,FinalTest,I'm not driving|it's not starting|are not|am not looking|I'm not wearing,,,comboBox
+1540731,7,B1,FinalTest,writing|doing|visiting|trying|getting,,,comboBox
+1540731,7,B1,FinalTest,I'm|Amanda's|She's|company's|They're,,,comboBox
+1540731,7,B1,FinalTest,is looking|know|opens|wake|sound,,,comboBox
+47852,1,B2,FinalTest,T-shirts,,,RadioSingle
+47852,1,B2,FinalTest,FALSE,,,RadioSingle
+47852,1,B2,FinalTest,TRUE,,,RadioSingle
+47852,1,B2,FinalTest,TRUE,,,RadioSingle
+47852,1,B2,FinalTest,They were wearing the same dress.,,,RadioSingle
+47852,2,B2,FinalTest,drivers who can't find parking spaces,,,RadioSingle
+47852,2,B2,FinalTest,saves parking spaces,,,RadioSingle
+47852,2,B2,FinalTest,We don't know.,,,RadioSingle
+47852,2,B2,FinalTest,TRUE,,,RadioSingle
+47852,2,B2,FinalTest,There are no parking spaces near your office.|You find a space that you have to pay for.|You don't have any money.|You arrive late for your meeting.|The meeting goes badly.|You return to your car.|You get a parking ticket.,,,DragAndDropMultiple
+47852,3,B2,FinalTest,True,,,RadioSingle
+47852,3,B2,FinalTest,teenagers and a few college students,,,RadioSingle
+47852,3,B2,FinalTest,False,,,RadioSingle
+47852,3,B2,FinalTest,Don't bake with cold eggs.,,,RadioSingle
+47852,3,B2,FinalTest,We don't know.,,,RadioSingle
+47852,4,B2,FinalTest,a drama.,,,RadioSingle
+47852,4,B2,FinalTest,to buy milk,,,RadioSingle
+47852,4,B2,FinalTest,We don't know.,,,RadioSingle
+47852,4,B2,FinalTest,She got angry.,,,RadioSingle
+47852,4,B2,FinalTest,today in the afternoon.,,,RadioSingle
+47852,5,B2,FinalTest,an invention|inventor|whistles|idea|battery,,,comboBox
+47852,5,B2,FinalTest,some cake|some pizza|a salad|a turkey|some watermelon|some onions|some steak|some coffee|a hamburger,,,DrapAndDropToPicture
+47852,5,B2,FinalTest,family reunions|relatives|at home|picnic|fight,,,comboBox
+47852,5,B2,FinalTest,team|tickets|championship|excited|win,,,comboBox
+47852,5,B2,FinalTest,didn't you go|I didn't know|Did you have|went|answered,,,comboBox
+47852,5,B2,FinalTest,smaller|cheaper|most expensive|largest|best,,,comboBox
+47852,5,B2,FinalTest,so much|some|a lot of|any|a few|the,,,comboBox
+47852,5,B2,FinalTest,want|Do you know|goes|don't|live|live,,,comboBox
+47852,6,B2,FinalTest,RC planes.,,,RadioSingle
+47852,6,B2,FinalTest,FALSE,,,RadioSingle
+47852,6,B2,FinalTest,Understand how planes fly.,,,RadioSingle
+47852,6,B2,FinalTest,They come ready to fly.,,,RadioSingle
+47852,6,B2,FinalTest,a place to meet people.,,,RadioSingle
+47852,7,B2,FinalTest,A college student,,,RadioSingle
+47852,7,B2,FinalTest,Near the college,,,RadioSingle
+47852,7,B2,FinalTest,It has modern appliances.,,,RadioSingle
+47852,7,B2,FinalTest,Three,,,RadioSingle
+47852,7,B2,FinalTest,A parking garage,,,RadioSingle
+47852,8,B2,FinalTest,college dorm|roommates|rent|furnished|view,,,DragAndDropMultiple
+47852,8,B2,FinalTest,hobbies|enjoy|exciting|quietly|creative,,,DragAndDropMultiple
+47859,1,B3,FinalTest,New York,,,RadioSingle
+47859,1,B3,FinalTest,Her first flight was delayed.|,,,RadioSingle
+47859,1,B3,FinalTest,True|,,,RadioSingle
+47859,1,B3,FinalTest,False|,,,RadioSingle 
+47859,1,B3,FinalTest,The flight is nonstop.|,,,RadioSingle
+47859,2,B3,FinalTest,She was meeting a new man that evening.|,,,RadioSingle
+47859,2,B3,FinalTest,True|,,,RadioSingle
+47859,2,B3,FinalTest,False|,,,RadioSingle
+47859,2,B3,FinalTest,He was reading.|,,,RadioSingle
+47859,2,B3,FinalTest,True|,,,RadioSingle
+47859,3,B3,FinalTest,Travelers can now book flights and hotels over the Internet.|,,,RadioSingle
+47859,3,B3,FinalTest,False|,,,RadioSingle
+47859,3,B3,FinalTest,True|,,,RadioSingle
+47859,3,B3,FinalTest,to take care of travel problems|,,,RadioSingle
+47859,3,B3,FinalTest,We don't know.|,,,RadioSingle
+47859,4,B3,FinalTest,True|,,,RadioSingle
+47859,4,B3,FinalTest,A car hit him.|,,,RadioSingle
+47859,4,B3,FinalTest,She must stay with Sandra.|,,,RadioSingle
+47859,4,B3,FinalTest,David's little sister|,,,RadioSingle
+47859,4,B3,FinalTest,We don't know.|,,,RadioSingle
+47859,5,B3,FinalTest,relax|nervous|stay calm|pain|excited,,,comboBox
+47859,5,B3,FinalTest,prepare|promised|forgot|decorate|remind,,,DragAndDropMultiple
+47859,5,B3,FinalTest,sightseeing|nonstop|travel agent|reservations|rent,,,comboBox
+47859,5,B3,FinalTest,forward|freshly baked|dessert|delicious|cream,,,comboBox
+47859,5,B3,FinalTest,have to|mustn't|are you able to|don't have to|should,,,comboBox
+47859,5,B3,FinalTest,watching|see|to lose|going|listening,,,comboBox
+47859,5,B3,FinalTest,was waiting|was talking|sent|called|made,,,comboBox
+47859,5,B3,FinalTest,is going to|going to|Will he|I will|he will,,,DragAndDropMultiple
+47859,6,B3,FinalTest,Julia's grandparents|,,,RadioSingle
+47859,6,B3,FinalTest,grandmother |,,,RadioSingle
+47859,6,B3,FinalTest,True|,,,RadioSingle
+47859,6,B3,FinalTest,Three|,,,RadioSingle
+47859,6,B3,FinalTest,We don't know.|,,,RadioSingle
+47859,7,B3,FinalTest,Summer|,,,RadioSingle
+47859,7,B3,FinalTest,Solar panels|,,,RadioSingle
+47859,7,B3,FinalTest,large office buildings. |,,,RadioSingle
+47859,7,B3,FinalTest,False|,,,RadioSingle
+47859,7,B3,FinalTest,On their Web site|,,,RadioSingle
+47859,8,B3,FinalTest,save energy|energy efficient|unplug|waste|renewable energy,,,DragAndDropMultiple
+47859,8,B3,FinalTest,will thank|raise|learn|will develop|grow up,,,comboBox
+47866,1,I1,FinalTest,It was a warm and sunny day.,,,RadioSingle
+47866,1,I1,FinalTest,A truck and a car were in the road.,,,RadioSingle
+47866,1,I1,FinalTest,We don't know.,,,RadioSingle
+47866,1,I1,FinalTest,in her car,,,RadioSingle
+47866,1,I1,FinalTest,in a hospital,,,RadioSingle
+47866,1,I1,FinalTest,worried,,,RadioSingle
+47866,1,I1,FinalTest,Jenny and Bill decided to drive to the beach.|Jenny felt a pain in her stomach.|There was an accident on the road.|Bill called for an ambulance.|Jenny had her baby.|The ambulance arrived.,,,DragAndDropMultiple
+47866,2,I1,FinalTest,She didn't like big family gatherings.,,,RadioSingle
+47866,2,I1,FinalTest,because Emma had no one to celebrate with,,,RadioSingle
+47866,2,I1,FinalTest,They invite all their family to eat special foods.,,,RadioSingle
+47866,2,I1,FinalTest,She should be more thankful for her family.,,,RadioSingle
+47866,2,I1,FinalTest,help Emma enjoy herself,,,RadioSingle
+47866,2,I1,FinalTest,holidays and celebrations.,,,RadioSingle
+47866,2,I1,FinalTest,How Angie Learned to Love Celebrations,,,RadioSingle
+47866,3,I1,FinalTest,FALSE,,,RadioSingle
+47866,3,I1,FinalTest,her father,,,RadioSingle
+47866,3,I1,FinalTest,FALSE,,,RadioSingle
+47866,3,I1,FinalTest,She'll study history in college.,,,RadioSingle
+47866,3,I1,FinalTest,We don't know.,,,RadioSingle
+47866,3,I1,FinalTest,They wanted her to study hard.,,,RadioSingle
+47866,3,I1,FinalTest,five,,,RadioSingle
+47866,4,I1,FinalTest,hiring new people,,,RadioSingle
+47866,4,I1,FinalTest,accountant.,,,RadioSingle
+47866,4,I1,FinalTest,copywriter,,,RadioSingle
+47866,4,I1,FinalTest,Samantha is only a temporary receptionist and is leaving soon.,,,RadioSingle
+47866,4,I1,FinalTest,They will read about it in the newspaper.,,,RadioSingle
+47866,4,I1,FinalTest,co-workers.,,,RadioSingle
+47866,4,I1,FinalTest,He is a good writer.,,,RadioSingle
+47866,5,I1,FinalTest,exhibit|materials|collection|sculptures|exhibited,,,DragAndDropMultiple
+47866,5,I1,FinalTest,Temperatures|hottest|frosty|average|report,,,comboBox
+47866,5,I1,FinalTest,Surface mail|Airmail|Express|postage|weigh,,,DragAndDropMultiple
+47866,5,I1,FinalTest,overseas|exchange|homesick|long-distance|roommate,,,DragAndDropMultiple
+47866,5,I1,FinalTest,have read|worked|I've managed|I made|We haven't lost,,,comboBox
+47866,5,I1,FinalTest,was held|are expected|was followed|was surprised|was given,,,comboBox
+47866,5,I1,FinalTest,If|if|unless|unless|until,,,comboBox
+47866,5,I1,FinalTest,who|that|that|whom|which,,,comboBox
+47866,6,I1,FinalTest,To buy some food,,,RadioSingle
+47866,6,I1,FinalTest,She read some text messages.,,,RadioSingle
+47866,6,I1,FinalTest,She used cash.,,,RadioSingle
+47866,6,I1,FinalTest,She wanted to deposit a check and take out some money,,,RadioSingle
+47866,6,I1,FinalTest,thieves don't always take everything from your purse.,,,RadioSingle
+47866,6,I1,FinalTest,Michelle was robbed in the supermarket.,,,RadioSingle
+47866,6,I1,FinalTest,Her credit card wasn't used.,,,RadioSingle
+47866,7,I1,FinalTest,a student hackathon.,,,RadioSingle
+47866,7,I1,FinalTest,Two days,,,RadioSingle
+47866,7,I1,FinalTest,a group of students.,,,RadioSingle
+47866,7,I1,FinalTest,technical solutions to a specific problem.,,,RadioSingle
+47866,7,I1,FinalTest,FALSE,,,RadioSingle
+47866,7,I1,FinalTest,They present their projects.,,,RadioSingle
+47866,7,I1,FinalTest,A sum of money,,,RadioSingle
+47866,8,I1,FinalTest,withdraw money|debit card|checking account|overdraft|maintenance fees,,,DragAndDropMultiple
+47866,8,I1,FinalTest,Will we be riding|Are you going to go|will print|will never need|I am going to buy|won't be,,,comboBox
+1541790,1,I2,FinalTest,an accident that happened to Bart on the camping trip.,,,RadioSingle
+1541790,1,I2,FinalTest,They wanted to get Bart's camera.|,,,RadioSingle
+1541790,1,I2,FinalTest,Because Bart decided|,,,RadioSingle
+1541790,1,I2,FinalTest,True|,,,RadioSingle 
+1541790,1,I2,FinalTest,About 20 minutes|,,,RadioSingle
+1541790,1,I2,FinalTest,True|,,,RadioSingle
+1541790,1,I2,FinalTest,Sergio and Bart will go home|,,,RadioSingle
+1541790,2,I2,FinalTest,She is getting married.|,,,RadioSingle
+1541790,2,I2,FinalTest,It had been her grandmother's.|,,,RadioSingle
+1541790,2,I2,FinalTest,At a party|,,,RadioSingle
+1541790,2,I2,FinalTest,We don't know.|,,,RadioSingle
+1541790,2,I2,FinalTest,easy to talk to.|,,,RadioSingle
+1541790,2,I2,FinalTest,They heard music.|,,,RadioSingle
+1541790,2,I2,FinalTest,will get married.|,,,RadioSingle
+1541790,3,I2,FinalTest,a good student.|,,,RadioSingle
+1541790,3,I2,FinalTest,he felt safe there.|,,,RadioSingle
+1541790,3,I2,FinalTest,True|,,,RadioSingle
+1541790,3,I2,FinalTest,talented.|,,,RadioSingle
+1541790,3,I2,FinalTest,to the music room.|,,,RadioSingle
+1541790,3,I2,FinalTest,teacher in his own school.|,,,RadioSingle
+1541790,3,I2,FinalTest,Mrs. Koblin.|,,,RadioSingle
+1541790,4,I2,FinalTest,Shopping for a new car|,,,RadioSingle
+1541790,4,I2,FinalTest,friend.|,,,RadioSingle
+1541790,4,I2,FinalTest,False|,,,RadioSingle
+1541790,4,I2,FinalTest,Victor's father|,,,RadioSingle
+1541790,4,I2,FinalTest,2000|,,,RadioSingle
+1541790,4,I2,FinalTest,very expensive car.|,,,RadioSingle
+1541790,4,I2,FinalTest,We don't know.|,,,RadioSingle
+1541790,5,I2,FinalTest,was an election and she won.|,,,RadioSingle
+1541790,5,I2,FinalTest,four years.|,,,RadioSingle
+1541790,5,I2,FinalTest,candidate for mayor.|,,,RadioSingle
+1541790,5,I2,FinalTest,more than 20% of the vote.|,,,RadioSingle
+1541790,5,I2,FinalTest,All of the above|,,,RadioSingle
+1541790,5,I2,FinalTest,Building bigger high schools|,,,RadioSingle
+1541790,5,I2,FinalTest,all the latest technology.|,,,RadioSingle
+1541790,6,I2,FinalTest,Police officers|,,,RadioSingle
+1541790,6,I2,FinalTest,Luckily no one was home.|,,,RadioSingle
+1541790,6,I2,FinalTest,We don't know.|,,,RadioSingle
+1541790,6,I2,FinalTest,False|,,,RadioSingle
+1541790,6,I2,FinalTest,cameras put in his apartment.|,,,RadioSingle
+1541790,6,I2,FinalTest,have a security company check his apartment.|,,,RadioSingle
+1541790,6,I2,FinalTest,Bring his family to Christina's|,,,RadioSingle
+1541790,7,I2,FinalTest,used car|dealer|extra features|latest model|break down,,,DragAndDropMultiple
+1541790,7,I2,FinalTest,borrow|repair|advice|damage|handyman,,,comboBox
+1541790,7,I2,FinalTest,glamorous|loud|tiny|deserted|tough,,,DragAndDropMultiple
+1541790,7,I2,FinalTest,arson|opened an investigation|evidence|illegal|threats,,,DragAndDropMultiple
+1541790,7,I2,FinalTest,workshop|containers|landfill|recycling bin|donate,,,DragAndDropMultiple
+1541790,7,I2,FinalTest,can't use|will be|don't|will need|needs,,,comboBox
+1541790,7,I2,FinalTest,had already gone|hadn't shown up|had gotten|had just watched|I had finished,,,comboBox
+1541790,7,I2,FinalTest,had rained|had been leaking|had already stopped|Had you noticed|hadn't been living,,,comboBox
+1541790,7,I2,FinalTest,was looking|couldn't|would be receiving|it would|would come back,,,comboBox
+1541790,7,I2,FinalTest,recyclable|bimonthly|endless|multipurpose|unpaid,,,comboBox
+1542047,1,I3,FinalTest,Annika's anniversary,,,RadioSingle
+1542047,1,I3,FinalTest,False.|,,,RadioSingle
+1542047,1,I3,FinalTest,True|,,,RadioSingle
+1542047,1,I3,FinalTest,Last May|,,,RadioSingle 
+1542047,1,I3,FinalTest,He is in Cannes|,,,RadioSingle
+1542047,1,I3,FinalTest,Get married|,,,RadioSingle
+1542047,1,I3,FinalTest,A pair of shoes|,,,RadioSingle
+1542047,2,I3,FinalTest,Jenny and Her|,,,RadioSingle
+1542047,2,I3,FinalTest,He left and never came back.,,,RadioSingle
+1542047,2,I3,FinalTest,She lost her|,,,RadioSingle
+1542047,2,I3,FinalTest,She moved into|,,,RadioSingle
+1542047,2,I3,FinalTest,many different types of housing.,,,RadioSingle
+1542047,2,I3,FinalTest,False|,,,RadioSingle
+1542047,2,I3,FinalTest,True|,,,RadioSingle
+1542047,3,I3,FinalTest,a TV series|,,,RadioSingle
+1542047,3,I3,FinalTest,True|,,,RadioSingle
+1542047,3,I3,FinalTest,An actress|,,,RadioSingle
+1542047,3,I3,FinalTest,True|,,,RadioSingle
+1542047,3,I3,FinalTest,female comics|,,,RadioSingle
+1542047,3,I3,FinalTest,were housewives|,,,RadioSingle
+1542047,3,I3,FinalTest,She wants her|,,,RadioSingle
+1542047,4,I3,FinalTest,False|,,,RadioSingle
+1542047,4,I3,FinalTest,He had a heart|,,,RadioSingle
+1542047,4,I3,FinalTest,He saw the|,,,RadioSingle
+1542047,4,I3,FinalTest,He was having|,,,RadioSingle
+1542047,4,I3,FinalTest,calling 911|,,,RadioSingle
+1542047,4,I3,FinalTest,About two minutes|,,,RadioSingle
+1542047,4,I3,FinalTest,Fruits and vegetables|,,,RadioSingle
+1542047,5,I3,FinalTest,In a hotel room|,,,RadioSingle
+1542047,5,I3,FinalTest,At the buffet|,,,RadioSingle
+1542047,5,I3,FinalTest,Go for a swim|,,,RadioSingle
+1542047,5,I3,FinalTest,True|,,,RadioSingle
+1542047,5,I3,FinalTest,Skip lunch|,,,RadioSingle
+1542047,5,I3,FinalTest,False|,,,RadioSingle
+1542047,5,I3,FinalTest,Order breakfast|,,,RadioSingle
+1542047,6,I3,FinalTest,Using a personal trainer|,,,RadioSingle
+1542047,6,I3,FinalTest,wants to exercise|,,,RadioSingle
+1542047,6,I3,FinalTest,would be|,,,RadioSingle
+1542047,6,I3,FinalTest,Run at least|,,,RadioSingle
+1542047,6,I3,FinalTest,ten years|,,,RadioSingle
+1542047,6,I3,FinalTest,True|,,,RadioSingle
+1542047,6,I3,FinalTest,Relax and watch TV|,,,RadioSingle
+1542047,7,I3,FinalTest,go on strike|wage increase|make a living|empty promises|handle the situation,,,DragAndDropMultiple
+1542047,7,I3,FinalTest,on the streets|homeless|housing alternatives|pay the rent|make a difference,,,DragAndDropMultiple
+1542047,7,I3,FinalTest,get in shape|well-equipped|condition|exhausted|at your own pace,,,DragAndDropMultiple
+1542047,7,I3,FinalTest,make a reservation|rare|tablecloths|buffet|skip a meal,,,comboBox
+1542047,7,I3,FinalTest,outgoing|shy|social interaction|center of attention|strike up a conversation,,,DragAndDropMultiple
+1542047,7,I3,FinalTest,had played|would you|might have had|had been|wouldn't have,,,comboBox
+1542047,7,I3,FinalTest,who|which|where|whose|when,,,comboBox
+1542047,7,I3,FinalTest,or|so|also|too|not,,,comboBox
+1542047,7,I3,FinalTest,shouldn't have watched|must have made|could this have|may not have remembered|might have given up,,,comboBox
+1542047,7,I3,FinalTest,will be|don't plan|met|didn't ask|you understand,,,comboBox
+47887,1,A1,FinalTest,True|,,,RadioSingle
+47887,1,A1,FinalTest,The city has become dirtier|,,,RadioSingle
+47887,1,A1,FinalTest,True|,,,RadioSingle
+47887,1,A1,FinalTest,School|,,,RadioSingle
+47887,1,A1,FinalTest,want to make|,,,RadioSingle
+47887,1,A1,FinalTest,someone who lives|,,,RadioSingle
+47887,1,A1,FinalTest,I want to make|,,,RadioSingle
+47887,1,A1,FinalTest,moreover|,,,RadioSingle
+47887,1,A1,FinalTest,to encourage|,,,RadioSingle
+47887,1,A1,FinalTest,She wants to stress|,,,RadioSingle
+47887,2,A1,FinalTest,because of cultural|,,,RadioSingle
+47887,2,A1,FinalTest,In some|,,,RadioSingle
+47887,2,A1,FinalTest,False|,,,RadioSingle
+47887,2,A1,FinalTest,True|,,,RadioSingle
+47887,2,A1,FinalTest,to do research|,,,RadioSingle
+47887,2,A1,FinalTest,to make readers|,,,RadioSingle
+47887,2,A1,FinalTest,Gift-giving|,,,RadioSingle
+47887,2,A1,FinalTest,insult|,,,RadioSingle
+47887,2,A1,FinalTest,whereas|,,,RadioSingle
+47887,2,A1,FinalTest,blunder|,,,RadioSingle
+47887,3,A1,FinalTest,She's climbed|,,,RadioSingle
+47887,3,A1,FinalTest,False|,,,RadioSingle
+47887,3,A1,FinalTest,He fell off|,,,RadioSingle
+47887,3,A1,FinalTest,False|,,,RadioSingle
+47887,3,A1,FinalTest,True|,,,RadioSingle
+47887,3,A1,FinalTest,She enjoys it|,,,RadioSingle
+47887,3,A1,FinalTest,the high altitude|,,,RadioSingle
+47887,3,A1,FinalTest,felt on top|,,,RadioSingle
+47887,3,A1,FinalTest,very scary|,,,RadioSingle
+47887,3,A1,FinalTest,True|,,,RadioSingle
+47887,4,A1,FinalTest,False|,,,RadioSingle
+47887,4,A1,FinalTest,with her friend|,,,RadioSingle
+47887,4,A1,FinalTest,False|,,,RadioSingle
+47887,4,A1,FinalTest,She needs|,,,RadioSingle
+47887,4,A1,FinalTest,False|,,,RadioSingle
+47887,4,A1,FinalTest,They are boyfriend|,,,RadioSingle
+47887,4,A1,FinalTest,He loves her and wants|,,,RadioSingle
+47887,4,A1,FinalTest,Linda will go|,,,RadioSingle
+47887,4,A1,FinalTest,adventurous|,,,RadioSingle
+47887,4,A1,FinalTest,convince|,,,RadioSingle
+47887,5,A1,FinalTest,customs|offend|customary|rude|manners,,,comboBox
+47887,5,A1,FinalTest,exaggerating|took advantage|instructions|brand new|lawyer,,,comboBox
+47887,5,A1,FinalTest,surgery|risks|dangerous|alternative|a second opinion,,,comboBox
+47887,5,A1,FinalTest,manage|keep an eye on|bounce|fee|errors,,,comboBox
+47887,5,A1,FinalTest,I'll be sightseeing|won't be going alone|I'll be meeting|will you be staying|will you be staying,,,comboBox
+47887,5,A1,FinalTest,won't have finished|will have cleaned it|have gone up|will you have collected|won't have arrived,,,comboBox
+47887,5,A1,FinalTest,fill out|take off|keep on|put on|do the tests over,,,comboBox
+47887,5,A1,FinalTest,to be invited|to receive|to be considered|to be popular|to be reminded,,,comboBox
+47887,6,A1,FinalTest,office|,,,RadioSingle
+47887,6,A1,FinalTest,False|,,,RadioSingle
+47887,6,A1,FinalTest,Take into|,,,RadioSingle
+47887,6,A1,FinalTest,the materials|,,,RadioSingle
+47887,6,A1,FinalTest,So that you don't waste the planet's|,,,RadioSingle
+47887,6,A1,FinalTest,You need to have enough|,,,RadioSingle
+47887,6,A1,FinalTest,True|,,,RadioSingle
+47887,6,A1,FinalTest,until the renovation|,,,RadioSingle
+47887,6,A1,FinalTest,very quickly|,,,RadioSingle
+47887,6,A1,FinalTest,Schedule|,,,RadioSingle
+47887,7,A1,FinalTest,Socially|,,,RadioSingle
+47887,7,A1,FinalTest,A restaurant|,,,RadioSingle
+47887,7,A1,FinalTest,They have|,,,RadioSingle
+47887,7,A1,FinalTest,True|,,,RadioSingle
+47887,7,A1,FinalTest,Vegetarian food often|,,,RadioSingle
+47887,7,A1,FinalTest,Teenagers|,,,RadioSingle
+47887,7,A1,FinalTest,They recycle|,,,RadioSingle
+47887,7,A1,FinalTest,A part of the money you pay is donated|,,,RadioSingle
+47887,7,A1,FinalTest,False|,,,RadioSingle
+47887,7,A1,FinalTest,Irena says it's|,,,RadioSingle
+47887,8,A1,FinalTest,residential|urban|renovations|architecture|innovative,,,DragAndDropMultiple
+47887,8,A1,FinalTest,will be given|was invited|has been done|Can businesses be forced|isn't expected,,,comboBox
+47894,1,A2,FinalTest,to get advice|,,,RadioSingle
+47894,1,A2,FinalTest,True|,,,RadioSingle
+47894,1,A2,FinalTest,losing her job|,,,RadioSingle
+47894,1,A2,FinalTest,False|,,,RadioSingle
+47894,1,A2,FinalTest,gives|,,,RadioSingle
+47894,1,A2,FinalTest,wants|,,,RadioSingle
+47894,1,A2,FinalTest,worried|,,,RadioSingle
+47894,1,A2,FinalTest,They will work hard|,,,RadioSingle
+47894,1,A2,FinalTest,have no|,,,RadioSingle
+47894,1,A2,FinalTest,It is challenging|,,,RadioSingle
+47894,2,A2,FinalTest,They could|,,,RadioSingle
+47894,2,A2,FinalTest,True|,,,RadioSingle
+47894,2,A2,FinalTest,a program|,,,RadioSingle
+47894,2,A2,FinalTest,We don't know|,,,RadioSingle
+47894,2,A2,FinalTest,ordinary|,,,RadioSingle
+47894,2,A2,FinalTest,attract publicity|,,,RadioSingle
+47894,2,A2,FinalTest,report|,,,RadioSingle
+47894,2,A2,FinalTest,give money|,,,RadioSingle
+47894,2,A2,FinalTest,Contact the secretary during|,,,RadioSingle
+47894,2,A2,FinalTest,a journalist|,,,RadioSingle
+47894,3,A2,FinalTest,She's depressed|,,,RadioSingle
+47894,3,A2,FinalTest,True|,,,RadioSingle
+47894,3,A2,FinalTest,False|,,,RadioSingle
+47894,3,A2,FinalTest,She is too|,,,RadioSingle
+47894,3,A2,FinalTest,talk to|,,,RadioSingle
+47894,3,A2,FinalTest,very sad|,,,RadioSingle
+47894,3,A2,FinalTest,She is expressing that she|,,,RadioSingle
+47894,3,A2,FinalTest,cope with|,,,RadioSingle
+47894,3,A2,FinalTest,True|,,,RadioSingle
+47894,3,A2,FinalTest,friend|,,,RadioSingle
+47894,4,A2,FinalTest,True|,,,RadioSingle
+47894,4,A2,FinalTest,children should just|,,,RadioSingle
+47894,4,A2,FinalTest,False|,,,RadioSingle
+47894,4,A2,FinalTest,behave|,,,RadioSingle
+47894,4,A2,FinalTest,We don't know|,,,RadioSingle
+47894,4,A2,FinalTest,cooperative|,,,RadioSingle
+47894,4,A2,FinalTest,for children to be exposed|,,,RadioSingle
+47894,4,A2,FinalTest,gained|,,,RadioSingle
+47894,4,A2,FinalTest,Should Children|,,,RadioSingle
+47894,4,A2,FinalTest,experience|,,,RadioSingle
+47894,5,A2,FinalTest,ashamed|victim|feeling sorry for myself|cope|drop by,,,comboBox
+47894,5,A2,FinalTest,commute|taken on|self-employed|lose their minds|in isolation,,,comboBox
+47894,5,A2,FinalTest,self-employed|freelance|benefits|child care|deadline,,,DragAndDropMultiple
+47894,5,A2,FinalTest,a new job|position|edition|By pure chance|grateful,,,comboBox
+47894,5,A2,FinalTest,had better|Wouldn't you rather|I'd rather|I'd better|I'd rather,,,comboBox
+47894,5,A2,FinalTest,has been made|do|do|make|do,,,comboBox
+47894,5,A2,FinalTest,unless|so that|Even if|because|provided that,,,comboBox
+47894,5,A2,FinalTest,confusing|embarrassed|annoyed|encouraging|frustrating,,,comboBox
+47894,6,A2,FinalTest,a famous|,,,RadioSingle
+47894,6,A2,FinalTest,They might take|,,,RadioSingle
+47894,6,A2,FinalTest,Surgeons control|,,,RadioSingle
+47894,6,A2,FinalTest,will reduce the time|,,,RadioSingle
+47894,6,A2,FinalTest,Google is developing|,,,RadioSingle
+47894,6,A2,FinalTest,True|,,,RadioSingle
+47894,6,A2,FinalTest,To evaluate|,,,RadioSingle
+47894,6,A2,FinalTest,To mark|,,,RadioSingle
+47894,6,A2,FinalTest,a company|,,,RadioSingle
+47894,6,A2,FinalTest,False|,,,RadioSingle
+47894,7,A2,FinalTest,Earth is|,,,RadioSingle
+47894,7,A2,FinalTest,False|,,,RadioSingle
+47894,7,A2,FinalTest,0|,,,RadioSingle
+47894,7,A2,FinalTest,False|,,,RadioSingle
+47894,7,A2,FinalTest,687 Earth days|,,,RadioSingle
+47894,7,A2,FinalTest,The first|,,,RadioSingle
+47894,7,A2,FinalTest,Astronauts|,,,RadioSingle
+47894,7,A2,FinalTest,Approximately|,,,RadioSingle
+47894,7,A2,FinalTest,They will find|,,,RadioSingle
+47894,7,A2,FinalTest,How humans|,,,RadioSingle
+47894,8,A2,FinalTest,science fiction|robot|chores|efficient|evolve,,,DragAndDropMultiple
+47894,8,A2,FinalTest,will happen|isn't going to hit|will have developed|won't be|will be living,,,comboBox
+47901,1,A3,FinalTest,camping|,,,RadioSingle
+47901,1,A3,FinalTest,She was bored|,,,RadioSingle
+47901,1,A3,FinalTest,She didn't want|,,,RadioSingle
+47901,1,A3,FinalTest,True|,,,RadioSingle
+47901,1,A3,FinalTest,They got lost|,,,RadioSingle
+47901,1,A3,FinalTest,has a difficult|,,,RadioSingle
+47901,1,A3,FinalTest,wish you|,,,RadioSingle
+47901,1,A3,FinalTest,bothered|,,,RadioSingle
+47901,1,A3,FinalTest,False|,,,RadioSingle
+47901,1,A3,FinalTest,she met|,,,RadioSingle
+47901,2,A3,FinalTest,all of these|,,,RadioSingle
+47901,2,A3,FinalTest,She has|,,,RadioSingle
+47901,2,A3,FinalTest,to go|,,,RadioSingle
+47901,2,A3,FinalTest,False|,,,RadioSingle
+47901,2,A3,FinalTest,False|,,,RadioSingle
+47901,2,A3,FinalTest,embarrassed but relieved,,,RadioSingle
+47901,2,A3,FinalTest,The woman had a feeling she was in danger.|The woman saw a man in dark clothes.|The woman went to a cafe.|The woman realized the man was acting in a movie.,,,DragAndDropMultiple
+47901,2,A3,FinalTest,have a feeling,,,RadioSingle
+47901,2,A3,FinalTest,as one,,,RadioSingle
+47901,2,A3,FinalTest,strange man is just an actor,,,RadioSingle
+47901,3,A3,FinalTest,radio and television,,,RadioSingle
+47901,3,A3,FinalTest,False,,,RadioSingle
+47901,3,A3,FinalTest,unexpected,,,RadioSingle
+47901,3,A3,FinalTest,have an effect,,,RadioSingle
+47901,3,A3,FinalTest,After seeing an ad you write down the details of the product being advertised.,,,RadioSingle
+47901,3,A3,FinalTest,generally do it.,,,RadioSingle
+47901,3,A3,FinalTest,conscious of,,,RadioSingle
+47901,3,A3,FinalTest,He usually hears the ads when he is in the middle of driving so he can't write the details down.,,,RadioSingle
+47901,3,A3,FinalTest,Internet advertising was not researched.,,,RadioSingle
+47901,3,A3,FinalTest,True,,,RadioSingle
+47901,4,A3,FinalTest,We don't know.,,,RadioSingle
+47901,4,A3,FinalTest,claims have been made but have not as of yet been proven.,,,RadioSingle
+47901,4,A3,FinalTest,in light of,,,RadioSingle
+47901,4,A3,FinalTest,available for the taking or for purchase.,,,RadioSingle
+47901,4,A3,FinalTest,the marketing manager of Techworld's main competitor,,,RadioSingle
+47901,4,A3,FinalTest,becomes known.,,,RadioSingle
+47901,4,A3,FinalTest,They were losing money and were desperate to reduce their deficit.,,,RadioSingle
+47901,4,A3,FinalTest,the CEO of Techworld stepping down,,,RadioSingle
+47901,4,A3,FinalTest,Business will not be affected nor will people's trust in the company.,,,RadioSingle
+47901,4,A3,FinalTest,Leonard Thompson|David Barnes|Joanne Jones,,,comboBox
+47901,5,A3,FinalTest,left the nest|practical jokes|keep yourself busy|relationship|accompany,,,DragAndDropMultiple
+47901,5,A3,FinalTest,wheelchair|disability|discrimination|accept the situation|lawsuits,,,DragAndDropMultiple
+47901,5,A3,FinalTest,gullible|play a joke on|creepy|basis|stubborn,,,DragAndDropMultiple
+47901,5,A3,FinalTest,spying|irrational|stay calm|recommending|you're jumping to conclusions,,,comboBox
+47901,5,A3,FinalTest,went|stay|don't fail|weren't|to do,,,comboBox
+47901,5,A3,FinalTest,Nobody|doesn't allow|Nor|never|not many,,,comboBox
+47901,5,A3,FinalTest,to keep|to lose|to be|only to find|only to learn,,,comboBox
+47901,5,A3,FinalTest,so expensive|so much|such a|so much|so busy,,,comboBox
+47901,6,A3,FinalTest,My Digital Tour Guide,,,RadioSingle
+47901,6,A3,FinalTest,To send an astronaut to Mars,,,RadioSingle
+47901,6,A3,FinalTest,False|,,,RadioSingle
+47901,6,A3,FinalTest,while she was a university student. ,,,RadioSingle
+47901,6,A3,FinalTest,The name of a chain of retail stores,,,RadioSingle
+47901,6,A3,FinalTest,About 150000 people are employed in Wei's companies.,,,RadioSingle
+47901,6,A3,FinalTest,We don't know.,,,RadioSingle
+47901,6,A3,FinalTest,William Montgomery,,,RadioSingle
+47901,6,A3,FinalTest,They use their wealth to help others. ,,,RadioSingle
+47901,6,A3,FinalTest,Someone who is very poor and becomes wealthy,,,RadioSingle
+47901,7,A3,FinalTest,A professor,,,RadioSingle
+47901,7,A3,FinalTest,He doesn't say,,,RadioSingle
+47901,7,A3,FinalTest,students who don't live,,,RadioSingle
+47901,7,A3,FinalTest,you can study,,,RadioSingle
+47901,7,A3,FinalTest,False,,,RadioSingle
+47901,7,A3,FinalTest,They can log onto,,,RadioSingle
+47901,7,A3,FinalTest,They can send,,,RadioSingle
+47901,7,A3,FinalTest,Professors and students get to interact in real time. ,,,RadioSingle
+47901,7,A3,FinalTest,Credit for,,,RadioSingle
+47901,7,A3,FinalTest,a verified,,,RadioSingle
+47901,8,A3,FinalTest,pitch|loan|budget|funding|investors,,,DragAndDropMultiple
+47901,8,A3,FinalTest,whose|who|which|when|where,,,comboBox
+20144,1,FD,FinalTest,one year.,,,RadioSingle
+20144,1,FD,FinalTest,nice.|,,,RadioSingle
+20144,1,FD,FinalTest,The kitchen is old.|,,,RadioSingle
+20144,1,FD,FinalTest,3|,,,RadioSingle 
+20144,1,FD,FinalTest,False|,,,RadioSingle
+20144,2,FD,FinalTest,False|,,,RadioSingle
+20144,2,FD,FinalTest,in bed|,,,RadioSingle
+20144,2,FD,FinalTest,True|,,,RadioSingle
+20144,2,FD,FinalTest,True|,,,RadioSingle
+20144,2,FD,FinalTest,next week|,,,RadioSingle
+20144,3,FD,FinalTest,True|,,,RadioSingle
+20144,3,FD,FinalTest,three|,,,RadioSingle
+20144,3,FD,FinalTest,False|,,,RadioSingle
+20144,3,FD,FinalTest,his mother and father|,,,RadioSingle
+20144,3,FD,FinalTest,True|,,,RadioSingle
+20144,4,FD,FinalTest,stay home and watch television|,,,RadioSingle
+20144,4,FD,FinalTest,True|,,,RadioSingle
+20144,4,FD,FinalTest,She's tired.|,,,RadioSingle
+20144,4,FD,FinalTest,and watch television,,,RadioSingle
+20144,4,FD,FinalTest,False|,,,RadioSingle
+20144,5,FD,FinalTest,brown shoes|a blue T-shirt|a yellow jacket|a blue sweater|green pants|a green hat,,,DrapAndDropToPicture
+20144,5,FD,FinalTest,headache|sore|a prescription|pills|appointment,,,comboBox
+20144,5,FD,FinalTest,a cucumber|bread|ice cream|milk|an orange,,,comboBox
+20144,5,FD,FinalTest,a new|old|big|terrible|great,,,comboBox
+20144,5,FD,FinalTest,school|hospital|supermarket|store|restaurant,,,comboBox
+20144,5,FD,FinalTest,student|cashier|sales assistant|doctor|nurse,,,comboBox
+20144,5,FD,FinalTest,going to the movies|playing football|watching television|reading books|studying English|going dancing,,,DrapAndDropToPicture
+20144,5,FD,FinalTest,It's nine o'clock.|It's ten thirty.|It's a quarter to seven.|It's ten to four.|It's twenty past eight.|It's a quarter past twelve.,,,DrapAndDropToPicture
+47845,1,B1,FinalTest,a newspaper,,,RadioSingle
+47845,1,B1,FinalTest,TRUE,,,RadioSingle
+47845,1,B1,FinalTest,her wallet,,,RadioSingle
+47845,1,B1,FinalTest,TRUE,,,RadioSingle
+47845,1,B1,FinalTest,TRUE,,,RadioSingle
+47845,2,B1,FinalTest,TRUE,,,RadioSingle
+47845,2,B1,FinalTest,of the week,,,RadioSingle
+47845,2,B1,FinalTest,TRUE,,,RadioSingle
+47845,2,B1,FinalTest,fruit,,,RadioSingle
+47845,2,B1,FinalTest,We don't know.,,,RadioSingle
+47845,3,B1,FinalTest,Clark's secretary,,,RadioSingle
+47845,3,B1,FinalTest,TRUE,,,RadioSingle
+47845,3,B1,FinalTest,Clark's office,,,RadioSingle
+47845,3,B1,FinalTest,Clark,,,RadioSingle
+47845,3,B1,FinalTest,3 o'clock,,,RadioSingle
+47845,4,B1,FinalTest,FALSE,,,RadioSingle
+47845,4,B1,FinalTest,all the cars,,,RadioSingle
+47845,4,B1,FinalTest,FALSE,,,RadioSingle
+47845,4,B1,FinalTest,We don't know.,,,RadioSingle
+47845,4,B1,FinalTest,or email,,,RadioSingle
+47845,5,B1,FinalTest,hotel|staying|guards|serve|restaurant,,,comboBox
+47845,5,B1,FinalTest,train|next stop|fare|time|late,,,comboBox
+47845,5,B1,FinalTest,beautiful|looking|talking|listening|sitting,,,comboBox
+47845,5,B1,FinalTest,questions|busy|story|reporter|classical,,,comboBox
+47845,5,B1,FinalTest,is|are you|am|Are you|I'm not,,,comboBox
+47845,5,B1,FinalTest,are sitting|is enjoying|isn't laughing|Are|is sleeping,,,comboBox
+47845,5,B1,FinalTest,you|his|your|My|him,,,DragAndDropMultiple
+47845,5,B1,FinalTest,This|that|Are there|There are,,,comboBox
+47845,6,B1,FinalTest,An ad,,,RadioSingle
+47845,6,B1,FinalTest,Buy a weight machine,,,RadioSingle
+47845,6,B1,FinalTest,Yes,,,RadioSingle
+47845,6,B1,FinalTest,11:00 A.M. - 5:00 P.M.,,,RadioSingle
+47845,6,B1,FinalTest,On Park Avenue,,,RadioSingle
+47845,7,B1,FinalTest,job fair,,,RadioSingle
+47845,7,B1,FinalTest,The owner of "Dog Walk",,,RadioSingle
+47845,7,B1,FinalTest,Dog walkers,,,RadioSingle
+47845,7,B1,FinalTest,customers' homes.,,,RadioSingle
+47845,7,B1,FinalTest,Call him on the phone,,,RadioSingle
+47845,8,B1,FinalTest,salesclerk|job fair|resume|florist|part-time,,,DragAndDropMultiple
+47845,8,B1,FinalTest,teaches|don't need|Do you|burns|hope,,,comboBox
+1540846,1,B2,FinalTest,To tell Nessa that she won a competition,,,RadioSingle
+1540846,1,B2,FinalTest,She was shy.,,,RadioSingle
+1540846,1,B2,FinalTest,Sisters,,,RadioSingle
+1540846,1,B2,FinalTest,FALSE,,,RadioSingle
+1540846,1,B2,FinalTest,We don't know.,,,RadioSingle
+1540846,2,B2,FinalTest,Basketball,,,RadioSingle
+1540846,2,B2,FinalTest,athlete.,,,RadioSingle
+1540846,2,B2,FinalTest,Jump,,,RadioSingle
+1540846,2,B2,FinalTest,FALSE,,,RadioSingle
+1540846,2,B2,FinalTest,Proud,,,RadioSingle
+1540846,3,B2,FinalTest,An apartment for rent,,,RadioSingle
+1540846,3,B2,FinalTest,FALSE,,,RadioSingle
+1540846,3,B2,FinalTest,New,,,RadioSingle
+1540846,3,B2,FinalTest,park.,,,RadioSingle
+1540846,3,B2,FinalTest,FALSE,,,RadioSingle
+1540846,4,B2,FinalTest,Hanging a picture,,,RadioSingle
+1540846,4,B2,FinalTest,a street.,,,RadioSingle
+1540846,4,B2,FinalTest,Next to the couch,,,RadioSingle
+1540846,4,B2,FinalTest,FALSE,,,RadioSingle
+1540846,4,B2,FinalTest,Elliot and Sharon will choose a place for the picture.,,,RadioSingle
+1540846,5,B2,FinalTest,Her hobby is also her business.,,,RadioSingle
+1540846,5,B2,FinalTest,enjoys arts and crafts.,,,RadioSingle
+1540846,5,B2,FinalTest,TRUE,,,RadioSingle
+1540846,5,B2,FinalTest,She sells her jewelry and art.,,,RadioSingle
+1540846,5,B2,FinalTest,enjoys her work.,,,RadioSingle
+1540846,6,B2,FinalTest,Making a salad,,,RadioSingle
+1540846,6,B2,FinalTest,lose weight.,,,RadioSingle
+1540846,6,B2,FinalTest,TRUE,,,RadioSingle
+1540846,6,B2,FinalTest,He doesn't like the way it tastes.,,,RadioSingle
+1540846,6,B2,FinalTest,The man will put tuna or salmon in his salad.,,,RadioSingle
+1540846,7,B2,FinalTest,department stores|order|closed|save money|delivery,,,DragAndDropMultiple
+1540846,7,B2,FinalTest,serve|cookbooks|meal|freeze|dish,,,comboBox
+1540846,7,B2,FinalTest,give me directions|street|left at|near|opposite,,,DragAndDropMultiple
+1540846,7,B2,FinalTest,start a business|factory|desk|high salary|meeting,,,DragAndDropMultiple
+1540846,7,B2,FinalTest,hiking|rock climbing|horseback riding|arts and crafts|jewelry making,,,DragAndDropMultiple
+1540846,7,B2,FinalTest,were|was|Were|wasn't|was,,,comboBox
+1540846,7,B2,FinalTest,some|a few|a lot of|many|any,,,comboBox
+1540846,7,B2,FinalTest,don't|don't|can|doesn't|can't,,,comboBox
+1540846,7,B2,FinalTest,have to|have to|has to|have to|doesn't have to,,,comboBox
+1540846,7,B2,FinalTest,near|above|on|in|next to,,,comboBox
+1540920,1,B3,FinalTest,A trip to Madrid,,,RadioSingle
+1540920,1,B3,FinalTest,a travel agency.|,,,RadioSingle
+1540920,1,B3,FinalTest,False|,,,RadioSingle
+1540920,1,B3,FinalTest,If he is interested in one of the flights|,,,RadioSingle 
+1540920,1,B3,FinalTest,We don't know.|,,,RadioSingle
+1540920,2,B3,FinalTest,his experiences after college.|,,,RadioSingle
+1540920,2,B3,FinalTest,He had to look for a job.|,,,RadioSingle
+1540920,2,B3,FinalTest,work in banking.|,,,RadioSingle
+1540920,2,B3,FinalTest,on the Internet.|,,,RadioSingle
+1540920,2,B3,FinalTest,True|,,,RadioSingle
+1540920,3,B3,FinalTest,save money and energy.|,,,RadioSingle
+1540920,3,B3,FinalTest,He put on a sweater.|,,,RadioSingle
+1540920,3,B3,FinalTest,He left the kitchen light on all night.|,,,RadioSingle
+1540920,3,B3,FinalTest,False|,,,RadioSingle
+1540920,3,B3,FinalTest,He wanted to save energy.|,,,RadioSingle
+1540920,4,B3,FinalTest,The restaurant they went to last night|,,,RadioSingle
+1540920,4,B3,FinalTest,They waited an hour for a table.|,,,RadioSingle
+1540920,4,B3,FinalTest,The table was dirty.|,,,RadioSingle
+1540920,4,B3,FinalTest,False|,,,RadioSingle
+1540920,4,B3,FinalTest,dessert.|,,,RadioSingle
+1540920,5,B3,FinalTest,Why Diego can't go to the soccer game|,,,RadioSingle
+1540920,5,B3,FinalTest,He doesn't feel well.|,,,RadioSingle
+1540920,5,B3,FinalTest,False|,,,RadioSingle
+1540920,5,B3,FinalTest,To invite Sebastian to go to the game|,,,RadioSingle
+1540920,5,B3,FinalTest,Adrienne will call Sebastian.|,,,RadioSingle
+1540920,6,B3,FinalTest,What it's like growing up bilingual|,,,RadioSingle
+1540920,6,B3,FinalTest,True|,,,RadioSingle
+1540920,6,B3,FinalTest,False|,,,RadioSingle
+1540920,6,B3,FinalTest,He was allowed to ask questions in Spanish.|,,,RadioSingle
+1540920,6,B3,FinalTest,To send their children to a bilingual school|,,,RadioSingle
+1540920,7,B3,FinalTest,learning|failed|subjects|examinations|courses,,,comboBox
+1540920,7,B3,FinalTest,career|applied|interview|full-time|bank manager,,,DragAndDropMultiple
+1540920,7,B3,FinalTest,suitcase|vacation|abroad|passport|board,,,DragAndDropMultiple
+1540920,7,B3,FinalTest,orchestra|famous|main auditorium|aisle seat|program,,,comboBox
+1540920,7,B3,FinalTest,native speaker|bilingual|multilingual|vocabulary|raise,,,DragAndDropMultiple
+1540920,7,B3,FinalTest,Were you able to|without saying|sitting|won't be able to|eating,,,comboBox
+1540920,7,B3,FinalTest,to take|should do|to travel|sightseeing|contacting,,,comboBox
+1540920,7,B3,FinalTest,was waiting|were you doing|was driving|I was dialing|was sitting,,,comboBox
+1540920,7,B3,FinalTest,to walk in|told him to do|Watching|asked me to go|to hear,,,comboBox
+1540920,7,B3,FinalTest,speak|think|did you|decided|didn't,,,comboBox
+1541721,1,I1,FinalTest,Andrea's first day as an exchange student.,,,RadioSingle
+1541721,1,I1,FinalTest,We don't know.,,,RadioSingle
+1541721,1,I1,FinalTest,She has met lots of friendly people.,,,RadioSingle
+1541721,1,I1,FinalTest,He is a counselor for the university's overseas students.,,,RadioSingle
+1541721,1,I1,FinalTest,False,,,RadioSingle
+1541721,1,I1,FinalTest,False,,,RadioSingle
+1541721,1,I1,FinalTest,Andrea will go to dinner.,,,RadioSingle
+1541721,2,I1,FinalTest,weather for a football game.,,,RadioSingle
+1541721,2,I1,FinalTest,We don't know.,,,RadioSingle
+1541721,2,I1,FinalTest,The game is going to be on Saturday.,,,RadioSingle
+1541721,2,I1,FinalTest,It has been rainy with cold winds,,,RadioSingle
+1541721,2,I1,FinalTest,A jacket,,,RadioSingle
+1541721,2,I1,FinalTest,True,,,RadioSingle
+1541721,2,I1,FinalTest,There will be thunder and lightning.,,,RadioSingle
+1541721,3,I1,FinalTest,Klimt's Portrait of Adele Bloch-Bauer I.,,,RadioSingle
+1541721,3,I1,FinalTest,We don't know.,,,RadioSingle
+1541721,3,I1,FinalTest,All of the paintings are portraits of women.,,,RadioSingle
+1541721,3,I1,FinalTest,True,,,RadioSingle
+1541721,3,I1,FinalTest,5,,,RadioSingle
+1541721,3,I1,FinalTest,She worked at Belvedere Museum in Austria for 60 years.,,,RadioSingle
+1541721,3,I1,FinalTest,In the Neue Galerie in New York,,,RadioSingle
+1541721,4,I1,FinalTest,False,,,RadioSingle
+1541721,4,I1,FinalTest,How much he enjoys walking outdoors,,,RadioSingle
+1541721,4,I1,FinalTest,They're in honor of the first Thanksgiving.,,,RadioSingle
+1541721,4,I1,FinalTest,Watch TV,,,RadioSingle
+1541721,4,I1,FinalTest,True,,,RadioSingle
+1541721,4,I1,FinalTest,Call his aunt,,,RadioSingle
+1541721,4,I1,FinalTest,We don't know.,,,RadioSingle
+1541721,5,I1,FinalTest,Mailing letters and packages,,,RadioSingle
+1541721,5,I1,FinalTest,A birthday card,,,RadioSingle
+1541721,5,I1,FinalTest,In the right corner at the top,,,RadioSingle
+1541721,5,I1,FinalTest,Because the post office might need to return the letter to you,,,RadioSingle
+1541721,5,I1,FinalTest,False,,,RadioSingle
+1541721,5,I1,FinalTest,Next week,,,RadioSingle
+1541721,5,I1,FinalTest,collects old cards and letters.,,,RadioSingle
+1541721,6,I1,FinalTest,She is opening a checking account.,,,RadioSingle
+1541721,6,I1,FinalTest,False,,,RadioSingle
+1541721,6,I1,FinalTest,False,,,RadioSingle
+1541721,6,I1,FinalTest,many colors.,,,RadioSingle
+1541721,6,I1,FinalTest,The customer wants to be able to use a cash dispenser.,,,RadioSingle
+1541721,6,I1,FinalTest,She can use a debit card to withdraw money.,,,RadioSingle
+1541721,6,I1,FinalTest,The customer will take her temporary checks and leave the bank.,,,RadioSingle
+1541721,7,I1,FinalTest,Elementary School|graduate|diploma|preschool|assignments,,,comboBox
+1541721,7,I1,FinalTest,traditions|celebrate|parade|gathers|fireworks display,,,DragAndDropMultiple
+1541721,7,I1,FinalTest,advertising agency|clients|application|resume|field,,,DragAndDropMultiple
+1541721,7,I1,FinalTest,accident|wrong side of the road|hurt|serious|ambulance,,,DragAndDropMultiple
+1541721,7,I1,FinalTest,apps|charger|tablet|storage|digital camera,,,comboBox
+1541721,7,I1,FinalTest,has just finished|have already learned|hasn't begun|I have just spoken|Has she learned,,,comboBox
+1541721,7,I1,FinalTest,have been attending|have you been|have been learning|hasn't been taking|has been posting,,,comboBox
+1541721,7,I1,FinalTest,are celebrated|isn't dressed|were thrown|are stolen|was she taken,,,comboBox
+1541721,7,I1,FinalTest,can't be sent|must be wrapped|Should the package be mailed|doesn't have to be mailed|might be delivered,,,comboBox
+1541721,7,I1,FinalTest,can|must|couldn't|need|Should I,,,comboBox
+47873,1,I2,FinalTest,a luxury car.,,,RadioSingle
+47873,1,I2,FinalTest,He just wanted his|,,,RadioSingle
+47873,1,I2,FinalTest,He had to pay|,,,RadioSingle
+47873,1,I2,FinalTest,He had never owned|,,,RadioSingle 
+47873,1,I2,FinalTest,The mechanic would have told him not to buy it|,,,RadioSingle
+47873,1,I2,FinalTest,A cheap car|,,,RadioSingle
+47873,1,I2,FinalTest,He was spending|,,,RadioSingle
+47873,2,I2,FinalTest,People often don't|,,,RadioSingle
+47873,2,I2,FinalTest,They won't know how to help you.|,,,RadioSingle
+47873,2,I2,FinalTest,Make specific|,,,RadioSingle
+47873,2,I2,FinalTest,you show that|,,,RadioSingle
+47873,2,I2,FinalTest,gives advice.|,,,RadioSingle
+47873,2,I2,FinalTest,mark|,,,RadioSingle
+47873,2,I2,FinalTest,Your friend might|,,,RadioSingle
+47873,3,I2,FinalTest,False|,,,RadioSingle
+47873,3,I2,FinalTest,They wanted him to be a doctor|,,,RadioSingle
+47873,3,I2,FinalTest,They didn't at first|,,,RadioSingle
+47873,3,I2,FinalTest,True|,,,RadioSingle
+47873,3,I2,FinalTest,competing in his first race|,,,RadioSingle
+47873,3,I2,FinalTest,True|,,,RadioSingle
+47873,3,I2,FinalTest,racecar driver|,,,RadioSingle
+47873,4,I2,FinalTest,her furnace and roof|,,,RadioSingle
+47873,4,I2,FinalTest,because there was a leak|,,,RadioSingle
+47873,4,I2,FinalTest,False|,,,RadioSingle
+47873,4,I2,FinalTest,get the roof inspected|,,,RadioSingle
+47873,4,I2,FinalTest,True|,,,RadioSingle
+47873,4,I2,FinalTest,Prevent problems|,,,RadioSingle
+47873,4,I2,FinalTest,grateful|,,,RadioSingle
+47873,5,I2,FinalTest,election|voters|suspicions|environment|,,,DragAndDropMultiple
+47873,5,I2,FinalTest,rescued|slipped|afraid|survived|recovered,,,comboBox
+47873,5,I2,FinalTest,dry cleaner's|impression|career|jewelry|spill,,,DragAndDropMultiple
+47873,5,I2,FinalTest,considering|quality|respect|affordable|down payment,,,DragAndDropMultiple
+47873,5,I2,FinalTest,had been waiting|had been stopped|had never been pulled over|had been driving|had been going,,,comboBox
+47873,5,I2,FinalTest,Are you getting|made me promise|Can't you get him to|have him talk|get your husband,,,comboBox
+47873,5,I2,FinalTest,needed to|couldn't|if|could|would,,,comboBox
+47873,5,I2,FinalTest,were|would be|Unless you do|tell|agrees,,,comboBox
+47873,6,I2,FinalTest,To see how,,,RadioSingle
+47873,6,I2,FinalTest,With Muybridge's,,,RadioSingle
+47873,6,I2,FinalTest,Inventors,,,RadioSingle
+47873,6,I2,FinalTest,The weather was,,,RadioSingle
+47873,6,I2,FinalTest,It was the first film with sound,,,RadioSingle
+47873,6,I2,FinalTest,1922,,,RadioSingle
+47873,6,I2,FinalTest,False,,,RadioSingle
+47873,7,I2,FinalTest,It's an example of something people throw out,,,RadioSingle
+47873,7,I2,FinalTest,Saturday afternoon,,,RadioSingle
+47873,7,I2,FinalTest,True,,,RadioSingle
+47873,7,I2,FinalTest,Go to an upcycling,,,RadioSingle
+47873,7,I2,FinalTest,An art teacher,,,RadioSingle
+47873,7,I2,FinalTest,People will learn how to make mosaics,,,RadioSingle
+47873,7,I2,FinalTest,An event for people,,,RadioSingle
+47873,8,I2,FinalTest,screenplay|special effects|makeup artist|cinematographer|feature film,,,DragAndDropMultiple
+47873,8,I2,FinalTest,noticed|was drinking|didn't put on|was carrying|did you go,,,comboBox
+47880,1,I3,FinalTest,took part in sports activities,,,RadioSingle
+47880,1,I3,FinalTest,embarrassed about her weight.|,,,RadioSingle
+47880,1,I3,FinalTest,was worried she would die young.|,,,RadioSingle
+47880,1,I3,FinalTest,healthy meals at home and lifting weights.|,,,RadioSingle 
+47880,1,I3,FinalTest,husband started going with her to the gym.|,,,RadioSingle
+47880,1,I3,FinalTest,Karen left high school|She gave up basketball|She put on a lot of weight|Karen's doctor told her to lose weight|Her friend showed her how to make healthy meals|She started lifting weights|She lost weight|She got her husband to go to the gym with her|She opened her own gym,,,DragAndDropMultiple
+47880,1,I3,FinalTest,fitness magazine|,,,RadioSingle
+47880,2,I3,FinalTest,True|,,,RadioSingle
+47880,2,I3,FinalTest,She had left the house in a hurry and hadn't fixed herself up.|,,,RadioSingle
+47880,2,I3,FinalTest,drove too fast and yelled at a stranger.|,,,RadioSingle
+47880,2,I3,FinalTest,Nicole was rude but Lawrence behaved nicely.|,,,RadioSingle
+47880,2,I3,FinalTest,asked her out to dinner.|,,,RadioSingle
+47880,2,I3,FinalTest,Don't be fooled by first impressions.|,,,RadioSingle
+47880,2,I3,FinalTest,Nicole's mom got sick.|She got a phone call from her dad.|She had an accident on her way to the hospital.|She forgot about the accident.|Her mom recovered.|Nicole met Lawrence again at a party.,,,DragAndDropMultiple
+47880,3,I3,FinalTest,working conditions at the steel plant|,,,RadioSingle
+47880,3,I3,FinalTest,Their wages were cut.|,,,RadioSingle
+47880,3,I3,FinalTest,False|,,,RadioSingle
+47880,3,I3,FinalTest,want to fire workers.|,,,RadioSingle
+47880,3,I3,FinalTest,when the salaries of people in management go down or the workers' salaries go up|,,,RadioSingle
+47880,3,I3,FinalTest,news report.|,,,RadioSingle
+47880,3,I3,FinalTest,neutral|,,,RadioSingle
+47880,4,I3,FinalTest,An outstanding opera singer named Carmen will soon appear in town.|,,,RadioSingle
+47880,4,I3,FinalTest,actress.|,,,RadioSingle
+47880,4,I3,FinalTest,Blind Date.|,,,RadioSingle
+47880,4,I3,FinalTest,False|,,,RadioSingle
+47880,4,I3,FinalTest,We don't know.|,,,RadioSingle
+47880,4,I3,FinalTest,arts and entertainment.|,,,RadioSingle
+47880,4,I3,FinalTest,excited|,,,RadioSingle
+47880,5,I3,FinalTest,shy|snob|strangers|humor|realize,,,DragAndDropMultiple
+47880,5,I3,FinalTest,delicious|review|appetite|silverware|roast beef,,,DragAndDropMultiple
+47880,5,I3,FinalTest,who|whenever|whose|whoever|which,,,comboBox
+47880,5,I3,FinalTest,nutritious|conscientious|weigh|sensibly|overweight,,,DragAndDropMultiple
+47880,5,I3,FinalTest,could have been|should have gone|shouldn't have stayed|couldn't have been|should have known,,,comboBox
+47880,5,I3,FinalTest,may have forgotten|must have|might have been|must have been|might not have,,,comboBox
+47880,5,I3,FinalTest,who|whenever|which|whatever|which,,,comboBox
+47880,5,I3,FinalTest,hadn't spoken|might have happened|wouldn't have|would have been|see,,,comboBox
+47880,6,I3,FinalTest,vacation in an eco-lodge|,,,RadioSingle
+47880,6,I3,FinalTest,kitchen four bedrooms and two bathrooms|,,,RadioSingle
+47880,6,I3,FinalTest,modern water-conservation systems.|,,,RadioSingle
+47880,6,I3,FinalTest,True|,,,RadioSingle
+47880,6,I3,FinalTest,The exercise machines produce electricity.|,,,RadioSingle
+47880,6,I3,FinalTest,has a pet dog.|,,,RadioSingle
+47880,6,I3,FinalTest,works for guest services at an eco-lodge.|,,,RadioSingle
+47880,7,I3,FinalTest,relationship between color and personality|,,,RadioSingle
+47880,7,I3,FinalTest,We don't know.|,,,RadioSingle
+47880,7,I3,FinalTest,talkative and friendly.|,,,RadioSingle
+47880,7,I3,FinalTest,enjoy meeting people.|,,,RadioSingle
+47880,7,I3,FinalTest,Blue|,,,RadioSingle
+47880,7,I3,FinalTest,recommends people read her book to find out.|,,,RadioSingle
+47880,7,I3,FinalTest,book|,,,RadioSingle
+47880,8,I3,FinalTest,volunteered|conservation|seedlings|debris|species,,,DragAndDropMultiple
+47880,8,I3,FinalTest,hasn't been|have just participated|hadn't met|had you considered|will have completed,,,comboBox
+1542132,1,A1,FinalTest,Reasons that,,,RadioSingle
+1542132,1,A1,FinalTest,Customers|,,,RadioSingle
+1542132,1,A1,FinalTest,False|,,,RadioSingle
+1542132,1,A1,FinalTest,digital cameras today cost less than when the technology was new.,,,RadioSingle
+1542132,1,A1,FinalTest,The company had|,,,RadioSingle
+1542132,1,A1,FinalTest,a successful new|,,,RadioSingle
+1542132,1,A1,FinalTest,To be successful a company needs to keep,,,RadioSingle
+1542132,1,A1,FinalTest,Blockbuster could|,,,RadioSingle
+1542132,1,A1,FinalTest,They are taking|,,,RadioSingle
+1542132,1,A1,FinalTest,False|,,,RadioSingle
+1542132,2,A1,FinalTest,ask a friend's|,,,RadioSingle
+1542132,2,A1,FinalTest,She fell|,,,RadioSingle
+1542132,2,A1,FinalTest,False|,,,RadioSingle
+1542132,2,A1,FinalTest,Do the dishes|,,,RadioSingle
+1542132,2,A1,FinalTest,Physiotherapy|,,,RadioSingle
+1542132,2,A1,FinalTest,a second opinion|,,,RadioSingle
+1542132,2,A1,FinalTest,recommend|,,,RadioSingle
+1542132,2,A1,FinalTest,We don't know|,,,RadioSingle
+1542132,2,A1,FinalTest,She lives|,,,RadioSingle
+1542132,2,A1,FinalTest,Julia will wait|,,,RadioSingle
+1542132,3,A1,FinalTest,Claudia's|,,,RadioSingle
+1542132,3,A1,FinalTest,English and Spanish|,,,RadioSingle
+1542132,3,A1,FinalTest,True|,,,RadioSingle
+1542132,3,A1,FinalTest,Italian|,,,RadioSingle
+1542132,3,A1,FinalTest,Six years|,,,RadioSingle
+1542132,3,A1,FinalTest,We don't know|,,,RadioSingle
+1542132,3,A1,FinalTest,visit family|,,,RadioSingle
+1542132,3,A1,FinalTest,Translating|,,,RadioSingle
+1542132,3,A1,FinalTest,It is her dream|,,,RadioSingle
+1542132,3,A1,FinalTest,Check her|,,,RadioSingle
+1542132,4,A1,FinalTest,India|,,,RadioSingle
+1542132,4,A1,FinalTest,David's wife|,,,RadioSingle
+1542132,4,A1,FinalTest,False|,,,RadioSingle
+1542132,4,A1,FinalTest,A greeting|,,,RadioSingle
+1542132,4,A1,FinalTest,We don't know|,,,RadioSingle
+1542132,4,A1,FinalTest,that is what|,,,RadioSingle
+1542132,4,A1,FinalTest,An area|,,,RadioSingle
+1542132,4,A1,FinalTest,Birds|,,,RadioSingle
+1542132,4,A1,FinalTest,Rest and relax|,,,RadioSingle
+1542132,4,A1,FinalTest,Taking a nap|,,,RadioSingle
+1542132,5,A1,FinalTest,An arson trial|,,,RadioSingle
+1542132,5,A1,FinalTest,A news reporter|,,,RadioSingle
+1542132,5,A1,FinalTest,They are step-mother|,,,RadioSingle
+1542132,5,A1,FinalTest,There was a fire|,,,RadioSingle
+1542132,5,A1,FinalTest,One day|,,,RadioSingle
+1542132,5,A1,FinalTest,The Anderson's neighbor|,,,RadioSingle
+1542132,5,A1,FinalTest,We don't know|,,,RadioSingle
+1542132,5,A1,FinalTest,she doesn't like the step-son|,,,RadioSingle
+1542132,5,A1,FinalTest,We don't know|,,,RadioSingle
+1542132,5,A1,FinalTest,False|,,,RadioSingle
+1542132,6,A1,FinalTest,A story from|,,,RadioSingle
+1542132,6,A1,FinalTest,A podcaster|,,,RadioSingle
+1542132,6,A1,FinalTest,tabloid newspaper|,,,RadioSingle
+1542132,6,A1,FinalTest,She is 18|,,,RadioSingle
+1542132,6,A1,FinalTest,False|,,,RadioSingle
+1542132,6,A1,FinalTest,will be having|,,,RadioSingle
+1542132,6,A1,FinalTest,Learning|,,,RadioSingle
+1542132,6,A1,FinalTest,All of|,,,RadioSingle
+1542132,6,A1,FinalTest,The source knows the driver|,,,RadioSingle
+1542132,6,A1,FinalTest,Real facts|,,,RadioSingle
+1542132,7,A1,FinalTest,courtroom|version of events|claimed|public opinion|be found innocent,,,DragAndDropMultiple
+1542132,7,A1,FinalTest,bad ending|risking your life|altitude|parachute|second thoughts,,,DragAndDropMultiple
+1542132,7,A1,FinalTest,hospitality|customary|immigrant|appropriate|go overboard,,,comboBox
+1542132,7,A1,FinalTest,getting by|second language|like a native|fluent|interpreter,,,DragAndDropMultiple
+1542132,7,A1,FinalTest,animal shelter|community|donate|food recovery program|environmentally friendly,,,comboBox
+1542132,7,A1,FinalTest,now that|Since|so much that|as long as|such,,,comboBox
+1542132,7,A1,FinalTest,to be worried|to be terrified|to be hurt|to have enjoyed|to be "flying",,,comboBox
+1542132,7,A1,FinalTest,to have gone|to have made|to have bought|to have been|to have come,,,comboBox
+1542132,7,A1,FinalTest,will be talking|will have learned|won't be growing up|Will|have succeeded,,,comboBox
+1542132,7,A1,FinalTest,works|has helped|won't be|began|will have finished,,,comboBox
+1542219,1,A2,FinalTest,How to cope|,,,RadioSingle
+1542219,1,A2,FinalTest,Dealing|,,,RadioSingle
+1542219,1,A2,FinalTest,Suggestion|,,,RadioSingle
+1542219,1,A2,FinalTest,Writing|,,,RadioSingle
+1542219,1,A2,FinalTest,What am|,,,RadioSingle
+1542219,1,A2,FinalTest,share|,,,RadioSingle
+1542219,1,A2,FinalTest,you just|,,,RadioSingle
+1542219,1,A2,FinalTest,False|,,,RadioSingle
+1542219,1,A2,FinalTest,Chemicals|,,,RadioSingle
+1542219,1,A2,FinalTest,Exercising|,,,RadioSingle
+1542219,2,A2,FinalTest,a decision|,,,RadioSingle
+1542219,2,A2,FinalTest,True|,,,RadioSingle
+1542219,2,A2,FinalTest,went to the gym|,,,RadioSingle
+1542219,2,A2,FinalTest,Ten years|,,,RadioSingle
+1542219,2,A2,FinalTest,He didn't have|,,,RadioSingle
+1542219,2,A2,FinalTest,He exercised|,,,RadioSingle
+1542219,2,A2,FinalTest,False|,,,RadioSingle
+1542219,2,A2,FinalTest,Twelve|,,,RadioSingle
+1542219,2,A2,FinalTest,False|,,,RadioSingle
+1542219,2,A2,FinalTest,Once a week|,,,RadioSingle
+1542219,3,A2,FinalTest,Space|,,,RadioSingle
+1542219,3,A2,FinalTest,He has scheduled|,,,RadioSingle
+1542219,3,A2,FinalTest,Sam's brother|,,,RadioSingle
+1542219,3,A2,FinalTest,45 minutes|,,,RadioSingle
+1542219,3,A2,FinalTest,False|,,,RadioSingle
+1542219,3,A2,FinalTest,To visit|,,,RadioSingle
+1542219,3,A2,FinalTest,True|,,,RadioSingle
+1542219,3,A2,FinalTest,it costs|,,,RadioSingle
+1542219,3,A2,FinalTest,Check his|,,,RadioSingle
+1542219,3,A2,FinalTest,Excited|,,,RadioSingle
+1542219,4,A2,FinalTest,To interview|,,,RadioSingle
+1542219,4,A2,FinalTest,Impressive|,,,RadioSingle
+1542219,4,A2,FinalTest,False|,,,RadioSingle
+1542219,4,A2,FinalTest,Sales manager|,,,RadioSingle
+1542219,4,A2,FinalTest,True|,,,RadioSingle
+1542219,4,A2,FinalTest,she finds|,,,RadioSingle
+1542219,4,A2,FinalTest,Why she wants|,,,RadioSingle
+1542219,4,A2,FinalTest,believes Ms.|,,,RadioSingle
+1542219,4,A2,FinalTest,Encouraged|,,,RadioSingle
+1542219,4,A2,FinalTest,False|,,,RadioSingle
+1542219,5,A2,FinalTest,Darcie's|,,,RadioSingle
+1542219,5,A2,FinalTest,True|,,,RadioSingle
+1542219,5,A2,FinalTest,Four years ago|,,,RadioSingle
+1542219,5,A2,FinalTest,calm|,,,RadioSingle
+1542219,5,A2,FinalTest,I know what|,,,RadioSingle
+1542219,5,A2,FinalTest,Thankful|,,,RadioSingle
+1542219,5,A2,FinalTest,False|,,,RadioSingle
+1542219,5,A2,FinalTest,False|,,,RadioSingle
+1542219,5,A2,FinalTest,Feeling|,,,RadioSingle
+1542219,5,A2,FinalTest,To order|,,,RadioSingle
+1542219,6,A2,FinalTest,Some problems|,,,RadioSingle
+1542219,6,A2,FinalTest,They used to be|,,,RadioSingle
+1542219,6,A2,FinalTest,He needs|,,,RadioSingle
+1542219,6,A2,FinalTest,Mark's wife|,,,RadioSingle
+1542219,6,A2,FinalTest,She's unemployed|,,,RadioSingle
+1542219,6,A2,FinalTest,False|,,,RadioSingle
+1542219,6,A2,FinalTest,Flexibility|,,,RadioSingle
+1542219,6,A2,FinalTest,True|,,,RadioSingle
+1542219,6,A2,FinalTest,speak with|,,,RadioSingle
+1542219,6,A2,FinalTest,False|,,,RadioSingle
+1542219,7,A2,FinalTest,let me be frank|majority|I'd hate to have|just this one|surrounded by,,,DragAndDropMultiple
+1542219,7,A2,FinalTest,what's been going on|determined to|seriously doubt whether|I have difficulty|work things out,,,DragAndDropMultiple
+1542219,7,A2,FinalTest,honorary member|donation|cover expenses|impressed|shelter,,,DragAndDropMultiple
+1542219,7,A2,FinalTest,International Space Station|astronauts|weightlessness|spacecraft|missions,,,comboBox
+1542219,7,A2,FinalTest,account executive|ambitious|aggressive|sales force|response,,,DragAndDropMultiple
+1542219,7,A2,FinalTest,now that|despite|Although|Because,,,comboBox
+1542219,7,A2,FinalTest,there are|it wasn't|it won't|It is|it seems,,,DragAndDropMultiple
+1542219,7,A2,FinalTest,will you|won't know|would come|wouldn't|You would,,,comboBox
+1542219,7,A2,FinalTest,several|business school|retail|serving|ceramic,,,comboBox
+1542219,7,A2,FinalTest,may|need to|ought to|will|might be able to,,,DragAndDropMultiple
+1542306,1,A3,FinalTest,To figure out|,,,RadioSingle
+1542306,1,A3,FinalTest,friends|,,,RadioSingle
+1542306,1,A3,FinalTest,It's easier|,,,RadioSingle
+1542306,1,A3,FinalTest,False|,,,RadioSingle
+1542306,1,A3,FinalTest,Regularly|,,,RadioSingle
+1542306,1,A3,FinalTest,She works|,,,RadioSingle
+1542306,1,A3,FinalTest,In three weeks|,,,RadioSingle
+1542306,1,A3,FinalTest,True|,,,RadioSingle
+1542306,1,A3,FinalTest,We don't know|,,,RadioSingle
+1542306,1,A3,FinalTest,long-distance|,,,RadioSingle
+1542306,2,A3,FinalTest,Ad|,,,RadioSingle
+1542306,2,A3,FinalTest,Woodworking|,,,RadioSingle
+1542306,2,A3,FinalTest,Heroes|,,,RadioSingle
+1542306,2,A3,FinalTest,True|,,,RadioSingle
+1542306,2,A3,FinalTest,parents|,,,RadioSingle
+1542306,2,A3,FinalTest,Some campers later|,,,RadioSingle
+1542306,2,A3,FinalTest,changed|,,,RadioSingle
+1542306,2,A3,FinalTest,A library|,,,RadioSingle
+1542306,2,A3,FinalTest,Ruth|,,,RadioSingle
+1542306,2,A3,FinalTest,True|,,,RadioSingle
+1542306,3,A3,FinalTest,believing|,,,RadioSingle
+1542306,3,A3,FinalTest,She is afraid|,,,RadioSingle
+1542306,3,A3,FinalTest,thinks|,,,RadioSingle
+1542306,3,A3,FinalTest,make something|,,,RadioSingle
+1542306,3,A3,FinalTest,Doubting|,,,RadioSingle
+1542306,3,A3,FinalTest,False|,,,RadioSingle
+1542306,3,A3,FinalTest,Albert Einstein|,,,RadioSingle
+1542306,3,A3,FinalTest,giving advice|,,,RadioSingle
+1542306,3,A3,FinalTest,don't spend|,,,RadioSingle
+1542306,3,A3,FinalTest,staying positive|,,,RadioSingle
+1542306,4,A3,FinalTest,A news report|,,,RadioSingle
+1542306,4,A3,FinalTest,are teachers|,,,RadioSingle
+1542306,4,A3,FinalTest,We don't know|,,,RadioSingle
+1542306,4,A3,FinalTest,The bus never came|,,,RadioSingle
+1542306,4,A3,FinalTest,watch it happen|,,,RadioSingle
+1542306,4,A3,FinalTest,True|,,,RadioSingle
+1542306,4,A3,FinalTest,Jones|,,,RadioSingle
+1542306,4,A3,FinalTest,Jones is in good shape|,,,RadioSingle
+1542306,4,A3,FinalTest,She saw him|,,,RadioSingle
+1542306,4,A3,FinalTest,Looking back|,,,RadioSingle
+1542306,5,A3,FinalTest,To entertain|,,,RadioSingle
+1542306,5,A3,FinalTest,It is unfurnished|,,,RadioSingle
+1542306,5,A3,FinalTest,used|,,,RadioSingle
+1542306,5,A3,FinalTest,It is in a beautiful|,,,RadioSingle
+1542306,5,A3,FinalTest,The house seems|,,,RadioSingle
+1542306,5,A3,FinalTest,Carl says it is creepy|,,,RadioSingle
+1542306,5,A3,FinalTest,False|,,,RadioSingle
+1542306,5,A3,FinalTest,Ghost-like|,,,RadioSingle
+1542306,5,A3,FinalTest,It grabs her|,,,RadioSingle
+1542306,5,A3,FinalTest,We don't know|,,,RadioSingle
+1542306,6,A3,FinalTest,how Music Trade|,,,RadioSingle
+1542306,6,A3,FinalTest,False|,,,RadioSingle
+1542306,6,A3,FinalTest,They went to high|,,,RadioSingle
+1542306,6,A3,FinalTest,He only sells|,,,RadioSingle
+1542306,6,A3,FinalTest,False|,,,RadioSingle
+1542306,6,A3,FinalTest,Buying and selling|,,,RadioSingle
+1542306,6,A3,FinalTest,He didn't start with|,,,RadioSingle
+1542306,6,A3,FinalTest,He got a bank loan|,,,RadioSingle
+1542306,6,A3,FinalTest,By selling additional|,,,RadioSingle
+1542306,6,A3,FinalTest,True|,,,RadioSingle
+1542306,7,A3,FinalTest,assistance|conduct a survey|information-gathering|buying habits|appreciation,,,DragAndDropMultiple
+1542306,7,A3,FinalTest,park ranger|dense forest|winding trail|diverse|have our work cut out,,,DragAndDropMultiple
+1542306,7,A3,FinalTest,in disguise|involved in|escape|desperate situation|take my word for it,,,DragAndDropMultiple
+1542306,7,A3,FinalTest,accepting bribes|bad business practices|complies with|irreparably damaged|step down,,,DragAndDropMultiple
+1542306,7,A3,FinalTest,game-based learning|virtual environment|prerequisites|rigorous|course credits,,,DragAndDropMultiple
+1542306,7,A3,FinalTest,insisted on|looking at|compare him to|hopes for|succeed in,,,comboBox
+1542306,7,A3,FinalTest,walked|to visit|flying|rented|knowing,,,comboBox
+1542306,7,A3,FinalTest,you speak|say|include|you have|feel,,,comboBox
+1542306,7,A3,FinalTest,Would you like|you mind|you like|you like|I wouldn't mind giving,,,comboBox
+1542306,7,A3,FinalTest,had started|wouldn't think|need to make|could have already been working|you're going to look,,,comboBox

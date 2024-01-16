@@ -1,0 +1,40 @@
+ DECLARE @InstitutionId as varchar(30),
+        @rangeOfDays int
+
+         
+ SET @InstitutionId = %InstitutionId%
+ SET @rangeOfDays = %rangeOfDays%
+
+
+ BEGIN TRAN
+
+ select distinct a.AdministrationId,ses.SessionId
+ into #tempAdmin
+ from Students as s
+ inner join Sessions as ses on s.SessionId = ses.SessionId
+ inner join Administrations as a on ses.AdministrationId = a.AdministrationId
+ where a.CreatedOn < DATEADD(DD,-@rangeOfDays,GETDATE()) and (s.EdStudentId like @InstitutionId+'%')
+
+ Delete s
+ from Students as s 
+ inner join #tempAdmin on #tempAdmin.SessionId = s.SessionId
+
+ Delete ses
+ from Sessions as ses
+ inner join #tempAdmin on #tempAdmin.SessionId = ses.SessionId
+
+ Delete a
+ from Administrations as a
+ inner join #tempAdmin on #tempAdmin.AdministrationId = a.AdministrationId
+
+ drop table #tempAdmin
+ 
+ IF @@ERROR > 0
+      BEGIN
+            ROLLBACK
+            SELECT 1 AS Error
+            RETURN
+      END
+ 
+ COMMIT
+ SELECT 0 AS Error

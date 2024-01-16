@@ -1,0 +1,224 @@
+  DECLARE @UserId bigint,
+          @CourseId int,
+          @InstitutionId bigint
+
+            
+ SET @UserId = %studentId%
+ SET @CourseId = %courseId%
+ SET @InstitutionId = %instId%
+
+
+ BEGIN TRAN
+      DELETE FROM ProgressBack
+      WHERE UserId = @UserId
+         AND CourseId = @CourseId
+      
+      IF @@ERROR > 0
+      BEGIN
+            ROLLBACK
+            SELECT 1 AS Error
+            RETURN
+      END
+
+
+      DELETE FROM TestResultsBack
+      WHERE UserId = @UserId
+         AND CourseId = @CourseId
+
+      IF @@ERROR > 0
+      BEGIN
+            ROLLBACK
+            SELECT 2 AS Error
+            RETURN
+      END
+
+
+      DELETE FinalCourseGradeBack
+     WHERE UserId = @UserId
+         AND CourseId = @CourseId
+
+      IF @@ERROR > 0
+      BEGIN
+            ROLLBACK
+            SELECT 3 AS Error
+            RETURN
+      END
+
+
+      DELETE Progress
+     WHERE UserId = @UserId
+         AND CourseId = @CourseId
+
+      IF @@ERROR > 0
+      BEGIN
+            ROLLBACK
+            SELECT 4 AS Error
+            RETURN
+      END
+
+
+	delete trs
+	from TestResultsState as trs
+		inner join TestResults as tr on tr.TestResultsId = trs.TestResultsId
+		inner join users as u on u.UserId = tr.UserId
+	where tr.CourseId = @CourseId and u.UserId = @UserId
+
+	IF @@ERROR > 0
+	      BEGIN
+	            ROLLBACK
+	            SELECT 16 AS Error
+	            RETURN
+	      END
+
+
+      DELETE TestResults
+     WHERE UserId = @UserId
+         AND CourseId = @CourseId
+
+      IF @@ERROR > 0
+      BEGIN
+            ROLLBACK
+            SELECT 5 AS Error
+            RETURN
+      END
+
+      DELETE FinalCourseGrade
+     WHERE UserId = @UserId
+         AND CourseId = @CourseId
+
+      IF @@ERROR > 0
+      BEGIN
+            ROLLBACK
+            SELECT 6 AS Error
+            RETURN
+      END
+
+	delete uucp 
+	from UserUnitComponentProgress as uucp
+	inner join Units on Units.UnitId = uucp.UnitId
+	inner join Course as c on c.CourseId = units.CourseId
+	inner join users as u on u.UserId = uucp.UserId
+	where c.CourseId = @CourseId and u.UserId = @UserId
+ 
+ 	IF @@ERROR > 0
+    BEGIN
+        ROLLBACK
+        SELECT 7 AS Error
+        RETURN
+    END
+
+
+	DELETE utcp 
+		FROM UserTestComponentProgress  as utcp
+		INNER JOIN users u on utcp.UserId = u.UserId
+		inner join Units on units.UnitId  = utcp.UnitId
+		inner join Course as c on c.CourseId = units.CourseId
+		where c.CourseId = @CourseId and u.UserId = @UserId
+	
+	IF @@ERROR > 0
+    BEGIN
+        ROLLBACK
+        SELECT 8 AS Error
+        RETURN
+    END	
+		
+  	  DELETE TimeOnLesson WHERE UserId = @UserId
+  	   AND CourseId = @CourseId
+
+      IF @@ERROR > 0
+      BEGIN
+            ROLLBACK
+            SELECT 4 AS Error
+            RETURN
+      END
+      
+      DELETE TimeOnLessonBack WHERE UserId = @UserId
+       AND CourseId = @CourseId
+
+      IF @@ERROR > 0
+      BEGIN
+            ROLLBACK
+            SELECT 9 AS Error
+            RETURN
+      END
+      
+      DELETE TimeOnLessonExceptions WHERE UserId = @UserId
+       AND CourseId = @CourseId
+
+      IF @@ERROR > 0
+      BEGIN
+            ROLLBACK
+            SELECT 10 AS Error
+            RETURN
+      END
+      
+      
+      -- delete unit progress
+		delete ucp 
+		from UserUnitProgress as uup
+		inner join UnitComponents as uc on uc.UnitId = uup.UnitId
+		inner join Units on Units.UnitId = uc.UnitId
+		inner join Course as c on c.CourseId = units.CourseId
+		inner join UserCourseProgress as ucp on c.CourseId = ucp.UserId
+		inner join users as u on u.UserId = ucp.UserId
+		where c.CourseId = @CourseId and u.UserId = @UserId
+
+      IF @@ERROR > 0
+      BEGIN
+            ROLLBACK
+            SELECT 11 AS Error
+            RETURN
+      END
+      
+      DELETE UserCourseProgress
+     WHERE UserId = @UserId
+         AND CourseId = @CourseId
+
+      IF @@ERROR > 0
+      BEGIN
+            ROLLBACK
+            SELECT 12 AS Error
+            RETURN
+      END
+      
+      DELETE UserSchedulerPlans WHERE UserId = @UserId
+       -- AND CourseId = @CourseId
+
+      IF @@ERROR > 0
+      BEGIN
+            ROLLBACK
+            SELECT 13 AS Error
+            RETURN
+      END
+      
+      DELETE VisitedComponents
+        FROM VisitedComponents WITH(NOLOCK) INNER JOIN
+               UserLog WITH(NOLOCK) ON VisitedComponents.UserLogId = UserLog.UserLogId INNER JOIN
+               Units WITH(NOLOCK) ON VisitedComponents.UnitId = Units.UnitId
+      WHERE (UserLog.UserId = @UserId)
+         AND (Units.CourseId = @CourseId)
+
+      IF @@ERROR > 0
+      BEGIN
+            ROLLBACK
+            SELECT 14 AS Error
+            RETURN
+      END
+
+      DELETE TestResults
+      FROM TestResults WITH(NOLOCK) INNER JOIN
+            Course WITH(NOLOCK) ON TestResults.CourseId = Course.CourseId INNER JOIN
+            Course AS Course_1 WITH(NOLOCK) ON Course.ShortName = Course_1.ShortName
+      WHERE (Course.ExitTest = 1)
+        AND (Course_1.CourseId = @CourseId)
+        AND (TestResults.UserId = @UserId)
+
+      IF @@ERROR > 0
+      BEGIN
+            ROLLBACK
+            SELECT 15 AS Error
+            RETURN
+      END
+
+ COMMIT
+ SELECT 0 AS Error

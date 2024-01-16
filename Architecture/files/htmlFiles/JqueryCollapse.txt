@@ -1,0 +1,9 @@
+<script>
+  
+$('.ui-content h1').on('click', showSection);
+
+function showSection(e){
+	$(e.target).closest('.ui-content').toggleClass('open')
+}
+
+</script> 

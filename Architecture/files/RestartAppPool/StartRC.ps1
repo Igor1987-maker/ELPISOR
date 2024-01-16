@@ -1,0 +1,1 @@
+﻿Invoke-Command -ComputerName "frontqa2016" -ScriptBlock { Start-WebAppPool -Name "EdUIProdWebServices" }

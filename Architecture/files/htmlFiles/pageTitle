@@ -1,0 +1,4 @@
+<div data-role="page" id="pageone">
+  <div data-role="header">
+    <h1>Test log</h1>
+  </div>

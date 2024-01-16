@@ -1,0 +1,174 @@
+Basic,Basic1,Reading,b1ramm,b1rammt001,FALSE,RadioSingle
+Basic,Basic1,Reading,b1ramm,b1rammt002,$126,DragAndDropMultiple
+Basic,Basic1,Reading,b1ramm,b1rammt003,We don't know.,RadioSingle
+Basic,Basic1,Reading,b1ramm,b1rammt004,no one knows,RadioSingle
+Basic,Basic1,Reading,b1ramm,b1rammt005,the computers,RadioSingle
+Basic,Basic1,Listening,b1lrwe,b1lrwet001,warm,DragAndDropMultiple
+Basic,Basic1,Listening,b1lrwe,b1lrwet002,FALSE,RadioSingle
+Basic,Basic1,Listening,b1lrwe,b1lrwet003,FALSE,RadioSingle
+Basic,Basic1,Listening,b1lrwe,b1lrwet004,this afternoon,DragAndDropMultiple
+Basic,Basic1,Grammar,b1gral,b1gralt001,my|She|Her|her,DragAndDropMultiple
+Basic,Basic1,Grammar,b1gral,b1gralt002,I|her|she,DragAndDropMultiple
+Basic,Basic1,Grammar,b1gral,b1gralt003,your|My|you|me,DragAndDropMultiple
+Basic,Basic1,Grammar,b1gral,b1gralt004,She|you|I|her,DragAndDropMultiple
+Basic,Basic1,Grammar,b1gral,b1gralt005,your|my|it,comboBox
+Basic,Basic2,Reading,b2rdmm,b2rdmmt001,"Great Bargains at Mad Mo's""""",RadioSingle
+Basic,Basic2,Reading,b2rdmm,b2rdmmt002,TRUE,RadioSingle
+Basic,Basic2,Reading,b2rdmm,b2rdmmt003,the customer's,RadioSingle
+Basic,Basic2,Reading,b2rdmm,b2rdmmt004,suitcases,RadioSingle
+Basic,Basic2,Reading,b2rdmm,b2rdmmt005,They are ninety-nine dollars.,RadioSingle
+Basic,Basic2,Listening,b2lrnw,b2lrnwt001,FALSE,RadioSingle
+Basic,Basic2,Listening,b2lrnw,b2lrnwt002,"It's in Washington, D.C.",RadioSingle
+Basic,Basic2,Listening,b2lrnw,b2lrnwt003,They were in their rooms.,RadioSingle
+Basic,Basic2,Listening,b2lrnw,b2lrnwt004,the hotel receptionist,RadioSingle
+Basic,Basic2,Listening,b2lrnw,b2lrnwt005,The firefighters worked very hard.,RadioSingle
+Basic,Basic2,Grammar,b2grvs,b2grvst001,She's going|She goes,DragAndDropMultiple
+Basic,Basic2,Grammar,b2grvs,b2grvst002,I'm doing|I don't,comboBox
+Basic,Basic2,Grammar,b2grvs,b2grvst003,love|am writing,DragAndDropMultiple
+Basic,Basic2,Grammar,b2grvs,b2grvst004,are you saying|do you mean,comboBox
+Basic,Basic2,Grammar,b2grvs,b2grvst005,is he wearing|teaches|wears,DragAndDropMultiple
+Basic,Basic3,Reading,b3rapa,b3rapat001,a hot dog,DragAndDropMultiple
+Basic,Basic3,Reading,b3rapa,b3rapat002,angry,DragAndDropMultiple
+Basic,Basic3,Reading,b3rapa,b3rapat003,October 31st,RadioSingle
+Basic,Basic3,Reading,b3rapa,b3rapat004,Johnny Troublemaker,RadioSingle
+Basic,Basic3,Reading,b3rapa,b3rapat005,"Brixton Catches Troublemaker""""",RadioSingle
+Basic,Basic3,Listening,b3lrci,b3lrcit001,to give their opinion,RadioSingle
+Basic,Basic3,Listening,b3lrci,b3lrcit002,FALSE,RadioSingle
+Basic,Basic3,Listening,b3lrci,b3lrcit003,give less homework,RadioSingle
+Basic,Basic3,Listening,b3lrci,b3lrcit004,He stays up late doing homework.,RadioSingle
+Basic,Basic3,Listening,b3lrci,b3lrcit005,homework,DragAndDropMultiple
+Basic,Basic3,Grammar,b3gmal,b3gmalt001,wasn't able to|had to,DragAndDropMultiple
+Basic,Basic3,Grammar,b3gmal,b3gmalt002,had to|must,comboBox
+Basic,Basic3,Grammar,b3gmal,b3gmalt003,should|mustn't,DragAndDropMultiple
+Basic,Basic3,Grammar,b3gmal,b3gmalt004,wasn't able to|had to,DragAndDropMultiple
+Basic,Basic3,Grammar,b3gmal,b3gmalt005,was|wasn't,DragAndDropMultiple
+Basic,Basic3,Grammar,b3gmal,b3gmalt006,had to|wasn't able to,comboBox
+Basic,Basic3,Grammar,b3gmal,b3gmalt007,don't have to|mustn't,DragAndDropMultiple
+Basic,Basic3,Grammar,b3gmal,b3gmalt008,shouldn't|should,comboBox
+Basic,Basic3,Grammar,b3gmal,b3gmalt009,shouldn't|be able to,DragAndDropMultiple
+Basic,Basic3,Grammar,b3gmal,b3gmalt010,mustn't|should,comboBox
+Basic,Basic3,Grammar,b3gmal,b3gmalt011,didn't have to|were able to,DragAndDropMultiple
+Basic,Basic3,Grammar,b3gmal,b3gmalt012,wasn't able to|had to,comboBox
+Basic,Basic3,Grammar,b3gmal,b3gmalt013,must|should,comboBox
+Basic,Basic3,Grammar,b3gmal,b3gmalt014,must|should,DragAndDropMultiple
+Basic,Basic3,Grammar,b3gmal,b3gmalt015,mustn't|will be able to,DragAndDropMultiple
+Intermediate,Intermediate1,Reading,i1rnsn,i1rnsnt001,the history examination,RadioSingle
+Intermediate,Intermediate1,Reading,i1rnsn,i1rnsnt002,all the secondary school teachers,RadioSingle
+Intermediate,Intermediate1,Reading,i1rnsn,i1rnsnt003,before the history examination,RadioSingle
+Intermediate,Intermediate1,Reading,i1rnsn,i1rnsnt004,examination,RadioSingle
+Intermediate,Intermediate1,Reading,i1rnsn,i1rnsnt005,so that they will try to get similar grades,RadioSingle
+Intermediate,Intermediate1,Listening,i1lrqu,i1lrqut001,Mrs. Smith's,RadioSingle
+Intermediate,Intermediate1,Listening,i1lrqu,i1lrqut002,morning,RadioSingle
+Intermediate,Intermediate1,Listening,i1lrqu,i1lrqut003,two,RadioSingle
+Intermediate,Intermediate1,Listening,i1lrqu,i1lrqut004,a cow,RadioSingle
+Intermediate,Intermediate1,Listening,i1lrqu,i1lrqut005,this is the first prize she has ever won,DragAndDropMultiple
+Intermediate,Intermediate1,Grammar,i1gpal,i1gpalt001,has been|recently|have,comboBox
+Intermediate,Intermediate1,Grammar,i1gpal,i1gpalt002,Have|chosen|have decided,comboBox
+Intermediate,Intermediate1,Grammar,i1gpal,i1gpalt003,Have you ever fallen|ridden,comboBox
+Intermediate,Intermediate1,Grammar,i1gpal,i1gpalt004,has been|since|was,comboBox
+Intermediate,Intermediate1,Grammar,i1gpal,i1gpalt005,Has|taken|took,DragAndDropMultiple
+Intermediate,Intermediate1,Grammar,i1gpal,i1gpalt006,have been going|has been having,comboBox
+Intermediate,Intermediate1,Grammar,i1gpal,i1gpalt007,has|been|teaching|graduated,DragAndDropMultiple
+Intermediate,Intermediate1,Grammar,i1gpal,i1gpalt008,have|ever|thrown|threw,DragAndDropMultiple
+Intermediate,Intermediate1,Grammar,i1gpal,i1gpalt009,she's been crying|hit,comboBox
+Intermediate,Intermediate1,Grammar,i1gpal,i1gpalt010,broke|broken|haven't,comboBox
+Intermediate,Intermediate2,Reading,i2race,i2racet001,All of the above,RadioSingle
+Intermediate,Intermediate2,Reading,i2race,i2racet002,A Computer Expo conference organizer,RadioSingle
+Intermediate,Intermediate2,Reading,i2race,i2racet003,motion and gesture technology.,RadioSingle
+Intermediate,Intermediate2,Reading,i2race,i2racet004,Computer devices using the newest technology,RadioSingle
+Intermediate,Intermediate2,Reading,i2race,i2racet005,anyone who wants to attend.,RadioSingle
+Intermediate,Intermediate2,Listening,i2lrsp,i2lrspt001,Nigel Franklin.,RadioSingle
+Intermediate,Intermediate2,Listening,i2lrsp,i2lrspt002,injured,RadioSingle
+Intermediate,Intermediate2,Listening,i2lrsp,i2lrspt003,"It was hurt, but not seriously.",RadioSingle
+Intermediate,Intermediate2,Listening,i2lrsp,i2lrspt004,FALSE,RadioSingle
+Intermediate,Intermediate2,Listening,i2lrsp,i2lrspt005,he might have fallen off the cliff.,RadioSingle
+Intermediate,Intermediate2,Grammar,i2gpal,i2gpalt001,'d been walking|had gotten|had gone,comboBox
+Intermediate,Intermediate2,Grammar,i2gpal,i2gpalt002,had just closed|had forgotten,comboBox
+Intermediate,Intermediate2,Grammar,i2gpal,i2gpalt003,had been writing|had been sold,comboBox
+Intermediate,Intermediate2,Grammar,i2gpal,i2gpalt004,'d never been|'d been feeling|hadn't been,comboBox
+Intermediate,Intermediate2,Grammar,i2gpal,i2gpalt005,had started|hadn't been,comboBox
+Intermediate,Intermediate2,Grammar,i2gpal,i2gpalt006,hadn't been|'d been taking,comboBox
+Intermediate,Intermediate2,Grammar,i2gpal,i2gpalt007,had just stopped|had failed,comboBox
+Intermediate,Intermediate2,Grammar,i2gpal,i2gpalt008,'d felt|'d received,DragAndDropMultiple
+Intermediate,Intermediate2,Grammar,i2gpal,i2gpalt009,hadn't finished|had been ringing,comboBox
+Intermediate,Intermediate2,Grammar,i2gpal,i2gpalt010,had just dialed|'d been trying,comboBox
+Advanced,Intermediate3,Reading,i3rsmc,i3rsmct001,she didn't have enough money to go on vacation.,RadioSingle
+Advanced,Intermediate3,Reading,i3rsmc,i3rsmct002,going to Europe.,RadioSingle
+Advanced,Intermediate3,Reading,i3rsmc,i3rsmct003,scenic,RadioSingle
+Advanced,Intermediate3,Reading,i3rsmc,i3rsmct004,telling the truth about how they would spend their holiday,RadioSingle
+Advanced,Intermediate3,Reading,i3rsmc,i3rsmct005,remote,RadioSingle
+Intermediate,Intermediate3,Listening,i3lrwe,i3lrwet001,without any planning,DragAndDropMultiple
+Intermediate,Intermediate3,Listening,i3lrwe,i3lrwet002,remote,RadioSingle
+Intermediate,Intermediate3,Listening,i3lrwe,i3lrwet003,Camping up north will be fun this weekend.,RadioSingle
+Intermediate,Intermediate3,Listening,i3lrwe,i3lrwet004,It probably won't rain.,RadioSingle
+Intermediate,Intermediate3,Listening,i3lrwe,i3lrwet005,They had probably wanted to go camping up north.,RadioSingle
+Advanced,Intermediate3,Grammar,i3gpal,i3gpalt001,might not have been|should've called,comboBox
+Advanced,Intermediate3,Grammar,i3gpal,i3gpalt002,shouldn't|couldn't,DragAndDropMultiple
+Advanced,Intermediate3,Grammar,i3gpal,i3gpalt003,might have,DragAndDropMultiple
+Advanced,Intermediate3,Grammar,i3gpal,i3gpalt004,flown|had,DragAndDropMultiple
+Advanced,Intermediate3,Grammar,i3gpal,i3gpalt005,should've|might have,DragAndDropMultiple
+Advanced,Intermediate3,Grammar,i3gpal,i3gpalt006,could've|must have,DragAndDropMultiple
+Advanced,Intermediate3,Grammar,i3gpal,i3gpalt007,would have been|should've,DragAndDropMultiple
+Advanced,Intermediate3,Grammar,i3gpal,i3gpalt008,could've|must've,DragAndDropMultiple
+Advanced,Intermediate3,Grammar,i3gpal,i3gpalt009,could have,DragAndDropMultiple
+Advanced,Intermediate3,Grammar,i3gpal,i3gpalt010,shouldn't have|might not have,DragAndDropMultiple
+Advanced,Advanced1,Reading,a1rsbt,a1rsbtt001,talking more than working.,RadioSingle
+Advanced,Advanced1,Reading,a1rsbt,a1rsbtt002,manager of the Number One Branch.,RadioSingle
+Advanced,Advanced1,Reading,a1rsbt,a1rsbtt003,financial,RadioSingle
+Advanced,Advanced1,Reading,a1rsbt,a1rsbtt004,FALSE,RadioSingle
+Advanced,Advanced1,Reading,a1rsbt,a1rsbtt005,steal money.,RadioSingle
+Advanced,Advanced1,Listening,a1lrnw,a1lrnwt001,Not everyone has easy access to the Internet.,RadioSingle
+Advanced,Advanced1,Listening,a1lrnw,a1lrnwt002,"It's an innovative, computer-based employment service.",RadioSingle
+Advanced,Advanced1,Listening,a1lrnw,a1lrnwt003,whenever a new job is offered,RadioSingle
+Advanced,Advanced1,Listening,a1lrnw,a1lrnwt005,by using a computer,RadioSingle
+Advanced,Advanced1,Listening,a1lrnw,a1lrnwt004,FALSE,RadioSingle
+Advanced,Advanced1,Grammar,a1gral,a1gralt001,as long as,DragAndDropMultiple
+Advanced,Advanced1,Grammar,a1gral,a1gralt002,as long as,DragAndDropMultiple
+Advanced,Advanced1,Grammar,a1gral,a1gralt003,as long as,DragAndDropMultiple
+Advanced,Advanced1,Grammar,a1gral,a1gralt004,Now that,DragAndDropMultiple
+Advanced,Advanced1,Grammar,a1gral,a1gralt005,now that,DragAndDropMultiple
+Advanced,Advanced1,Grammar,a1gral,a1gralt006,now that,DragAndDropMultiple
+Advanced,Advanced1,Grammar,a1gral,a1gralt007,now that,DragAndDropMultiple
+Advanced,Advanced1,Grammar,a1gral,a1gralt008,Since,DragAndDropMultiple
+Advanced,Advanced1,Grammar,a1gral,a1gralt009,Since,DragAndDropMultiple
+Advanced,Advanced1,Grammar,a1gral,a1gralt010,since,DragAndDropMultiple
+Advanced,Advanced2,Reading,a2rshj,a2rshjt001,gamblers usually lose their money.,RadioSingle
+Advanced,Advanced2,Reading,a2rshj,a2rshjt002,he didn't get up and leave even though he kept losing.,RadioSingle
+Advanced,Advanced2,Reading,a2rshj,a2rshjt003,Win Some,RadioSingle
+Advanced,Advanced2,Reading,a2rshj,a2rshjt004,temptation,RadioSingle
+Advanced,Advanced2,Reading,a2rshj,a2rshjt005,donate,RadioSingle
+Advanced,Advanced2,Listening,a2lrmu,a2lrmut001,say something interesting about their professions,RadioSingle
+Advanced,Advanced2,Listening,a2lrmu,a2lrmut002,There is no reason given.,RadioSingle
+Advanced,Advanced2,Listening,a2lrmu,a2lrmut003,He tells her that she can win the album of her choice.,RadioSingle
+Advanced,Advanced2,Listening,a2lrmu,a2lrmut004,She has two jobs.,RadioSingle
+Advanced,Advanced2,Listening,a2lrmu,a2lrmut005,"Barry hangs up on the second person he calls, Joel.",RadioSingle
+Advanced,Advanced2,Grammar,a2gpal,a2gpalt001,relaxing|relaxed,DragAndDropMultiple
+Advanced,Advanced2,Grammar,a2gpal,a2gpalt002,exhausting|surprised,DragAndDropMultiple
+Advanced,Advanced2,Grammar,a2gpal,a2gpalt003,guided,DragAndDropMultiple
+Advanced,Advanced2,Grammar,a2gpal,a2gpalt004,surprised|tired,DragAndDropMultiple
+Advanced,Advanced2,Grammar,a2gpal,a2gpalt005,depressing|surprised,DragAndDropMultiple
+Advanced,Advanced2,Grammar,a2gpal,a2gpalt006,amusing,DragAndDropMultiple
+Advanced,Advanced2,Grammar,a2gpal,a2gpalt007,interested,DragAndDropMultiple
+Advanced,Advanced2,Grammar,a2gpal,a2gpalt008,reserved,DragAndDropMultiple
+Advanced,Advanced2,Grammar,a2gpal,a2gpalt009,tired,DragAndDropMultiple
+Advanced,Advanced2,Grammar,a2gpal,a2gpalt010,frightening|worn,DragAndDropMultiple
+Advanced,Advanced3,Reading,a3rajb,a3rajbt001,his wife wanted to.,RadioSingle
+Advanced,Advanced3,Reading,a3rajb,a3rajbt002,110 years old,RadioSingle
+Advanced,Advanced3,Reading,a3rajb,a3rajbt003,properly ,RadioSingle
+Advanced,Advanced3,Reading,a3rajb,a3rajbt004,the Prickly Pine Retirement Center,RadioSingle
+Advanced,Advanced3,Reading,a3rajb,a3rajbt005,TRUE,RadioSingle
+Advanced,Advanced3,Listening,a3lrqu,a3lrqut001,chemist.,RadioSingle
+Advanced,Advanced3,Listening,a3lrqu,a3lrqut002,he got very nervous.,RadioSingle
+Advanced,Advanced3,Listening,a3lrqu,a3lrqut003,the Loch Ness Monster.,RadioSingle
+Advanced,Advanced3,Listening,a3lrqu,a3lrqut004,TRUE,RadioSingle
+Advanced,Advanced3,Listening,a3lrqu,a3lrqut005,FALSE,RadioSingle
+Advanced,Advanced3,Grammar,a3gial,a3gialt001,to wash|to find,DragAndDropMultiple
+Advanced,Advanced3,Grammar,a3gial,a3gialt002,to know|to work,DragAndDropMultiple
+Advanced,Advanced3,Grammar,a3gial,a3gialt003,to fall|to make,DragAndDropMultiple
+Advanced,Advanced3,Grammar,a3gial,a3gialt004,to find|to get,DragAndDropMultiple
+Advanced,Advanced3,Grammar,a3gial,a3gialt005,to be|to have,DragAndDropMultiple
+Advanced,Advanced3,Grammar,a3gial,a3gialt006,to have|to clear,DragAndDropMultiple
+Advanced,Advanced3,Grammar,a3gial,a3gialt007,to keep,DragAndDropMultiple
+Advanced,Advanced3,Grammar,a3gial,a3gialt008,to earn|to be working,DragAndDropMultiple
+Advanced,Advanced3,Grammar,a3gial,a3gialt009,to eat|to have,DragAndDropMultiple
+Advanced,Advanced3,Grammar,a3gial,a3gialt010,to be moving|to have,DragAndDropMultiple

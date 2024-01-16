@@ -1,0 +1,193 @@
+Basic,Basic1,Reading,b1ralm,b1ralmt001,chicken and fish,DragAndDropMultiple
+Basic,Basic1,Reading,b1ralm,b1ralmt002,Americans,RadioSingle
+Basic,Basic1,Reading,b1ralm,b1ralmt003,Americans are trying to be healthy.,RadioSingle
+Basic,Basic1,Reading,b1ralm,b1ralmt004,They are exercising.,RadioSingle
+Basic,Basic1,Listening,b1lrsp,b1lrspt001,5,RadioSingle
+Basic,Basic1,Listening,b1lrsp,b1lrspt002,FALSE,RadioSingle
+Basic,Basic1,Listening,b1lrsp,b1lrspt003,TRUE,RadioSingle
+Basic,Basic1,Listening,b1lrsp,b1lrspt004,Johnson is a good player,DragAndDropMultiple
+Basic,Basic1,Grammar,b1gpal,b1gpalt001,What are the boys doing|Are they listening|they aren't listening,DragAndDropMultiple
+Basic,Basic1,Grammar,b1gpal,b1gpalt002,When are you going|taking|Are you going,DragAndDropMultiple
+Basic,Basic1,Grammar,b1gpal,b1gpalt003,ming|are watching,comboBox
+Basic,Basic1,Grammar,b1gpal,b1gpalt004,What are you doing|I'm looking for Brazil on the map|you're looking,DragAndDropMultiple
+Basic,Basic1,Grammar,b1gpal,b1gpalt005,are living|is living,comboBox
+Basic,Basic1,Grammar,b1gpal,b1gpalt006,are not drinking|'re drinking,comboBox
+Basic,Basic1,Grammar,b1gpal,b1gpalt007,are not dancing|am having,comboBox
+Basic,Basic1,Grammar,b1gpal,b1gpalt008,'m going|Are you taking|'re staying,comboBox
+Basic,Basic1,Grammar,b1gpal,b1gpalt009,Are you using this telephone|am waiting,comboBox
+Basic,Basic1,Grammar,b1gpal,b1gpalt010,Are you walking to work|ing,comboBox
+Basic,Basic1,Grammar,b1gpal,b1gpalt011,Are you eating your vegetables|am eating,comboBox
+Basic,Basic1,Grammar,b1gpal,b1gpalt012,stopping|are walking,comboBox
+Basic,Basic1,Grammar,b1gpal,b1gpalt013,is not studying|is studying,comboBox
+Basic,Basic1,Grammar,b1gpal,b1gpalt014,am not listening|am listening,comboBox
+Basic,Basic1,Grammar,b1gpal,b1gpalt015,is not smiling|is thinking,comboBox
+Basic,Basic2,Reading,b2rpcm,b2rpcmt001,FALSE,RadioSingle
+Basic,Basic2,Reading,b2rpcm,b2rpcmt002,Timmy doesn't like the food.,RadioSingle
+Basic,Basic2,Reading,b2rpcm,b2rpcmt003,the sports,RadioSingle
+Basic,Basic2,Reading,b2rpcm,b2rpcmt004,He hurt his foot,RadioSingle
+Basic,Basic2,Reading,b2rpcm,b2rpcmt005,when he played soccer,RadioSingle
+Basic,Basic2,Listening,b2lrad,b2lradt001,all kinds of homes,DragAndDropMultiple
+Basic,Basic2,Listening,b2lrad,b2lradt002,They have safe apartments on quiet streets.,RadioSingle
+Basic,Basic2,Listening,b2lrad,b2lradt003,D.C,RadioSingle
+Basic,Basic2,Listening,b2lrad,b2lradt004,Maggie Jim or Bob,RadioSingle
+Basic,Basic2,Listening,b2lrad,b2lradt005,a safe quiet place to live,DragAndDropMultiple
+Basic,Basic2,Grammar,b2gpal,b2gpalt001,didn't you|I did|changed|gave,DragAndDropMultiple
+Basic,Basic2,Grammar,b2gpal,b2gpalt002,bought|did he pay|have|charged,DragAndDropMultiple
+Basic,Basic2,Grammar,b2gpal,b2gpalt003,do|invited|serve|didn't serve|gave,comboBox
+Basic,Basic2,Grammar,b2gpal,b2gpalt004,did|bring|brought,DragAndDropMultiple
+Basic,Basic2,Grammar,b2gpal,b2gpalt005,buy|paid|did|he|get,DragAndDropMultiple
+Basic,Basic2,Grammar,b2gpal,b2gpalt006,Did you sell|sold|looked,comboBox
+Basic,Basic2,Grammar,b2gpal,b2gpalt007,Did you enjoy|didn't send,comboBox
+Basic,Basic2,Grammar,b2gpal,b2gpalt008,did|you|get|stood|came,DragAndDropMultiple
+Basic,Basic2,Grammar,b2gpal,b2gpalt009,went|ran|played,DragAndDropMultiple
+Basic,Basic2,Grammar,b2gpal,b2gpalt010,did|find out|didn't tell|told,DragAndDropMultiple
+Basic,Basic3,Reading,b3rdat,b3rdatt001,8:00,DragAndDropMultiple
+Basic,Basic3,Reading,b3rdat,b3rdatt002,There aren't any ushers.,RadioSingle
+Basic,Basic3,Reading,b3rdat,b3rdatt003,FALSE,RadioSingle
+Basic,Basic3,Reading,b3rdat,b3rdatt004,latest,DragAndDropMultiple
+Basic,Basic3,Reading,b3rdat,b3rdatt005,Everyone is tired of movies.,RadioSingle
+Basic,Basic3,Listening,b3lasa,b3lasat001,FALSE,RadioSingle
+Basic,Basic3,Listening,b3lasa,b3lasat002,five,DragAndDropMultiple
+Basic,Basic3,Listening,b3lasa,b3lasat003,a teenager,DragAndDropMultiple
+Basic,Basic3,Listening,b3lasa,b3lasat004,Employees get paid extra if they work overtime.,RadioSingle
+Basic,Basic3,Listening,b3lasa,b3lasat005,Yes,RadioSingle
+Basic,Basic3,Grammar,b3gpal,b3gpalt001,was changing|rang,comboBox
+Basic,Basic3,Grammar,b3gpal,b3gpalt002,arrived|was climbing,comboBox
+Basic,Basic3,Grammar,b3gpal,b3gpalt003,were you standing|was beginning,comboBox
+Basic,Basic3,Grammar,b3gpal,b3gpalt004,were working|was relaxing,comboBox
+Basic,Basic3,Grammar,b3gpal,b3gpalt005,didn't want to|was having|Was,comboBox
+Basic,Basic3,Grammar,b3gpal,b3gpalt006,spoke|was studying|called,comboBox
+Basic,Basic3,Grammar,b3gpal,b3gpalt007,coming|saw,DragAndDropMultiple
+Basic,Basic3,Grammar,b3gpal,b3gpalt008,met|was teaching|was going out,comboBox
+Basic,Basic3,Grammar,b3gpal,b3gpalt009,was dressing|was sitting,comboBox
+Basic,Basic3,Grammar,b3gpal,b3gpalt010,Were you having|weren't|were working,comboBox
+Intermediate,Intermediate1,Reading,i1raff,i1rafft001,glass,RadioSingle
+Intermediate,Intermediate1,Reading,i1raff,i1rafft002,He asks teenagers themselves.,RadioSingle
+Intermediate,Intermediate1,Reading,i1raff,i1rafft003,Fashion Fads',RadioSingle
+Intermediate,Intermediate1,Reading,i1raff,i1rafft004,teenagers,RadioSingle
+Intermediate,Intermediate1,Reading,i1raff,i1rafft005,exported,RadioSingle
+Intermediate,Intermediate1,Listening,i1lrad,i1lradt001,for a summer vacation,RadioSingle
+Intermediate,Intermediate1,Listening,i1lrad,i1lradt002,fifty dollars for each person,RadioSingle
+Intermediate,Intermediate1,Listening,i1lrad,i1lradt003,swimming sailing and waterskiing,RadioSingle
+Intermediate,Intermediate1,Listening,i1lrad,i1lradt004,because they can make crafts and play in the gardens,RadioSingle
+Intermediate,Intermediate1,Listening,i1lrad,i1lradt005,an exciting vacation,DragAndDropMultiple
+Intermediate,Intermediate1,Grammar,i1gval,i1gvalt001,was made by|it be washed|be dry-cleaned,comboBox
+Intermediate,Intermediate1,Grammar,i1gval,i1gvalt002,has been hired|are being put up,comboBox
+Intermediate,Intermediate1,Grammar,i1gval,i1gvalt003,is|being|be sent,DragAndDropMultiple
+Intermediate,Intermediate1,Grammar,i1gval,i1gvalt004,should be built|be fixed up|could be,comboBox
+Intermediate,Intermediate1,Grammar,i1gval,i1gvalt005,were made|were left,comboBox
+Intermediate,Intermediate1,Grammar,i1gval,i1gvalt006,been warned|been stolen,comboBox
+Intermediate,Intermediate1,Grammar,i1gval,i1gvalt007,be read|be answered,comboBox
+Intermediate,Intermediate1,Grammar,i1gval,i1gvalt008,hurt|were broken|was torn,DragAndDropMultiple
+Intermediate,Intermediate1,Grammar,i1gval,i1gvalt009,be fixed|being made,comboBox
+Intermediate,Intermediate1,Grammar,i1gval,i1gvalt010,'s imported|was made|'re sold,comboBox
+Intermediate,Intermediate2,Reading,i2rsav,i2rsavt001,board,RadioSingle
+Intermediate,Intermediate2,Reading,i2rsav,i2rsavt002,stay home,RadioSingle
+Intermediate,Intermediate2,Reading,i2rsav,i2rsavt003,TRUE,RadioSingle
+Intermediate,Intermediate2,Reading,i2rsav,i2rsavt004,decided,RadioSingle
+Intermediate,Intermediate2,Reading,i2rsav,i2rsavt005,taking a vacation,RadioSingle
+Intermediate,Intermediate2,Listening,i2labu,i2labut001,We don't know.,RadioSingle
+Intermediate,Intermediate2,Listening,i2labu,i2labut002,He is in charge of the guards on duty.,RadioSingle
+Intermediate,Intermediate2,Listening,i2labu,i2labut003,John is the best coordinator they have.,RadioSingle
+Intermediate,Intermediate2,Listening,i2labu,i2labut004,FALSE,RadioSingle
+Intermediate,Intermediate2,Listening,i2labu,i2labut005,He didn't know about them until now.,RadioSingle
+Intermediate,Intermediate2,Grammar,i2gcal,i2gcalt001,are looking|spoke|'d,comboBox
+Intermediate,Intermediate2,Grammar,i2gcal,i2gcalt002,would|Would|saw,DragAndDropMultiple
+Intermediate,Intermediate2,Grammar,i2gcal,i2gcalt003,will|can|won't|can be,DragAndDropMultiple
+Intermediate,Intermediate2,Grammar,i2gcal,i2gcalt004,were|'d|'ll,DragAndDropMultiple
+Intermediate,Intermediate2,Grammar,i2gcal,i2gcalt005,'re|didn't|'d,DragAndDropMultiple
+Intermediate,Intermediate2,Grammar,i2gcal,i2gcalt006,weren't|'re|'ll,DragAndDropMultiple
+Intermediate,Intermediate2,Grammar,i2gcal,i2gcalt007,is|wouldn't|weren't,DragAndDropMultiple
+Intermediate,Intermediate2,Grammar,i2gcal,i2gcalt008,'ll|finish,DragAndDropMultiple
+Intermediate,Intermediate2,Grammar,i2gcal,i2gcalt009,had|would,DragAndDropMultiple
+Intermediate,Intermediate2,Grammar,i2gcal,i2gcalt010,can't|wouldn't|had,DragAndDropMultiple
+Intermediate,Intermediate3,Reading,i3raab,i3raabt001,young people.,RadioSingle
+Intermediate,Intermediate3,Reading,i3raab,i3raabt002,convince,RadioSingle
+Intermediate,Intermediate3,Reading,i3raab,i3raabt003,buying a product will not really affect social success.,RadioSingle
+Intermediate,Intermediate3,Reading,i3raab,i3raabt004,not to be too influenced by commercials.,RadioSingle
+Intermediate,Intermediate3,Reading,i3raab,i3raabt005,TRUE,RadioSingle
+Intermediate,Intermediate3,Listening,i3lafr,i3lafrt001,Jen and Fran,RadioSingle
+Intermediate,Intermediate3,Listening,i3lafr,i3lafrt002,They decided to go at the last minute.,RadioSingle
+Intermediate,Intermediate3,Listening,i3lafr,i3lafrt003,far away from other places.,RadioSingle
+Intermediate,Intermediate3,Listening,i3lafr,i3lafrt004,FALSE,RadioSingle
+Intermediate,Intermediate3,Listening,i3lafr,i3lafrt005,We don't know,RadioSingle
+Intermediate,Intermediate3,Grammar,i3gral,i3gralt001,which|where,comboBox
+Intermediate,Intermediate3,Grammar,i3gral,i3gralt002,which I regret|whenever,comboBox
+Intermediate,Intermediate3,Grammar,i3gral,i3gralt003,which|wherever,DragAndDropMultiple
+Intermediate,Intermediate3,Grammar,i3gral,i3gralt004,where|wherever,DragAndDropMultiple
+Intermediate,Intermediate3,Grammar,i3gral,i3gralt005,where| which,DragAndDropMultiple
+Intermediate,Intermediate3,Grammar,i3gral,i3gralt006,who|whenever,DragAndDropMultiple
+Intermediate,Intermediate3,Grammar,i3gral,i3gralt007,where|Wherever,DragAndDropMultiple
+Intermediate,Intermediate3,Grammar,i3gral,i3gralt008,which|where,DragAndDropMultiple
+Intermediate,Intermediate3,Grammar,i3gral,i3gralt009,whose|wherever,DragAndDropMultiple
+Intermediate,Intermediate3,Grammar,i3gral,i3gralt010,where|whatever,DragAndDropMultiple
+Advanced,Advanced1,Reading,a1rltt,a1rlttt001,space travel,RadioSingle
+Advanced,Advanced1,Reading,a1rltt,a1rlttt002,drastic,RadioSingle
+Advanced,Advanced1,Reading,a1rltt,a1rlttt003,"Space Travel Is Worthwhile.""""",RadioSingle
+Advanced,Advanced1,Reading,a1rltt,a1rlttt004,TRUE,RadioSingle
+Advanced,Advanced1,Reading,a1rltt,a1rlttt005,TRUE,RadioSingle
+Advanced,Advanced1,Listening,a1lrwe,a1lrwet001,was not a lot of rain.,RadioSingle
+Advanced,Advanced1,Listening,a1lrwe,a1lrwet002,FALSE,RadioSingle
+Advanced,Advanced1,Listening,a1lrwe,a1lrwet003,thirty-five inches,RadioSingle
+Advanced,Advanced1,Listening,a1lrwe,a1lrwet004,to conserve water,RadioSingle
+Advanced,Advanced1,Listening,a1lrwe,a1lrwet005,The water crisis may soon be over.,RadioSingle
+Advanced,Advanced1,Grammar,a1gfal,a1gfalt001,will be moving|he'll have forgotten,comboBox
+Advanced,Advanced1,Grammar,a1gfal,a1gfalt002,'ll be getting|'ll have saved,DragAndDropMultiple
+Advanced,Advanced1,Grammar,a1gfal,a1gfalt003,will have|will be,DragAndDropMultiple
+Advanced,Advanced1,Grammar,a1gfal,a1gfalt004,will have been chosen|will be running,comboBox
+Advanced,Advanced1,Grammar,a1gfal,a1gfalt005,be performing|have heard of,DragAndDropMultiple
+Advanced,Advanced1,Grammar,a1gfal,a1gfalt006,won't be sleeping|'ll have been fired,DragAndDropMultiple
+Advanced,Advanced1,Grammar,a1gfal,a1gfalt007,will be lying|'ll have forgotten,DragAndDropMultiple
+Advanced,Advanced1,Grammar,a1gfal,a1gfalt008,won't have left|will be dating,DragAndDropMultiple
+Advanced,Advanced1,Grammar,a1gfal,a1gfalt009,'ll be feeling|'ll have been,DragAndDropMultiple
+Advanced,Advanced1,Grammar,a1gfal,a1gfalt010,'ll be watching|'ll have set,DragAndDropMultiple
+Advanced,Advanced2,Reading,a2rltt,a2rlttt001,reflects political reality.,RadioSingle
+Advanced,Advanced2,Reading,a2rltt,a2rlttt002,thinks corruption can't be justified.,RadioSingle
+Advanced,Advanced2,Reading,a2rltt,a2rlttt003,TRUE,RadioSingle
+Advanced,Advanced2,Reading,a2rltt,a2rlttt004,take into account,RadioSingle
+Advanced,Advanced2,Reading,a2rltt,a2rlttt005,"Don't Justify Morris's Crime!""""",RadioSingle
+Advanced,Advanced2,Listening,a2lafa,a2lafat001,she had the flu.,RadioSingle
+Advanced,Advanced2,Listening,a2lafa,a2lafat002,she had taken some aspirin.,RadioSingle
+Advanced,Advanced2,Listening,a2lafa,a2lafat003,cancel their date for the evening.,RadioSingle
+Advanced,Advanced2,Listening,a2lafa,a2lafat004,FALSE,RadioSingle
+Advanced,Advanced2,Listening,a2lafa,a2lafat005,she might catch the flu.,RadioSingle
+Advanced,Advanced2,Grammar,a2geal,a2gealt001,I'd rather|there isn't,comboBox
+Advanced,Advanced2,Grammar,a2geal,a2gealt002,It's|to do|She'd,comboBox
+Advanced,Advanced2,Grammar,a2geal,a2gealt003,they'd better|made,comboBox
+Advanced,Advanced2,Grammar,a2geal,a2gealt004,It looks|do,DragAndDropMultiple
+Advanced,Advanced2,Grammar,a2geal,a2gealt005,did|It was,DragAndDropMultiple
+Advanced,Advanced2,Grammar,a2geal,a2gealt006,do|Make,comboBox
+Advanced,Advanced2,Grammar,a2geal,a2gealt007,You'd better|It doesn't,comboBox
+Advanced,Advanced2,Grammar,a2geal,a2gealt008,She'd|It's,comboBox
+Advanced,Advanced2,Grammar,a2geal,a2gealt009,There are|do,comboBox
+Advanced,Advanced2,Grammar,a2geal,a2gealt010,made|there was,comboBox
+Advanced,Advanced2,Grammar,a2geal,a2gealt011,huge|round|black|metal|sculpture,DragAndDropMultiple
+Advanced,Advanced2,Grammar,a2geal,a2gealt012,done up|big|bright|orange,DragAndDropMultiple
+Advanced,Advanced2,Grammar,a2geal,a2gealt013,do|Hadn't we better,DragAndDropMultiple
+Advanced,Advanced2,Grammar,a2geal,a2gealt014,There's|It's,DragAndDropMultiple
+Advanced,Advanced2,Grammar,a2geal,a2gealt015,do|better,DragAndDropMultiple
+Advanced,Advanced3,Reading,a3raou,a3raout001,transforming an old neighborhood to make it more exclusive.,RadioSingle
+Advanced,Advanced3,Reading,a3raou,a3raout002,something they have a right to.,RadioSingle
+Advanced,Advanced3,Reading,a3raou,a3raout003,fundamental,RadioSingle
+Advanced,Advanced3,Reading,a3raou,a3raout004,that gentrification is a positive thing.,RadioSingle
+Advanced,Advanced3,Reading,a3raou,a3raout005,people moving from the suburbs to the city,RadioSingle
+Advanced,Advanced3,Listening,a3lrwe,a3lrwet001,a camping trip,RadioSingle
+Advanced,Advanced3,Listening,a3lrwe,a3lrwet002,FALSE,RadioSingle
+Advanced,Advanced3,Listening,a3lrwe,a3lrwet004,FALSE,RadioSingle
+Advanced,Advanced3,Listening,a3lrwe,a3lrwet003,he's afraid of getting lost.,RadioSingle
+Advanced,Advanced3,Listening,a3lrwe,a3lrwet005,hunt,RadioSingle
+Advanced,Advanced3,Grammar,a3geal,a3gealt001,so|for,DragAndDropMultiple
+Advanced,Advanced3,Grammar,a3geal,a3gealt002,such a|on,DragAndDropMultiple
+Advanced,Advanced3,Grammar,a3geal,a3gealt003,such|with,DragAndDropMultiple
+Advanced,Advanced3,Grammar,a3geal,a3gealt004,mind|so,DragAndDropMultiple
+Advanced,Advanced3,Grammar,a3geal,a3gealt005,with|Such,DragAndDropMultiple
+Advanced,Advanced3,Grammar,a3geal,a3gealt006,for|so sick that,DragAndDropMultiple
+Advanced,Advanced3,Grammar,a3geal,a3gealt007,on|so hard that,comboBox
+Advanced,Advanced3,Grammar,a3geal,a3gealt008,such|about,comboBox
+Advanced,Advanced3,Grammar,a3geal,a3gealt009,Would you like|so kind,comboBox
+Advanced,Advanced3,Grammar,a3geal,a3gealt010,Such|so|in,comboBox
+Advanced,Advanced3,Grammar,a3geal,a3gealt011,so silly that|about,comboBox
+Advanced,Advanced3,Grammar,a3geal,a3gealt012,such a beautiful|read,comboBox
+Advanced,Advanced3,Grammar,a3geal,a3gealt013,sang|ate|so excited,comboBox
+Advanced,Advanced3,Grammar,a3geal,a3gealt014,mind|from,DragAndDropMultiple
+Advanced,Advanced3,Grammar,a3geal,a3gealt015,such|so,DragAndDropMultiple

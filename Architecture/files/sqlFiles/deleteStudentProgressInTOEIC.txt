@@ -1,0 +1,54 @@
+  DECLARE @UserName as varchar(50),
+          @CourseId int
+         
+
+            
+ SET @UserName = '%userName%'
+ SET @CourseId = %courseId%
+
+
+
+ BEGIN TRAN
+
+		DELETE cp
+		FROM ComponentProgress as cp
+		inner join UnitComponents as uc on cp.ComponentId = uc.ComponentId
+		inner join units as u on u.unitid = uc.UnitId
+		inner join Course as c on c.CourseId = u.courseid
+		inner join UserProfile as up on up.UserId = cp.UserId
+		where c.CourseId = @CourseId and up.UserName = @UserName
+		
+   
+    IF @@ERROR > 0
+      BEGIN
+            ROLLBACK
+            SELECT 1 AS Error
+            RETURN
+      END
+   
+    	DELETE up FROM UnitProgress as up
+		inner join units as u on u.unitid = up.UnitId
+		inner join Course as c on c.CourseId = u.CourseId
+		inner join UserProfile as upro on upro.UserId = up.UserId
+		where c.CourseId = @CourseId and upro.UserName = @UserName
+     
+       IF @@ERROR > 0
+      BEGIN
+            ROLLBACK
+            SELECT 2 AS Error
+            RETURN
+      END
+     
+    	DELETE crp FROM CourseProgress as crp
+		inner join UserProfile as upro on upro.UserId = crp.UserId
+		where crp.CourseId = @CourseId and upro.UserName = @UserName
+     
+       IF @@ERROR > 0
+      BEGIN
+            ROLLBACK
+            SELECT 3 AS Error
+            RETURN
+    END
+
+ COMMIT
+ SELECT 0 AS Error

@@ -1,0 +1,52 @@
+Declare @ClassName as varchar(50),@InstitutionName as varchar(50)
+
+SET @ClassName = '%classPara%';
+SET @InstitutionName = '%institutionParam%';
+
+
+----- Get Teachers in class -------
+SELECT Users.FirstName, Users.LastName,Users.UserName,Users.[Password]
+   FROM TeacherClasses INNER JOIN
+               UserPermissions ON TeacherClasses.UserPermissionsId = UserPermissions.UserPermissionsId
+                INNER JOIN Users ON UserPermissions.UserId = Users.Userid
+                INNER JOIN Class on TeacherClasses.ClassId = Class.ClassId
+                INNER JOIN Institutions on Institutions.InstitutionId = Class.InstitutionId
+WHERE Class.Name = @ClassName and Institutions.Name = @InstitutionName
+      AND Users.Visible = 1
+ORDER BY UserName
+------------------------
+
+
+---- Get num of student in class---
+select Count(Classusers.userid) as Num_Of_USERS
+from classusers inner join class
+      on classusers.classid = class.classid
+      inner join Institutions on Institutions.InstitutionId = Class.InstitutionId
+where class.name = @ClassName and Institutions.Name = @InstitutionName
+--------------------------------------------
+Create Table #PltResult(
+      Id bigint,
+      userid bigint,
+      ClassName varchar (50),
+      InstName varchar (50)
+      )
+insert into #PltResult
+
+SELECT Max(PlacementTestGrades.PlacementTestGradesid)as Id,PlacementTestGrades.Userid
+,Class.Name as ClassName,Institutions.Name as InstName
+FROM PlacementTestGrades
+      inner join classusers on PlacementTestGrades.userid = classusers.userid
+      inner join class on classusers.classid = class.classid
+      inner join Institutions on Institutions.InstitutionId = Class.InstitutionId
+WHERE  class.name = @ClassName and Institutions.Name = @InstitutionName and (Final is not null) --and (Final = 'A3')
+GROUP BY PlacementTestGrades.Userid,Class.Name,Institutions.Name
+order by PlacementTestGrades.userid, id desc
+---------------------------
+
+-- Get the count and final result ---
+Select
+Count(PlacementTestGrades.UserId)as DidPLT,PlacementTestGrades.Final
+From #PltResult inner join PlacementTestGrades on #PltResult.Id = PlacementTestGrades.PlacementTestGradesId-- and PlacementTestGrades.UserId = #PltResult.userid
+Group by PlacementTestGrades.Final
+
+drop table #PltResult

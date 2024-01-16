@@ -1,0 +1,37 @@
+Create Table #TempUserClassProgress (
+      StuCount bigint,
+      InstName varchar(50),
+      ClassName varchar(50),
+   
+      Percentage varchar(10))
+      
+insert into #TempUserClassProgress
+
+
+SELECT  cu.UserId,
+            i.Name AS InstName, cl.Name AS ClassName,/*(SELECT Name from Course where Course.CourseId = ucp.CourseId)as CourseName,*/
+
+CASE 
+      WHEN ucp.PercentageDone BETWEEN 0 AND 20 THEN '0-20'
+      WHEN ucp.PercentageDone IS NULL THEN '0-20'
+    WHEN ucp.PercentageDone BETWEEN 21 AND 40 THEN '21-40'
+    WHEN ucp.PercentageDone BETWEEN 41 AND 60 THEN '41-60'
+      WHEN ucp.PercentageDone BETWEEN 61 AND 80 THEN '61-80'
+      WHEN ucp.PercentageDone BETWEEN 81 AND 100 THEN '81-100'
+END AS Percentage
+FROM         Class AS cl INNER JOIN
+                      ClassUsers AS cu ON cl.ClassId = cu.ClassId INNER JOIN
+                      Institutions AS i ON cl.InstitutionId = i.InstitutionId LEFT OUTER JOIN
+                      UserCourseProgress AS ucp ON cu.UserId = ucp.UserId AND ucp.CourseId = %courseId%
+
+WHERE     (i.Visible = 1) AND (i.Name = '%instNameParam%') AND (cl.Name = '%classParam%') 
+         
+ORDER BY InstName, ClassName
+
+
+Select Count(StuCount)as StuCount,InstName,ClassName,Percentage
+from #TempUserClassProgress
+group by InstName,ClassName,Percentage
+order by 2,3,4
+
+Drop table #TempUserClassProgress

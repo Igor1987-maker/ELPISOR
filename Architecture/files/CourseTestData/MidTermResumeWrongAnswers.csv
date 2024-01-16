@@ -1,0 +1,63 @@
+989013148,2,Samantha,Karen,RadioSingle,wrongAnswer
+989013148,2,Madrid,Turkey.,RadioSingle,wrongAnswer
+989013148,2,The hotel manager can't find Samantha's reservation,The Hotel is closed.,RadioSingle,wrongAnswer
+989013148,2,We don't know.,True,RadioSingle,wrongAnswer
+989013148,2,We don't know.,True,RadioSingle,wrongAnswer
+989013148,3,can't find his phone,,RadioSingle,DidNotAnswer
+989013148,3,TRUE,,RadioSingle,DidNotAnswer
+989013148,3,We don't know.,,RadioSingle,DidNotAnswer
+989013148,3,look the same,,RadioSingle,DidNotAnswer
+989013148,3,In the woman's bag,,RadioSingle,DidNotAnswer
+989013148,4,talking on the phone,,RadioSingle,DidNotAnswer
+989013148,4,She is listening to a podcast,,RadioSingle,DidNotAnswer
+989013148,4,It's raining,,RadioSingle,DidNotAnswer
+989013148,4,FALSE,,RadioSingle,DidNotAnswer
+989013148,4,TRUE,,RadioSingle,DidNotAnswer
+989013148,5,concert|music|a movie|theater|rock star,radio|music|a movie|theater|rock star,comboBox,wrongAnswer
+989013148,5,menu|delicious|an appetizer|side dish|drink,menu|dessert|an appetizer|side dish|drink,comboBox,wrongAnswer
+989013148,5,over|turning around|think|studying|meet,turning around|over|think|studying|meet,DragAndDropMultiple,swappedAnswers
+989013148,5,There is|Are|Is there|there are|Are there,There are|Are|Is there|there are|Are there,comboBox,wrongAnswer
+989013148,5,Are you feeling|I'm trying|He's working|Is anyone helping|I'm doing,You feels|I'm trying|He's working|Is anyone helping|I'm doing,comboBox,wrongAnswer
+989013148,5,is not starting|aren't meeting|are not having|aren't resting|aren't bringing,no start|aren't meeting|are not having|aren't resting|aren't bringing,comboBox,wrongAnswer
+989012509,2,Sleeping,Studying,RadioSingle,wrongAnswer
+989012509,2,Victor,Jon,RadioSingle,wrongAnswer
+989012509,2,The ocean,The news,RadioSingle,wrongAnswer
+989012509,2,FALSE,True,RadioSingle,wrongAnswer
+989012509,2,We don't know.,True,RadioSingle,wrongAnswer
+989012509,3,at The Mozart Theater,,RadioSingle,DidNotAnswer
+989012509,3,FALSE,,RadioSingle,DidNotAnswer
+989012509,3,a rock star,,RadioSingle,DidNotAnswer
+989012509,3,TRUE,,RadioSingle,DidNotAnswer
+989012509,3,FALSE,,RadioSingle,DidNotAnswer
+989012509,4,The man is on a business trip,,RadioSingle,DidNotAnswer
+989012509,4,FALSE,,RadioSingle,DidNotAnswer
+989012509,4,to the office,,RadioSingle,DidNotAnswer
+989012509,4,He is walking,,RadioSingle,DidNotAnswer
+989012509,4,TRUE,,,RadioSingle,DidNotAnswer
+989012509,5,restaurant|wallet|thief|looks|coffee,station|wallet|thief|looks|coffee,comboBox,wrongAnswer
+989012509,5,idea|restaurant|movie|Theater|walking,note|restaurant|movie|Theater|walking,comboBox,wrongAnswer
+989012509,5,trip|guest|pool|security guard|on business,guest|trip|pool|security guard|on business,DragAndDropMultiple,swappedAnswers
+989012509,5,a|are|are|is|is|at a|The,an|are|are|is|is|at a|The,comboBox,wrongAnswer
+989012509,5,is|Are|aren't|Is|isn't|are,am|Are|aren't|Is|isn't|are,comboBox,wrongAnswer
+989012509,5,aren't you here|I'm not coming|What is he saying|she's not|She's asking,you not here|I'm not coming|What is he saying|she's not|She's asking,comboBox,wrongAnswer
+989017755,2,Samantha,Karen,RadioSingle,wrongAnswer
+989017755,2,Madrid.,Turkey.,RadioSingle,wrongAnswer
+989017755,2,The hotel manager can't find Samantha's reservation.,The Hotel is closed.,RadioSingle,wrongAnswer
+989017755,2,We don't know.,True,RadioSingle,wrongAnswer
+989017755,2,We don't know.,True,RadioSingle,wrongAnswer
+989017755,3,can't find his phone,,RadioSingle,DidNotAnswer
+989017755,3,TRUE,,RadioSingle,DidNotAnswer
+989017755,3,We don't know.,,RadioSingle,DidNotAnswer
+989017755,3,look the same,,RadioSingle,DidNotAnswer
+989017755,3,In the woman's bag,,RadioSingle,DidNotAnswer
+989017755,4,talking on the phone,,RadioSingle,DidNotAnswer
+989017755,4,She is listening to a podcast,,RadioSingle,DidNotAnswer
+989017755,4,It's raining,,RadioSingle,DidNotAnswer
+989017755,4,FALSE,,RadioSingle,DidNotAnswer
+989017755,4,TRUE,,RadioSingle,DidNotAnswer
+989017755,5,concert|music|a movie|theater|rock star,radio|music|a movie|theater|rock star,comboBox,wrongAnswer
+989017755,6,menu|delicious|an appetizer|side dish|drink,menu|dessert|an appetizer|side dish|drink,comboBox,wrongAnswer
+989017755,7,over|turning around|think|studying|meet,turning around|over|think|studying|meet,DragAndDropMultiple,swappedAnswers
+989017755,8,There is|Are|Is there|there are|Are there,There are|Are|Is there|there are|Are there,comboBox,wrongAnswer
+989017755,9,Are you feeling|I'm trying|He's working|Is anyone helping|I'm doing,You feels|I'm trying|He's working|Is anyone helping|I'm doing,comboBox,wrongAnswer
+989017755,10,is not starting|aren't meeting|are not having|aren't resting|aren't bringing,no start|aren't meeting|are not having|aren't resting|aren't bringing,comboBox,wrongAnswer

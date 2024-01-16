@@ -1,0 +1,34 @@
+1,New Town has joined an ecology program.|in cities and towns throughout the U.S.|to encourage recycling,,,I2,RadioMultiple
+1,Citizens|garbage|paper|recycling|successful,,,I2,DragAndDropMultiple
+1,False,,,I2,RadioSingle
+1,because he thought that his neighbors were sleeping,,,I2,RadioSingle
+1,False,,,I2,RadioSingle
+1,to lend him a tool,,,I2,DragAndDropSingle
+1,because he isn't used to the time difference,,,I2,RadioSingle
+1,had|would,,,I2,DragAndDropMultiple
+1,went|wouldn't|don't,,,I2,comboBox
+1,were|'d|'ll,,,I2,DragAndDropMultiple
+1,don't|didn't|wouldn't,,,I2,comboBox
+1,his name was|he lived,,,I2,DragAndDropMultiple
+1,was leaving|that,,,I2,DragAndDropMultiple
+1,should|would,,,I2,DragAndDropMultiple
+1,said they weren't|that,,,I2,DragAndDropMultiple
+1,delivered|to wait,,,I2,DragAndDropMultiple
+1,to prepare|make,,,I2,DragAndDropMultiple
+2,Agriculture isn't producing food fast enough for the growing population.|so that humans will be able to live on Mars in the future,,,A1,RadioMultiple
+2,conditions|Medicine|an innovative,,,A1,comboBox
+2,a personal ad,,,A1,RadioSingle
+2,offensive,,,A1,RadioSingle
+2,send a letter and a picture.,,,A1,RadioSingle
+2,people who believe in organized religion,,,A1,RadioSingle
+2,Yes,,,A1,RadioSingle
+2,will he be staying|'ll have just come,,,A1,comboBox
+2,will be getting|will have known,,,A1,comboBox
+2,'ll be feeling|'ll have been,,,A1,DragAndDropMultiple
+2,to have become|to be turned up,,,A1,comboBox
+2,to have had|to be searched,,,A1,comboBox
+2,to have influenced|to be informed,,,A1,comboBox
+2,put|it|off,,,A1,DragAndDropMultiple
+2,talk|it|over,,,A1,DragAndDropMultiple
+2,now that,,,A1,DragAndDropMultiple
+2,such fun,,,A1,DragAndDropMultiple

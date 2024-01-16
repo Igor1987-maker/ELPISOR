@@ -1,0 +1,2972 @@
+	<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>AutomationInfra</groupId>
+	<artifactId>AutomationInfra</artifactId>
+	<version>0.0.1-SNAPSHOT</version>
+    
+	<build>
+		<sourceDirectory>src</sourceDirectory>
+		<plugins>
+
+			<plugin>
+				<artifactId>maven-compiler-plugin</artifactId>
+				<!-- <version>3.1</version> --> <!-- ORIG -->
+				<version>3.7.0</version>
+				<configuration>
+					<!-- 	<source>1.7</source>
+							<target>1.7</target>--> <!-- ORIG -->
+					<source>1.8</source>
+					<target>1.8</target>
+					 <encoding>UTF-8</encoding>
+					<fork>true</fork>
+					<archive>
+						<manifest>
+							<addClasspath>true</addClasspath>
+							<classpathPrefix>lib/</classpathPrefix>
+						</manifest>
+					</archive>
+				</configuration>
+			</plugin>
+			
+			<plugin>
+
+
+
+				<groupId>com.lazerycode.jmeter</groupId>
+				<artifactId>jmeter-maven-plugin</artifactId>
+				<version>1.10.0</version>
+				<executions>
+					<execution>
+						<id>jmeter-tests</id>
+						<phase>verify</phase>
+						<goals>
+							<goal>${project.basedir}\src\tests\Jmeter\TmsLoadTestROI.jmx</goal>
+						</goals>
+						<configuration>
+							<jmeterPlugins>
+								<plugin>
+									<groupId>kg.apc</groupId>
+									<artifactId>jmeter-plugins</artifactId>
+								</plugin>
+							</jmeterPlugins>
+						</configuration>
+					</execution>
+				</executions>
+				<dependencies>
+					<dependency>
+						<groupId>kg.apc</groupId>
+						<artifactId>jmeter-plugins</artifactId>
+						<version>1.1.4</version>
+					</dependency>
+				</dependencies>
+			</plugin>
+
+
+
+		</plugins>
+		<pluginManagement>
+			<plugins>
+				<!--This plugin's configuration is used to store Eclipse m2e settings 
+					only. It has no influence on the Maven build itself. -->
+				<plugin>
+					<groupId>org.eclipse.m2e</groupId>
+					<artifactId>lifecycle-mapping</artifactId>
+					<version>1.0.0</version>
+					<configuration>
+						<lifecycleMappingMetadata>
+							<pluginExecutions>
+								<pluginExecution>
+									<pluginExecutionFilter>
+										<groupId>
+											org.apache.maven.plugins
+										</groupId>
+										<artifactId>
+											maven-dependency-plugin
+										</artifactId>
+										<versionRange>
+											[2.1,)
+										</versionRange>
+										<goals>
+											<goal>
+												copy-dependencies
+											</goal>
+										</goals>
+									</pluginExecutionFilter>
+									<action>
+										<ignore></ignore>
+									</action>
+								</pluginExecution>
+								<pluginExecution>
+									<pluginExecutionFilter>
+										<groupId>
+											org.apache.maven.plugins
+										</groupId>
+										<artifactId>
+											maven-compiler-plugin
+										</artifactId>
+										<versionRange>
+											 [3.5.2,)
+										</versionRange>
+										<goals>
+											<goal>testCompile</goal>
+										</goals>
+									</pluginExecutionFilter>
+									<action>
+										<ignore></ignore>
+									</action>
+								</pluginExecution>
+								<pluginExecution>
+									<pluginExecutionFilter>
+										<groupId>
+											org.apache.maven.plugins
+										</groupId>
+										<artifactId>
+											maven-resources-plugin
+										</artifactId>
+										<versionRange>
+											[2.6,)
+										</versionRange>
+										<goals>
+											<goal>resources</goal>
+										</goals>
+									</pluginExecutionFilter>
+									<action>
+										<ignore></ignore>
+									</action>
+								</pluginExecution>
+							</pluginExecutions>
+						</lifecycleMappingMetadata>
+					</configuration>
+				</plugin>
+
+
+
+			</plugins>
+		</pluginManagement>
+	</build>
+	<dependencies>
+
+		<dependency>
+		    <groupId>io.rest-assured</groupId>
+		    <artifactId>rest-assured</artifactId>
+		    <version>4.3.2</version>
+		</dependency>
+	    
+		  <dependency>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
+            <version>1.18.20</version>
+            <type>jar</type>
+          </dependency>
+              
+         <dependency>
+            <groupId>com.fasterxml.jackson.core</groupId>
+            <artifactId>jackson-databind</artifactId>
+            <version>2.9.8</version>
+        </dependency>
+        
+       	<dependency>
+			<groupId>junit</groupId>
+			<artifactId>junit</artifactId>
+			<!--<version>4.12-beta-2</version>-->
+			<version>4.12</version>
+		</dependency>
+
+
+		<dependency>
+			<groupId>jcifs</groupId>
+			<artifactId>jcifs</artifactId>
+			<version>1.3.17</version>
+		</dependency>
+
+
+		<dependency>
+			<groupId>joda-time</groupId>
+			<artifactId>joda-time</artifactId>
+			<version>2.6</version>
+		</dependency>
+
+
+		<dependency>
+			<groupId>commons-discovery</groupId>
+			<artifactId>commons-discovery</artifactId>
+			<version>0.5</version>
+			<scope>test</scope>
+		</dependency>
+
+
+
+		<!-- https://mvnrepository.com/artifact/com.github.romankh3/image-comparison -->
+		<dependency>
+    		<groupId>com.github.romankh3</groupId>
+   			<artifactId>image-comparison</artifactId>
+  			<version>4.3.1</version>
+		</dependency>
+
+		<!-- https://mvnrepository.com/artifact/com.jayway.jsonpath/json-path -->
+		<dependency>
+		    <groupId>com.jayway.jsonpath</groupId>
+		    <artifactId>json-path</artifactId>
+		    <version>2.7.0</version>
+		</dependency>
+
+		<!-- Lib for smooth interaction with the CSV files -->
+		<dependency>
+		    <groupId>org.apache.commons</groupId>
+		    <artifactId>commons-csv</artifactId>
+		    <version>1.9.0</version>
+		</dependency>
+		
+		<dependency>
+			<groupId>org.springframework</groupId>
+			<artifactId>spring-core</artifactId>
+			<version>4.1.7.RELEASE</version>
+		</dependency>
+		<dependency>
+			<groupId>org.apache.commons</groupId>
+			<artifactId>commons-compress</artifactId>
+			<version>1.8</version>
+		</dependency>
+		<dependency>
+			<groupId>com.thoughtworks.qdox</groupId>
+			<artifactId>qdox</artifactId>
+			<version>1.12</version>
+		</dependency>
+		<dependency>
+			<groupId>javax.mail</groupId>
+			<artifactId>mail</artifactId>
+			<version>1.4</version>
+		</dependency>
+		<dependency>
+			<groupId>org.springframework</groupId>
+			<artifactId>spring-jdbc</artifactId>
+			<version>4.1.7.RELEASE</version>
+		</dependency>
+		<dependency>
+			<groupId>org.springframework</groupId>
+			<artifactId>spring-context</artifactId>
+			<version>4.1.7.RELEASE</version>
+		</dependency>
+		<dependency>
+			<groupId>org.springframework</groupId>
+			<artifactId>spring-context-support</artifactId>
+			<version>4.1.7.RELEASE</version>
+		</dependency>
+		<dependency>
+			<groupId>org.springframework</groupId>
+			<artifactId>spring-tx</artifactId>
+			<version>4.1.7.RELEASE</version>
+		</dependency>
+		<dependency>
+			<groupId>org.springframework</groupId>
+			<artifactId>spring-webmvc</artifactId>
+			<version>4.1.7.RELEASE</version>
+		</dependency>
+		<dependency>
+			<groupId>commons-dbcp</groupId>
+			<artifactId>commons-dbcp</artifactId>
+			<version>1.2.2</version>
+		</dependency>
+		<dependency>
+			<groupId>net.sourceforge.jtds</groupId>
+			<artifactId>jtds</artifactId>
+			<version>1.3.1</version>
+		</dependency>
+
+
+		<dependency>
+			<groupId>tfsSdk</groupId>
+			<artifactId>com.microsoft.tfs.sdk</artifactId>
+			<version>1.0</version>
+			<scope>system</scope>
+			<systemPath>${project.basedir}/lib/com.microsoft.tfs.sdk-11.0.0.jar</systemPath> 
+		</dependency>
+
+		<dependency>
+			<groupId>java2html</groupId>
+			<artifactId>java2html</artifactId>
+			<version>1.00</version>
+			<systemPath>${project.basedir}/lib/java2html.jar</systemPath>
+			<scope>system</scope>
+		</dependency>
+
+		<dependency>
+			<groupId>sqljdbc</groupId>
+			<artifactId>microsoft.sql</artifactId>
+			<version>1.0</version>
+			<systemPath>${project.basedir}/lib/sqljdbc4.jar</systemPath>
+			<scope>system</scope>
+		</dependency>
+		
+		<dependency>
+            <groupId>com.microsoft.sqlserver</groupId>
+            <artifactId>mssql-jdbc</artifactId>
+            <version>11.2.1.jre11</version>
+        </dependency>
+		
+		
+		<dependency>
+			<groupId>junit</groupId>
+			<artifactId>junit-dep</artifactId>
+			<version>4.9</version>
+		</dependency>
+		<dependency>
+			<groupId>org.springframework.security</groupId>
+			<artifactId>spring-security-config</artifactId>
+			<version>3.1.4.RELEASE</version>
+		</dependency>
+
+
+		<dependency>
+			<groupId>org.springframework</groupId>
+			<artifactId>spring-aop</artifactId>
+			<version>3.2.5.RELEASE</version>
+		</dependency>
+
+		<dependency>
+			<groupId>org.hamcrest</groupId>
+			<artifactId>hamcrest-core</artifactId>
+			<version>1.3</version>
+		</dependency>
+		<dependency>
+			<groupId>net.sourceforge.htmlcleaner</groupId>
+			<artifactId>htmlcleaner</artifactId>
+			<version>2.6.1</version>
+		</dependency>
+		<dependency>
+			<groupId>net.sf.opencsv</groupId>
+			<artifactId>opencsv</artifactId>
+			<version>2.3</version>
+		</dependency>
+		<dependency>
+			<groupId>org.springframework</groupId>
+			<artifactId>spring-test</artifactId>
+			<version>4.1.1.RELEASE</version>
+		</dependency>
+
+		<dependency>
+			<groupId>com.googlecode.fighting-layout-bugs</groupId>
+			<artifactId>fighting-layout-bugs</artifactId>
+			<version>0.6</version>
+		</dependency>
+		<dependency>
+			<groupId>org.json</groupId>
+			<artifactId>json</artifactId>
+			<version>20140107</version>
+		</dependency>
+
+
+
+		<dependency>
+			<groupId>avalon-logkit</groupId>
+			<artifactId>avalon-logkit</artifactId>
+			<version>2.1</version>
+			<exclusions>
+				<exclusion>
+					<groupId>org.slf4j</groupId>
+					<artifactId>slf4j-log4j12</artifactId>
+				</exclusion>
+				<exclusion>
+					<groupId>log4j</groupId>
+					<artifactId>log4j</artifactId>
+				</exclusion>
+			</exclusions>
+
+		</dependency>
+
+		<dependency>
+			<groupId>oro</groupId>
+			<artifactId>oro</artifactId>
+			<version>2.0.8</version>
+		</dependency>
+		<dependency>
+			<groupId>commons-io</groupId>
+			<artifactId>commons-io</artifactId>
+			<version>2.2</version>
+		</dependency>
+		<dependency>
+			<groupId>org.apache.commons</groupId>
+			<artifactId>commons-lang3</artifactId>
+			<version>3.4</version>
+		</dependency>
+
+
+		<dependency>
+			<groupId>com.thoughtworks.xstream</groupId>
+			<artifactId>xstream</artifactId>
+			<version>1.4.7</version>
+		</dependency>
+
+		<dependency>
+			<groupId>io.appium</groupId>
+			<artifactId>java-client</artifactId>
+			<version>2.1.0</version>
+		</dependency>
+
+
+
+  
+		<dependency>
+    		<groupId>net.lightbody.bmp</groupId>
+   			 <artifactId>browsermob-proxy</artifactId>
+   			 <version>2.0.0</version>
+		</dependency>
+
+		
+		
+
+
+		<dependency>
+			<groupId>pl.pragmatists</groupId>
+			<artifactId>JUnitParams</artifactId>
+			<version>1.0.4</version>
+			<exclusions>
+				<exclusion>  <!-- declare the exclusion here -->
+					<groupId>Junit</groupId>
+					<artifactId>Junit</artifactId>
+				</exclusion>
+			</exclusions>
+		</dependency>
+
+
+
+
+		<dependency>
+			<groupId>org.apache.httpcomponents</groupId>
+			<artifactId>httpcore</artifactId>
+			<version>4.4.5</version>
+		</dependency>
+		<dependency>
+			<groupId>org.apache.httpcomponents</groupId>
+			<artifactId>httpclient</artifactId>
+			<version>4.4</version>
+		</dependency>
+
+		<dependency>
+			<groupId>ru.yandex.qatools.ashot</groupId>
+			<artifactId>ashot</artifactId>
+			<version>1.4.12</version>
+
+		</dependency>
+		
+		<dependency>
+    		<groupId>com.google.code.gson</groupId>
+    		<artifactId>gson</artifactId>
+    		<version>2.7</version>
+		</dependency>
+
+
+		<dependency>
+    		<groupId>org.seleniumhq.selenium</groupId>
+    		<artifactId>selenium-java</artifactId>
+    		<!-- <version>2.53.1</version>-->
+    		<version>3.141.59</version>
+		</dependency>
+
+		<dependency>
+    		<groupId>org.seleniumhq.selenium</groupId>
+    		<artifactId>selenium-server</artifactId>
+    		<!-- <version>2.53.1</version>-->
+        	<version>3.141.59</version>
+		</dependency>
+		
+		<dependency>
+        	<groupId>org.seleniumhq.selenium</groupId>
+        	<artifactId>htmlunit-driver</artifactId>
+        	<version>2.23</version>
+   		</dependency>
+   		
+   		<dependency>
+    		<groupId>org.seleniumhq.selenium</groupId>
+    		<artifactId>selenium-api</artifactId>
+    		<!-- <version>2.53.1</version>-->
+        	<version>3.141.59</version>
+		</dependency>
+
+		<dependency>
+			<groupId>org.imsglobal</groupId>
+			<artifactId>basiclti-util</artifactId>
+			<version>1.1.2</version>
+		</dependency>
+		
+		<!-- <dependency>
+        	<groupId>org.seleniumhq.selenium</groupId>
+        	<artifactId>selenium-support</artifactId>
+        	<version>3.4.0</version>
+    	</dependency>-->
+
+
+		<!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-firefox-driver -->
+	
+
+		<dependency>
+     		<groupId>com.google.guava</groupId>
+      		<artifactId>guava</artifactId>
+      		<version>21.0</version>
+		</dependency>
+		<dependency>
+    <groupId>org.apache.maven</groupId>
+    <artifactId>maven-model</artifactId>
+    <version>3.0.2</version>
+</dependency>
+
+		</dependencies>
+
+	<profiles>
+		<profile>
+			<activation>
+
+			</activation>
+			<id>reg1</id>
+			<build>
+
+				<plugins>
+					<plugin>
+						<groupId>org.apache.maven.plugins</groupId>
+						<artifactId>maven-surefire-plugin</artifactId>
+						<version>2.17</version>
+						<dependencies>
+							<dependency>
+								<groupId>org.apache.maven.surefire</groupId>
+								<artifactId>surefire-junit47</artifactId>
+								<version>2.17</version>
+							</dependency>
+						</dependencies>
+						<configuration>
+							<properties>
+								<url>${URL}</url>
+								<browser>${browserCMD}</browser>
+								<student>${student}</student>
+								<teacher>${teacher}</teacher>
+								<machine>${machine}</machine>
+								<envFile>${envFileCMD}</envFile>
+								<desiredAutoStatus>Automated</desiredAutoStatus>
+							</properties>
+							<systemProperties>
+								<property>
+									<name>browser</name>
+									<value>chrome</value>
+								</property>
+								<property>
+									<name>remote.machine</name>
+									<value>http://10.1.0.66:5555</value>
+								</property>
+								<property>
+									<name>institutionId</name>
+									<value>1</value>
+
+								</property>
+								<property>
+									<name>envFile</name>
+									<value>newux.properties</value>
+								</property>
+							</systemProperties>
+							<testSourceDirectory>${project.basedir}/src/tests/</testSourceDirectory>
+							<testClassesDirectory>${project.basedir}/target/classes/</testClassesDirectory>
+							<includes>
+								<include>**/SpeechRecognitionTests.java</include>
+
+							</includes>
+						<!-- <groups>testCategories.reg1</groups> -->
+						</configuration>
+					</plugin>
+				</plugins>
+			</build>
+
+		</profile>
+		<profile>
+			<activation>
+
+			</activation>
+			<id>reg2</id>
+			<build>
+
+				<plugins>
+					<plugin>
+						<groupId>org.apache.maven.plugins</groupId>
+						<artifactId>maven-surefire-plugin</artifactId>
+						<version>2.17</version>
+						<dependencies>
+							<dependency>
+								<groupId>org.apache.maven.surefire</groupId>
+								<artifactId>surefire-junit47</artifactId>
+								<version>2.17</version>
+							</dependency>
+						</dependencies>
+						<configuration>
+							<systemProperties>
+								<property>
+									<name>browser</name>
+									<value>chrome</value>
+								</property>
+								<property>
+									<name>remote.machine</name>
+									<value>http://10.1.0.66:5555</value>
+								</property>
+
+							</systemProperties>
+							<testSourceDirectory>${project.basedir}/src/tests/</testSourceDirectory>
+							<testClassesDirectory>${project.basedir}/target/classes/</testClassesDirectory>
+							<includes>
+								<include>**/MavenTests.java</include>
+							</includes>
+						</configuration>
+					</plugin>
+				</plugins>
+			</build>
+
+		</profile>
+		<profile>
+			<activation>
+
+			</activation>
+			<id>eraterRegression</id>
+			<build>
+
+				<plugins>
+					<plugin>
+						<groupId>org.apache.maven.plugins</groupId>
+						<artifactId>maven-surefire-plugin</artifactId>
+						<version>2.17</version>
+						<dependencies>
+							<dependency>
+								<groupId>org.apache.maven.surefire</groupId>
+								<artifactId>surefire-junit47</artifactId>
+								<version>2.17</version>
+							</dependency>
+						</dependencies>
+						<configuration>
+							<properties>
+								<url>${URL}</url>
+								<browser>${browserCMD}</browser>
+								<student>${student}</student>
+								<teacher>${teacher}</teacher>
+								<machine>${machine}</machine>
+								<envFile>${envFileCMD}</envFile>
+							</properties>
+							<systemProperties>
+								<property>
+									<name>browser</name>
+									<value>chrome</value>
+								</property>
+								<property>
+									<name>remote.machine</name>
+									<value>http://10.1.0.66:5555</value>
+								</property>
+								<property>
+									<name>envFile</name>
+									<value>nov14.properties</value>
+								</property>
+
+							</systemProperties>
+							<testSourceDirectory>${project.basedir}/src/tests/</testSourceDirectory>
+							<testClassesDirectory>${project.basedir}/target/classes/</testClassesDirectory>
+							<includes>
+								--
+								<include>**/EraterRegressionTests.java</include>
+								<include>**/Erater/*.java</include>
+							</includes>
+						</configuration>
+					</plugin>
+				</plugins>
+			</build>
+
+		</profile>
+		<profile>
+			<activation>
+
+			</activation>
+			<id>peruSyncTestData</id>
+			<build>
+
+				<plugins>
+					<plugin>
+						<groupId>org.apache.maven.plugins</groupId>
+						<artifactId>maven-surefire-plugin</artifactId>
+						<version>2.17</version>
+						<dependencies>
+							<dependency>
+								<groupId>org.apache.maven.surefire</groupId>
+								<artifactId>surefire-junit47</artifactId>
+								<version>2.17</version>
+							</dependency>
+						</dependencies>
+						<configuration>
+							<properties>
+								<url>${URL}</url>
+								<browser>${browserCMD}</browser>
+								<student>${student}</student>
+								<teacher>${teacher}</teacher>
+								<machine>${machine}</machine>
+								<envFile>${envFileCMD}</envFile>
+							</properties>
+							<systemProperties>
+								<property>
+									<name>browser</name>
+									<value>chrome</value>
+								</property>
+								<property>
+									<name>remote.machine</name>
+									<value>http://10.1.0.66:5555</value>
+								</property>
+								<property>
+									<name>envFile</name>
+									<value>edoperu.properties</value>
+								</property>
+
+							</systemProperties>
+							<testSourceDirectory>${project.basedir}/src/tests/</testSourceDirectory>
+							<testClassesDirectory>${project.basedir}/target/classes/</testClassesDirectory>
+							<includes>
+								<include>**/CreateTestData.java</include>
+							</includes>
+						</configuration>
+					</plugin>
+				</plugins>
+			</build>
+
+		</profile>
+		<profile>
+			<activation>
+
+			</activation>
+			<id>edoRegression</id>
+
+			<build>
+
+				<plugins>
+					<plugin>
+						<groupId>org.apache.maven.plugins</groupId>
+						<artifactId>maven-surefire-plugin</artifactId>
+						<version>2.17</version>
+						<configuration>
+							<properties>
+								<url>${URL}</url>
+								<browser>${browserCMD}</browser>
+								<student>${student}</student>
+								<teacher>${teacher}</teacher>
+								<machine>${machine}</machine>
+								<envFile>${envFileCMD}</envFile>
+							</properties>
+
+							<systemProperties>
+								<property>
+									<name>browser</name>
+									<value>chrome</value>
+								</property>
+								<property>
+									<name>remote.machine</name>
+									<value>http://10.1.0.66:5555</value>
+								</property>
+								<property>
+									<name>institutionId</name>
+									<value>1</value>
+
+								</property>
+								<property>
+									<name>envFile</name>
+									<value>qa.properties</value>
+								</property>
+
+							</systemProperties>
+							<testSourceDirectory>${project.basedir}/src/tests/</testSourceDirectory>
+							<testClassesDirectory>${project.basedir}/target/classes/</testClassesDirectory>
+							<includes>
+								<include>**/TmsTests.java</include>
+								<include>**/GrammerTests.java</include>
+
+							</includes>
+
+						</configuration>
+
+						<dependencies>
+							<dependency>
+								<groupId>org.apache.maven.surefire</groupId>
+								<artifactId>surefire-junit47</artifactId>
+								<version>2.17</version>
+
+							</dependency>
+						</dependencies>
+
+					</plugin>
+				</plugins>
+			</build>
+
+		</profile>
+		<profile>
+			<activation>
+
+			</activation>
+			<id>SRTestsChrome</id>
+
+			<build>
+
+				<plugins>
+					<plugin>
+						<groupId>org.apache.maven.plugins</groupId>
+						<artifactId>maven-surefire-plugin</artifactId>
+						<version>2.17</version>
+						<configuration>
+							<properties>
+								<url>${URL}</url>
+								<browser>${browserCMD}</browser>
+								<student>${student}</student>
+								<teacher>${teacher}</teacher>
+								<machine>${machine}</machine>
+								<envFile>${envFileCMD}</envFile>
+							</properties>
+
+							<systemProperties>
+								<property>
+									<name>browser</name>
+									<value>chrome</value>
+								</property>
+								<property>
+									<name>remote.machine</name>
+									<value>http://10.1.0.66:5555</value>
+								</property>
+								<property>
+									<name>institutionId</name>
+									<value>1</value>
+
+								</property>
+								<property>
+									<name>envFile</name>
+									<value>sr.properties</value>
+								</property>
+
+							</systemProperties>
+							<testSourceDirectory>${project.basedir}/src/tests/</testSourceDirectory>
+							<testClassesDirectory>${project.basedir}/target/classes/</testClassesDirectory>
+							<includes>
+								<include>**/RecoredYourself.java</include>
+								<include>**/SpeechRecognitonInteract1.java</include>
+
+
+							</includes>
+
+						</configuration>
+
+						<dependencies>
+							<dependency>
+								<groupId>org.apache.maven.surefire</groupId>
+								<artifactId>surefire-junit47</artifactId>
+								<version>2.17</version>
+
+							</dependency>
+						</dependencies>
+
+					</plugin>
+				</plugins>
+			</build>
+
+		</profile>
+		<profile>
+			<activation>
+
+			</activation>
+			<id>SRTests</id>
+			<build>
+
+				<plugins>
+					<plugin>
+						<groupId>org.apache.maven.plugins</groupId>
+						<artifactId>maven-surefire-plugin</artifactId>
+						<version>2.17</version>
+						<configuration>
+							<properties>
+								<url>${URL}</url>
+								<browser>${browserCMD}</browser>
+								<student>${student}</student>
+								<teacher>${teacher}</teacher>
+								<machine>${machine}</machine>
+								<envFile>${envFileCMD}</envFile>
+							</properties>
+							<systemProperties>
+								<property>
+									<name>browser</name>
+									<value>firefox</value>
+								</property>
+								<property>
+									<name>remote.machine</name>
+									<value>http://10.1.0.66:5555</value>
+								</property>
+								<property>
+									<name>institutionId</name>
+									<value>1</value>
+								</property>
+								<property>
+									<name>envFile</name>
+									<value>nov14.properties</value>
+								</property>
+
+							</systemProperties>
+							<testSourceDirectory>${project.basedir}/src/tests/</testSourceDirectory>
+							<testClassesDirectory>${project.basedir}/target/classes/</testClassesDirectory>
+							<includes>
+								<include>**/RecoredYourself.java</include>
+								<include>**/SpeechRecognitonInteract1.java</include>
+								<include>**/SpeechRecognitonInteract2.java</include>
+
+
+							</includes>
+
+						</configuration>
+
+
+
+					</plugin>
+				</plugins>
+			</build>
+
+		</profile>
+		<profile>
+			<activation>
+
+			</activation>
+			<id>SRLoadTest</id>
+			<build>
+
+				<plugins>
+					<plugin>
+						<groupId>org.apache.maven.plugins</groupId>
+						<artifactId>maven-surefire-plugin</artifactId>
+						<version>2.17</version>
+						<configuration>
+							<properties>
+								<url>${URL}</url>
+								<browser>${browserCMD}</browser>
+								<student>${student}</student>
+								<teacher>${teacher}</teacher>
+								<machine>${machine}</machine>
+								<envFile>${envFileCMD}</envFile>
+								<slaveName>${slaveNameCMD}</slaveName>
+							</properties>
+							<systemProperties>
+
+								<property>
+									<name>browser</name>
+									<value>chrome</value>
+								</property>
+								<property>
+									<name>remote.machine</name>
+									<value>http://localhost:5555</value>
+								</property>
+								<property>
+									<name>institutionId</name>
+									<value>1</value>
+								</property>
+								<property>
+									<name>envFile</name>
+									<value>nov14.properties</value>
+								</property>
+
+							</systemProperties>
+							<testSourceDirectory>${project.basedir}/src/tests/</testSourceDirectory>
+							<testClassesDirectory>${project.basedir}/target/classes/</testClassesDirectory>
+							<includes>
+								<include>**/SRLoadTest.java</include>
+
+
+							</includes>
+
+						</configuration>
+
+
+
+					</plugin>
+				</plugins>
+			</build>
+
+		</profile>
+
+
+		<profile>
+			<activation>
+
+			</activation>
+			<id>EraterSampleAnswers</id>
+
+			<build>
+
+				<plugins>
+					<plugin>
+						<groupId>org.apache.maven.plugins</groupId>
+						<artifactId>maven-surefire-plugin</artifactId>
+						<version>2.17</version>
+						<configuration>
+							<properties>
+								<url>${URL}</url>
+								<browser>${browserCMD}</browser>
+								<student>${student}</student>
+								<teacher>${teacher}</teacher>
+								<machine>${machine}</machine>
+								<envFile>${envFileCMD}</envFile>
+							</properties>
+							<systemProperties>
+								<property>
+									<name>browser</name>
+									<value>firefox</value>
+								</property>
+								<property>
+									<name>remote.machine</name>
+									<value>http://10.1.0.38:5555</value>
+								</property>
+								<property>
+									<name>institutionId</name>
+									<value>1</value>
+								</property>
+								<property>
+									<name>envFile</name>
+									<value>erater.properties</value>
+								</property>
+
+							</systemProperties>
+							<testSourceDirectory>${project.basedir}/src/tests/</testSourceDirectory>
+							<testClassesDirectory>${project.basedir}/target/classes/</testClassesDirectory>
+							<includes>
+
+								<include>**/SendMultipleAssignments.java</include>
+
+							</includes>
+
+						</configuration>
+
+						<dependencies>
+							<dependency>
+								<groupId>org.apache.maven.surefire</groupId>
+								<artifactId>surefire-junit47</artifactId>
+								<version>2.17</version>
+
+							</dependency>
+						</dependencies>
+
+					</plugin>
+				</plugins>
+			</build>
+
+		</profile>
+
+		<profile>
+			<activation>
+
+			</activation>
+			<id>mavenTest</id>
+
+			<build>
+
+				<plugins>
+					<plugin>
+						<groupId>org.apache.maven.plugins</groupId>
+						<artifactId>maven-surefire-plugin</artifactId>
+						<version>2.17</version>
+						<configuration>
+							<properties>
+								<url>${URL}</url>
+								<browser>${browserCMD}</browser>
+								<student>${student}</student>
+								<teacher>${teacher}</teacher>
+								<machine>${machine}</machine>
+								<envFile>${envFileCMD}</envFile>
+
+							</properties>
+							<systemProperties>
+								<property>
+									<name>browser</name>
+									<value>firefox</value>
+								</property>
+								<property>
+									<name>remote.machine</name>
+									<value>http://10.1.0.56:5555</value>
+								</property>
+								<property>
+									<name>institutionId</name>
+									<value>1</value>
+								</property>
+								<property>
+									<name>envFile</name>
+									<value>sr.properties</value>
+								</property>
+								<property>
+									<name>desiredAutoStatus</name>
+									<value>Planned</value>
+								</property>
+
+							</systemProperties>
+							<testSourceDirectory>${project.basedir}/src/tests/</testSourceDirectory>
+							<testClassesDirectory>${project.basedir}/target/classes/</testClassesDirectory>
+							<includes>
+
+								<include>**/*.java</include>
+
+							</includes>
+
+							<groups>${category}</groups>
+
+						</configuration>
+
+
+
+					</plugin>
+				</plugins>
+			</build>
+
+		</profile>
+
+		<profile>
+			<activation>
+
+			</activation>
+			<id>grammarsTests</id>
+
+			<build>
+
+				<plugins>
+					<plugin>
+						<groupId>org.apache.maven.plugins</groupId>
+						<artifactId>maven-surefire-plugin</artifactId>
+						<version>2.17</version>
+						<configuration>
+							<properties>
+								<url>${URL}</url>
+								<browser>${browserCMD}</browser>
+								<student>${student}</student>
+								<teacher>${teacher}</teacher>
+								<machine>${machine}</machine>
+								<envFile>${envFileCMD}</envFile>
+							</properties>
+							<systemProperties>
+								<property>
+									<name>browser</name>
+									<value>firefox</value>
+								</property>
+								<property>
+									<name>remote.machine</name>
+									<value>http://10.1.0.66:5555</value>
+								</property>
+								<property>
+									<name>institutionId</name>
+									<value>1</value>
+								</property>
+								<property>
+									<name>envFile</name>
+									<value>sr.properties</value>
+								</property>
+
+							</systemProperties>
+							<testSourceDirectory>${project.basedir}/src/tests/</testSourceDirectory>
+							<testClassesDirectory>${project.basedir}/target/classes/</testClassesDirectory>
+							<includes>
+
+								<include>**/GrammersTests.java</include>
+
+							</includes>
+
+						</configuration>
+
+
+
+					</plugin>
+				</plugins>
+			</build>
+
+		</profile>
+
+		<profile>
+			<activation>
+
+			</activation>
+			<id>newUX</id>
+			<build>
+
+				<plugins>
+					<plugin>
+						<groupId>org.apache.maven.plugins</groupId>
+						<artifactId>maven-surefire-plugin</artifactId>
+						<version>2.17</version>
+						<configuration>
+							<properties>
+								<url>${URL}</url>
+								<browser>${browserCMD}</browser>
+								<student>${student}</student>
+								<teacher>${teacher}</teacher>
+								<machine>${machine}</machine>
+								<envFile>${envFileCMD}</envFile>
+								<desiredAutoStatus>Automated</desiredAutoStatus>
+
+							</properties>
+							<systemProperties>
+								<property>
+									<name>browser</name>
+									<value>firefox</value>
+								</property>
+								<property>
+									<name>remote.machine</name>
+									<value>http://10.1.0.66:5555</value>
+								</property>
+								<property>
+									<name>institutionId</name>
+									<value>1</value>
+								</property>
+								<property>
+									<name>envFile</name>
+									<value>newux.properties</value>
+								</property>
+
+							</systemProperties>
+							<testSourceDirectory>${project.basedir}/src/tests/</testSourceDirectory>
+							<testClassesDirectory>${project.basedir}/target/classes/</testClassesDirectory>
+							<includes>
+								<include>**/newux/*.java</include>
+							</includes>
+							<excludes>
+								<exclude>**/LearnningAreaContainerTests.java</exclude>
+								<exclude>**/Demo.java</exclude>
+								<exclude>**/PerformanceTests.java</exclude>
+								<exclude>**/checkCoursedContentTests.java</exclude>
+								<exclude>**/RecoredYourselfNewUX.java</exclude>
+								<exclude>**/RecoredYourselfNewUX2.java</exclude>
+								<exclude>**/BackendPracticesTestsByTypes.java</exclude>
+								<exclude>**/SpeechRecognitionTests.java</exclude>
+								
+
+
+							</excludes>
+
+							<excludedGroups>testCategories.unstableTests,testCategories.inProgressTests,testCategories.fullProgressInClient,testCategories.AngularLearningArea</excludedGroups>
+
+
+						</configuration>
+
+
+
+					</plugin>
+				</plugins>
+			</build>
+
+		</profile>
+
+<profile>
+			<activation>
+
+			</activation>
+			<id>newUxAngLAProd</id>
+			<build>
+			
+				<plugins>
+					<plugin>
+						<groupId>org.apache.maven.plugins</groupId>
+						<artifactId>maven-surefire-plugin</artifactId>
+						<version>2.17</version>
+						<configuration>
+							<properties>
+								<url>${URL}</url>
+								<browser>${browserCMD}</browser>
+								<student>${student}</student>
+								<teacher>${teacher}</teacher>
+								<machine>${machine}</machine>
+								<envFile>${envFileCMD}</envFile>
+								<desiredAutoStatus>Automated</desiredAutoStatus>
+
+							</properties>
+							
+							<systemProperties>
+								<property>
+									<name>browser</name>
+									<value>firefox</value>
+								</property>
+								<property>
+									<name>remote.machine</name>
+									<value>http://10.1.0.66:5555</value>
+								</property>
+								<property>
+									<name>institutionId</name>
+									<value>1</value>
+								</property>
+								<property>
+									<name>envFile</name>
+									<value>newux.properties</value>
+								</property>
+
+							</systemProperties>
+							<testSourceDirectory>${project.basedir}/src/tests/</testSourceDirectory>
+							<testClassesDirectory>${project.basedir}/target/classes/</testClassesDirectory>
+							<includes>
+								 <include>**/newux/*.java</include> 
+								<!-- <include>**/MagazinesTests.java</include> --> 
+							</includes>
+					
+							<excludes>
+								<exclude>**/LearnningAreaContainerTests.java</exclude>
+								<exclude>**/Demo.java</exclude>
+								<exclude>**/PerformanceTests.java</exclude>
+								<exclude>**/checkCoursedContentTests.java</exclude>
+								<exclude>**/RecoredYourselfNewUX.java</exclude>
+								<exclude>**/RecoredYourselfNewUX2.java</exclude>
+								<exclude>**/SpeechRecognitionTests.java</exclude>
+								<exclude>**/BackendPracticesTestsByTypes.java</exclude>
+								<exclude>**/WebApi.java</exclude>
+								
+								<exclude>**/ArgentinaAdaptiveLearning.java</exclude> 
+								<exclude>**/AssessmentsTests.java</exclude>
+								<exclude>**/TestEnvironmentTests.java</exclude>
+								<exclude>**/ExternalLoginAndIntegration.java</exclude>
+								
+								<exclude>**/PracticesTestsByTypes2.java</exclude>
+								<exclude>**/ResourseToolsTests2.java</exclude>
+								<exclude>**/setProgressTests2.java</exclude>
+								<exclude>**/CheckProgressTests2.java</exclude>
+								
+								
+							</excludes>
+
+							<excludedGroups>testCategories.unstableTests,testCategories.inProgressTests,testCategories.fullProgressInClient,testCategories.NonAngularLearningArea,testCategories.notInUse</excludedGroups>
+							<!-- <groups>testCategories.AngularLearningArea</groups>-->
+
+						</configuration>
+
+
+
+					</plugin>
+				</plugins>
+			</build>
+
+		</profile>
+	
+		<profile>
+			<activation>
+
+			</activation>
+			<id>newUxAngLA</id>
+			<build>
+
+				<plugins>
+					<plugin>
+						<groupId>org.apache.maven.plugins</groupId>
+						<artifactId>maven-surefire-plugin</artifactId>
+						<version>2.17</version>
+						<configuration>
+							<properties>
+								<url>${URL}</url>
+								<browser>${browserCMD}</browser>
+								<student>${student}</student>
+								<teacher>${teacher}</teacher>
+								<machine>${machine}</machine>
+								<envFile>${envFileCMD}</envFile>
+								<desiredAutoStatus>Automated</desiredAutoStatus>
+
+							</properties>
+							<systemProperties>
+								<property>
+									<name>browser</name>
+									<value>firefox</value>
+								</property>
+								<property>
+									<name>remote.machine</name>
+									<value>http://10.1.0.66:5555</value>
+								</property>
+								<property>
+									<name>institutionId</name>
+									<value>1</value>
+								</property>
+								<property>
+									<name>envFile</name>
+									<value>newux.properties</value>
+								</property>
+
+							</systemProperties>
+							<testSourceDirectory>${project.basedir}/src/tests/</testSourceDirectory>
+							<testClassesDirectory>${project.basedir}/target/classes/</testClassesDirectory>
+						<!--	
+							<goals>
+   								 <goal>edProduction</goal>
+   							</goals>
+  						 --> 
+							<includes>
+								 <include>**/newux/*.java</include> 
+							<!-- <include>**/MagazinesTests.java</include> -->
+							<!-- <include>**/PracticesTestsByTypes2.java</include> -->
+							<!--<include>**/AERaterMyWritingsTests2.java</include> -->
+			
+							</includes>
+						<!--	<groups>testCategories.edProduction</groups> -->
+							
+							<excludes>
+								<exclude>**/LearnningAreaContainerTests.java</exclude>
+								<exclude>**/Demo.java</exclude>
+								<exclude>**/PerformanceTests.java</exclude>
+								<exclude>**/checkCoursedContentTests.java</exclude>
+								<exclude>**/RecoredYourselfNewUX.java</exclude>
+								<exclude>**/RecoredYourselfNewUX2.java</exclude>
+								<exclude>**/SpeechRecognitionTests.java</exclude>
+								<exclude>**/BackendPracticesTestsByTypes.java</exclude>
+								
+								<exclude>**/ArgentinaAdaptiveLearning.java</exclude>
+								<exclude>**/AssessmentsTests.java</exclude>
+								<exclude>**/TestEnvironmentTests.java</exclude>
+								<exclude>**/ExternalLoginAndIntegration.java</exclude>
+								
+								<exclude>**/PracticesTestsByTypes2.java</exclude>
+								<exclude>**/ResourseToolsTests2.java</exclude>
+								<exclude>**/setProgressTests2.java</exclude> 
+								<exclude>**/CheckProgressTests2.java</exclude>
+								<exclude>**/EDExcellenceTests.java</exclude>
+							</excludes>
+
+							<excludedGroups>testCategories.unstableTests,testCategories.inProgressTests,testCategories.fullProgressInClient,testCategories.NonAngularLearningArea,testCategories.notInUse</excludedGroups>
+							<!-- <groups>testCategories.AngularLearningArea</groups>-->
+				 			
+						</configuration>
+
+
+
+					</plugin>
+				</plugins>
+			</build>
+
+		</profile>
+
+
+		<profile>
+			<activation>
+
+			</activation>
+			<id>newUxTms</id>
+			<build>
+
+				<plugins>
+					<plugin>
+						<groupId>org.apache.maven.plugins</groupId>
+						<artifactId>maven-surefire-plugin</artifactId>
+						<version>2.17</version>
+						<configuration>
+							<properties>
+								<url>${URL}</url>
+								<browser>${browserCMD}</browser>
+								<student>${student}</student>
+								<teacher>${teacher}</teacher>
+								<machine>${machine}</machine>
+								<envFile>${envFileCMD}</envFile>
+								<desiredAutoStatus>Automated</desiredAutoStatus>
+
+							</properties>
+							<systemProperties>
+								<property>
+									<name>browser</name>
+									<value>firefox</value>
+								</property>
+								<property>
+									<name>remote.machine</name>
+									<value>http://10.1.0.102:5555</value>
+								</property>
+								<property>
+									<name>institutionId</name>
+									<value>1</value>
+								</property>
+								<property>
+									<name>envFile</name>
+									<value>newux.properties</value>
+								</property>
+
+							</systemProperties>
+							<testSourceDirectory>${project.basedir}/src/tests/tms</testSourceDirectory>
+							<testClassesDirectory>${project.basedir}/target/classes/</testClassesDirectory>
+							<includes>
+								<include>**/tms/*.java</include>
+							</includes>
+							<excludes>
+								<exclude>**/pageObjects/tms/*.java</exclude>
+								<exclude>**/AccessLicenseTests.java</exclude>
+																								
+							</excludes>
+
+							<excludedGroups>testCategories.unstableTests,testCategories.inProgressTests,testCategories.AngularLearningArea</excludedGroups>
+
+
+						</configuration>
+
+
+
+					</plugin>
+				</plugins>
+			</build>
+
+		</profile>
+
+		<profile>
+			<activation>
+
+			</activation>
+			<id>newUxTmsAngLA</id>
+			<build>
+
+				<plugins>
+					<plugin>
+						<groupId>org.apache.maven.plugins</groupId>
+						<artifactId>maven-surefire-plugin</artifactId>
+						<version>2.17</version>
+						<configuration>
+							<properties>
+								<url>${URL}</url>
+								<browser>${browserCMD}</browser>
+								<student>${student}</student>
+								<teacher>${teacher}</teacher>
+								<machine>${machine}</machine>
+								<envFile>${envFileCMD}</envFile>
+								<desiredAutoStatus>Automated</desiredAutoStatus>
+
+							</properties>
+							<systemProperties>
+								<property>
+									<name>browser</name>
+									<value>firefox</value>
+								</property>
+								<property>
+									<name>remote.machine</name>
+									<value>http://10.1.0.102:5555</value>
+								</property>
+								<property>
+									<name>institutionId</name>
+									<value>1</value>
+								</property>
+								<property>
+									<name>envFile</name>
+									<value>newux.properties</value>
+								</property>
+
+							</systemProperties>
+							<testSourceDirectory>${project.basedir}/src/tests/tms</testSourceDirectory>
+							<testClassesDirectory>${project.basedir}/target/classes/</testClassesDirectory>
+							<includes>
+								<include>**/tms/*.java</include>  
+							<!-- <include>**/NewUxCourseReports.java</include> -->
+							</includes>
+							<excludes>
+								<exclude>**/pageObjects/tms/*.java</exclude>
+								<exclude>**/AccessLicenseTests.java</exclude>
+																								
+							</excludes>
+
+							<excludedGroups>testCategories.unstableTests,testCategories.inProgressTests,testCategories.NonAngularLearningArea,testCategories.notInUse</excludedGroups>
+
+
+						</configuration>
+
+
+
+					</plugin>
+				</plugins>
+			</build>
+
+		</profile>
+
+
+		
+		<profile>
+			<activation>
+
+			</activation>
+			<id>newUXCategorized</id>
+			<build>
+
+				<plugins>
+					<plugin>
+						<groupId>org.apache.maven.plugins</groupId>
+						<artifactId>maven-surefire-plugin</artifactId>
+						<version>2.17</version>
+						<configuration>
+							<properties>
+								<url>${URL}</url>
+								<browser>${browserCMD}</browser>
+								<student>${student}</student>
+								<teacher>${teacher}</teacher>
+								<machine>${machine}</machine>
+								<envFile>${envFileCMD}</envFile>
+								<desiredAutoStatus>Automated</desiredAutoStatus>
+
+							</properties>
+							<systemProperties>
+								<property>
+									<name>browser</name>
+									<value>firefox</value>
+								</property>
+								<property>
+									<name>remote.machine</name>
+									<value>http://10.1.0.66:5555</value>
+								</property>
+								<property>
+									<name>institutionId</name>
+									<value>1</value>
+								</property>
+								<property>
+									<name>envFile</name>
+									<value>newux.properties</value>
+								</property>
+
+							</systemProperties>
+							<testSourceDirectory>${project.basedir}/src/tests/</testSourceDirectory>
+							<testClassesDirectory>${project.basedir}/target/classes/</testClassesDirectory>
+							<includes>
+								<include>**/newux/*.java</include>
+							</includes>
+							<excludes>
+								<exclude>**/LearnningAreaContainerTests.java</exclude>
+								<exclude>**/Demo.java</exclude>
+
+							</excludes>
+
+							<excludedGroups>testCategories.unstableTests,testCategories.inProgressTests</excludedGroups>
+							<groups>${category}</groups>
+
+						</configuration>
+
+
+
+					</plugin>
+				</plugins>
+			</build>
+
+		</profile>
+
+		<profile>
+			<activation>
+
+			</activation>
+			<id>newUXUnstable</id>
+			<build>
+
+				<plugins>
+					<plugin>
+						<groupId>org.apache.maven.plugins</groupId>
+						<artifactId>maven-surefire-plugin</artifactId>
+						<version>2.17</version>
+						<configuration>
+							<properties>
+								<url>${URL}</url>
+								<browser>${browserCMD}</browser>
+								<student>${student}</student>
+								<teacher>${teacher}</teacher>
+								<machine>${machine}</machine>
+								<envFile>${envFileCMD}</envFile>
+								<runIgnored>true</runIgnored>
+								<desiredAutoStatus>NotStable</desiredAutoStatus>
+							</properties>
+							<systemProperties>
+								<property>
+									<name>browser</name>
+									<value>firefox</value>
+								</property>
+								<property>
+									<name>remote.machine</name>
+									<value>http://10.1.0.66:5555</value>
+								</property>
+								<property>
+									<name>institutionId</name>
+									<value>1</value>
+								</property>
+								<property>
+									<name>envFile</name>
+									<value>newux.properties</value>
+								</property>
+
+							</systemProperties>
+							<testSourceDirectory>${project.basedir}/src/tests/</testSourceDirectory>
+							<testClassesDirectory>${project.basedir}/target/classes/</testClassesDirectory>
+							<includes>
+
+
+								<include>**/newux/*.java</include>
+
+
+							</includes>
+							<excludes>
+								<exclude>**/Demo.java</exclude>
+							</excludes>
+
+
+
+							<groups>testCategories.unstableTests</groups>
+
+
+
+						</configuration>
+
+
+
+					</plugin>
+				</plugins>
+			</build>
+
+		</profile>
+
+		<profile>
+			<activation>
+
+			</activation>
+			<id>newUXUPerformance</id>
+			<build>
+
+				<plugins>
+					<plugin>
+						<groupId>org.apache.maven.plugins</groupId>
+						<artifactId>maven-surefire-plugin</artifactId>
+						<version>2.17</version>
+						<configuration>
+							<properties>
+								<url>${URL}</url>
+								<browser>${browserCMD}</browser>
+								<student>${student}</student>
+								<teacher>${teacher}</teacher>
+								<machine>${machine}</machine>
+								<envFile>${envFileCMD}</envFile>
+								<runIgnored>true</runIgnored>
+								<desiredAutoStatus>NotStable</desiredAutoStatus>
+							</properties>
+							<systemProperties>
+								<property>
+									<name>browser</name>
+									<value>firefox</value>
+								</property>
+								<property>
+									<name>remote.machine</name>
+									<value>http://10.1.0.66:5555</value>
+								</property>
+								<property>
+									<name>institutionId</name>
+									<value>1</value>
+								</property>
+								<property>
+									<name>envFile</name>
+									<value>newux.properties</value>
+								</property>
+
+							</systemProperties>
+							<testSourceDirectory>${project.basedir}/src/tests/</testSourceDirectory>
+							<testClassesDirectory>${project.basedir}/target/classes/</testClassesDirectory>
+							<includes>
+
+
+								<include>**/newux/*.java</include>
+
+
+							</includes>
+							<excludes>
+								<exclude>**/Demo.java</exclude>
+							</excludes>
+
+
+
+							<groups>testCategories.performanceTestsUX</groups>
+
+
+
+						</configuration>
+
+
+
+					</plugin>
+				</plugins>
+			</build>
+
+		</profile>
+
+		<profile>
+			<activation>
+
+			</activation>
+			<id>newUXUnstableTesting</id>
+			<build>
+
+				<plugins>
+					<plugin>
+						<groupId>org.apache.maven.plugins</groupId>
+						<artifactId>maven-surefire-plugin</artifactId>
+						<version>2.17</version>
+						<configuration>
+							<properties>
+								<url>${URL}</url>
+								<browser>${browserCMD}</browser>
+								<student>${student}</student>
+								<teacher>${teacher}</teacher>
+								<machine>${machine}</machine>
+								<envFile>${envFileCMD}</envFile>
+								<runIgnored>true</runIgnored>
+
+							</properties>
+							<systemProperties>
+								<property>desiredAutoStatus</property>
+								<value>NotStable</value>
+								<property>
+									<name>browser</name>
+									<value>firefox</value>
+								</property>
+								<property>
+									<name>remote.machine</name>
+									<value>http://10.1.0.66:5555</value>
+								</property>
+								<property>
+									<name>institutionId</name>
+									<value>1</value>
+								</property>
+								<property>
+									<name>envFile</name>
+									<value>newux.properties</value>
+								</property>
+
+							</systemProperties>
+							<testSourceDirectory>${project.basedir}/src/tests/</testSourceDirectory>
+							<testClassesDirectory>${project.basedir}/target/classes/</testClassesDirectory>
+							<includes>
+
+
+								<include>**/newux/*.java</include>
+
+
+							</includes>
+
+
+
+
+							<groups>testCategories.testCategory</groups>
+
+
+
+						</configuration>
+
+
+
+					</plugin>
+				</plugins>
+			</build>
+
+		</profile>
+
+		<profile>
+			<activation>
+
+			</activation>
+			<id>newUXUInProgress</id>
+			<build>
+
+				<plugins>
+					<plugin>
+						<groupId>org.apache.maven.plugins</groupId>
+						<artifactId>maven-surefire-plugin</artifactId>
+						<version>2.17</version>
+						<configuration>
+							<properties>
+								<url>${URL}</url>
+								<browser>${browserCMD}</browser>
+								<student>${student}</student>
+								<teacher>${teacher}</teacher>
+								<machine>${machine}</machine>
+								<envFile>${envFileCMD}</envFile>
+								<runIgnored>true</runIgnored>
+								<desiredAutoStatus>In Progress</desiredAutoStatus>
+							</properties>
+							<systemProperties>
+								<property>
+									<name>browser</name>
+									<value>firefox</value>
+								</property>
+								<property>
+									<name>remote.machine</name>
+									<value>http://10.1.0.66:5555</value>
+								</property>
+								<property>
+									<name>institutionId</name>
+									<value>1</value>
+								</property>
+								<property>
+									<name>envFile</name>
+									<value>newux.properties</value>
+								</property>
+
+							</systemProperties>
+							<testSourceDirectory>${project.basedir}/src/tests/</testSourceDirectory>
+							<testClassesDirectory>${project.basedir}/target/classes/</testClassesDirectory>
+							<includes>
+
+
+								<include>**/newux/*.java</include>
+
+
+							</includes>
+							<excludes>
+								<exclude>**/Demo.java</exclude>
+							</excludes>
+
+
+
+							<groups>testCategories.inProgressTests</groups>
+
+
+
+						</configuration>
+
+
+
+					</plugin>
+				</plugins>
+			</build>
+
+		</profile>
+
+
+
+		<profile>
+			<activation>
+
+			</activation>
+			<id>newUXAllCourses</id>
+			<build>
+
+				<plugins>
+					<plugin>
+						<groupId>org.apache.maven.plugins</groupId>
+						<artifactId>maven-surefire-plugin</artifactId>
+						<version>2.17</version>
+						<configuration>
+							<properties>
+								<url>${URL}</url>
+								<browser>${browserCMD}</browser>
+								<student>${student}</student>
+								<teacher>${teacher}</teacher>
+								<machine>${machine}</machine>
+								<envFile>${envFileCMD}</envFile>
+							</properties>
+							<systemProperties>
+								<property>
+									<name>browser</name>
+									<value>firefox</value>
+								</property>
+								<property>
+									<name>remote.machine</name>
+									<value>http://10.1.0.66:5555</value>
+								</property>
+								<property>
+									<name>institutionId</name>
+									<value>1</value>
+								</property>
+								<property>
+									<name>envFile</name>
+									<value>newux.properties</value>
+								</property>
+
+							</systemProperties>
+							<testSourceDirectory>${project.basedir}/src/tests/</testSourceDirectory>
+							<testClassesDirectory>${project.basedir}/target/classes/</testClassesDirectory>
+							<includes>
+								<include>**/GoOverAllCourseTasks.java</include>
+
+
+
+							</includes>
+
+						</configuration>
+
+
+
+					</plugin>
+				</plugins>
+			</build>
+
+		</profile>
+
+
+		<profile>
+			<activation>
+
+			</activation>
+			<id>unitTests</id>
+			<build>
+
+				<plugins>
+					<plugin>
+						<groupId>org.apache.maven.plugins</groupId>
+						<artifactId>maven-surefire-plugin</artifactId>
+						<version>2.17</version>
+						<configuration>
+							<properties>
+								<url>${URL}</url>
+								<browser>${browserCMD}</browser>
+								<student>${student}</student>
+								<teacher>${teacher}</teacher>
+								<machine>${machine}</machine>
+								<envFile>${envFileCMD}</envFile>
+							</properties>
+							<systemProperties>
+								<property>
+									<name>browser</name>
+									<value>firefox</value>
+								</property>
+								<property>
+									<name>remote.machine</name>
+									<value>http://10.1.0.66:5555</value>
+								</property>
+								<property>
+									<name>institutionId</name>
+									<value>1</value>
+								</property>
+								<property>
+									<name>envFile</name>
+									<value>newux.properties</value>
+								</property>
+
+							</systemProperties>
+							<testSourceDirectory>${project.basedir}/src/tests/</testSourceDirectory>
+							<testClassesDirectory>${project.basedir}/target/classes/</testClassesDirectory>
+							<includes>
+								<include>**/DBUnitTests.java</include>
+								<include>**/WebDriverUnitTests.java</include>
+
+
+
+
+							</includes>
+
+						</configuration>
+
+
+
+					</plugin>
+				</plugins>
+			</build>
+
+		</profile>
+
+		<profile>
+			<activation>
+
+			</activation>
+			<id>DataNReports</id>
+			<build>
+
+				<plugins>
+					<plugin>
+						<groupId>org.apache.maven.plugins</groupId>
+						<artifactId>maven-surefire-plugin</artifactId>
+						<version>2.17</version>
+						<configuration>
+							<properties>
+								<url>${URL}</url>
+								<browser>${browserCMD}</browser>
+								<student>${student}</student>
+								<teacher>${teacher}</teacher>
+								<machine>${machine}</machine>
+								<envFile>${envFileCMD}</envFile>
+							</properties>
+							<systemProperties>
+								<property>
+									<name>browser</name>
+									<value>firefox</value>
+								</property>
+								<property>
+									<name>remote.machine</name>
+									<value>http://10.1.0.66:5555</value>
+								</property>
+								<property>
+									<name>institutionId</name>
+									<value>1</value>
+								</property>
+								<property>
+									<name>envFile</name>
+									<value>nov14.properties</value>
+								</property>
+
+							</systemProperties>
+							<testSourceDirectory>${project.basedir}/src/tests/</testSourceDirectory>
+							<testClassesDirectory>${project.basedir}/target/classes/</testClassesDirectory>
+							<includes>
+								<include>**/LicenseUsageReportTests.java</include>
+								<include>**/DashboardHeaderTests.java</include>
+								<include>**/DashboardWidgetTests.java</include>
+								<include>**/DashboardPerformanceTest.java</include>
+
+
+							</includes>
+							<excludedGroups>testCategories.unstableTests,testCategories.inProgressTests</excludedGroups>
+						</configuration>
+
+
+
+					</plugin>
+				</plugins>
+			</build>
+
+		</profile>
+
+
+		<profile>
+			<activation>
+
+			</activation>
+			<id>Tablet</id>
+			<build>
+
+				<plugins>
+					<plugin>
+						<groupId>org.apache.maven.plugins</groupId>
+						<artifactId>maven-surefire-plugin</artifactId>
+						<version>2.17</version>
+						<configuration>
+							<properties>
+								<url>${URL}</url>
+								<browser>${browserCMD}</browser>
+								<student>${student}</student>
+								<teacher>${teacher}</teacher>
+								<machine>${machine}</machine>
+								<envFile>${envFileCMD}</envFile>
+							</properties>
+							<systemProperties>
+								<property>
+									<name>browser</name>
+									<value>firefox</value>
+								</property>
+								<property>
+									<name>remote.machine</name>
+									<value>http://10.1.0.66:5555</value>
+								</property>
+								<property>
+									<name>institutionId</name>
+									<value>1</value>
+								</property>
+								<property>
+									<name>envFile</name>
+									<value>nov14.properties</value>
+								</property>
+
+							</systemProperties>
+							<testSourceDirectory>${project.basedir}/src/tests/</testSourceDirectory>
+							<testClassesDirectory>${project.basedir}/target/classes/</testClassesDirectory>
+							<includes>
+								<include>**/DragAndDropTests.java</include>
+
+
+							</includes>
+
+						</configuration>
+
+
+
+					</plugin>
+				</plugins>
+			</build>
+
+		</profile>
+
+		<profile>
+			<activation>
+
+			</activation>
+			<id>regression</id>
+			<build>
+
+				<plugins>
+					<plugin>
+						<groupId>org.apache.maven.plugins</groupId>
+						<artifactId>maven-surefire-plugin</artifactId>
+						<version>2.17</version>
+						<configuration>
+							<properties>
+								<url>${URL}</url>
+								<browser>${browserCMD}</browser>
+								<student>${student}</student>
+								<teacher>${teacher}</teacher>
+								<machine>${machine}</machine>
+								<envFile>${envFileCMD}</envFile>
+							</properties>
+							<systemProperties>
+								<property>
+									<name>browser</name>
+									<value>firefox</value>
+								</property>
+								<property>
+									<name>remote.machine</name>
+									<value>http://10.1.0.66:5555</value>
+								</property>
+								<property>
+									<name>institutionId</name>
+									<value>1</value>
+								</property>
+								<property>
+									<name>envFile</name>
+									<value>nov14.properties</value>
+								</property>
+
+							</systemProperties>
+							<testSourceDirectory>${project.basedir}/src/tests/</testSourceDirectory>
+							<testClassesDirectory>${project.basedir}/target/classes/</testClassesDirectory>
+							<includes>
+								<include>**/*</include>
+
+
+							</includes>
+
+						</configuration>
+
+
+
+					</plugin>
+				</plugins>
+			</build>
+
+		</profile>
+
+		<profile>
+
+			<id>Jmeter</id>
+			<build>
+				<plugins>
+					<plugin>
+
+						<groupId>com.lazerycode.jmeter</groupId>
+						<artifactId>jmeter-maven-plugin</artifactId>
+						<version>1.10.0</version>
+						<executions>
+							<execution>
+								<id>jmeter-tests</id>
+								<phase>verify</phase>
+								<goals>
+									<goal>${project.basedir}\src\tests\Jmeter\</goal>
+								</goals>
+							</execution>
+						</executions>
+					</plugin>
+
+				</plugins>
+
+			</build>
+		</profile>
+
+		<profile>
+			<activation>
+
+			</activation>
+			<id>mainTenenceTests</id>
+			<build>
+
+				<plugins>
+					<plugin>
+						<groupId>org.apache.maven.plugins</groupId>
+						<artifactId>maven-surefire-plugin</artifactId>
+						<version>2.17</version>
+						<configuration>
+							<properties>
+								<url>${URL}</url>
+								<browser>${browserCMD}</browser>
+								<student>${student}</student>
+								<teacher>${teacher}</teacher>
+								<machine>${machine}</machine>
+								<envFile>${envFileCMD}</envFile>
+								<desiredAutoStatus>Automated</desiredAutoStatus>
+
+							</properties>
+							<systemProperties>
+								<property>
+									<name>browser</name>
+									<value>firefox</value>
+								</property>
+								<property>
+									<name>remote.machine</name>
+									<value>http://10.1.0.66:5555</value>
+								</property>
+								<property>
+									<name>institutionId</name>
+									<value>1</value>
+								</property>
+								<property>
+									<name>envFile</name>
+									<value>newux.properties</value>
+								</property>
+
+							</systemProperties>
+							<testSourceDirectory>${project.basedir}/src/tests/</testSourceDirectory>
+							<testClassesDirectory>${project.basedir}/target/classes/</testClassesDirectory>
+
+							<includes>
+
+
+								<include>**/misc/*.java</include>
+
+
+							</includes>
+
+							<groups>testCategories.Maintenence</groups>
+
+
+						</configuration>
+
+
+
+					</plugin>
+				</plugins>
+			</build>
+
+		</profile>
+
+		
+		<profile>
+			<activation>
+
+			</activation>
+			<id>igorsTrainTestsCatIgorS</id>
+			<build>
+
+				<plugins>
+					<plugin>
+						<groupId>org.apache.maven.plugins</groupId>
+						<artifactId>maven-surefire-plugin</artifactId>
+						<version>2.17</version>
+						<configuration>
+							<properties>
+								<url>${URL}</url>
+								<browser>${browserCMD}</browser>
+								<student>${student}</student>
+								<teacher>${teacher}</teacher>
+								<machine>${machine}</machine>
+								<envFile>${envFileCMD}</envFile>
+							</properties>
+							<systemProperties>
+								<property>
+									<name>browser</name>
+									<value>firefox</value>
+								</property>
+								<property>
+									<name>remote.machine</name>
+									<value>http://10.1.0.66:5555</value>
+								</property>
+								<property>
+									<name>institutionId</name>
+									<value>1</value>
+								</property>
+								<property>
+									<name>envFile</name>
+									<value>newux.properties</value>
+								</property>
+
+							</systemProperties>
+							<testSourceDirectory>${project.basedir}/src/tests/</testSourceDirectory>
+							<testClassesDirectory>${project.basedir}/target/classes/</testClassesDirectory>
+							<includes>
+								<include>**/IgorsTests.java</include>
+							</includes>
+
+							<groups>testCategories.categoryIgorS</groups>
+
+						</configuration>
+
+
+
+					</plugin>
+				</plugins>
+			</build>
+
+		</profile>
+
+		<profile>
+			<activation>
+			</activation>
+			<id>SpeechRecognition</id>
+			<build>
+
+				<plugins>
+					<plugin>
+						<groupId>org.apache.maven.plugins</groupId>
+						<artifactId>maven-surefire-plugin</artifactId>
+						<version>2.17</version>
+						<configuration>
+							<properties>
+								<url>${URL}</url>
+								<browser>${browserCMD}</browser>
+								<student>${student}</student>
+								<teacher>${teacher}</teacher>
+								<machine>${machine}</machine>
+								<envFile>${envFileCMD}</envFile>
+								<desiredAutoStatus>Automated</desiredAutoStatus>
+							</properties>
+							<systemProperties>
+								<property>
+									<name>browser</name>
+									<value>firefox</value>
+								</property>
+								<property>
+									<name>remote.machine</name>
+									<value>http://10.1.0.66:5555</value>
+								</property>
+								<property>
+									<name>institutionId</name>
+									<value>1</value>
+								</property>
+								<property>
+									<name>envFile</name>
+									<value>newux.properties</value>
+								</property>
+							</systemProperties>
+							<testSourceDirectory>${project.basedir}/src/tests/</testSourceDirectory>
+							<testClassesDirectory>${project.basedir}/target/classes/</testClassesDirectory>
+							<includes>
+								<include>**/newux/RecoredYourselfNewUX.java</include>
+								
+							</includes>
+							<excludes>
+							</excludes>
+							<excludedGroups>testCategories.unstableTests,testCategories.inProgressTests</excludedGroups>
+							<!-- <groups>testCategories.reg2</groups> -->
+						</configuration>
+					</plugin>
+				</plugins>
+			</build>
+		</profile>
+		
+		<profile>
+			<activation>
+			</activation>
+			<id>SpeechRecognitionAngLA</id>
+			<build>
+
+				<plugins>
+					<plugin>
+						<groupId>org.apache.maven.plugins</groupId>
+						<artifactId>maven-surefire-plugin</artifactId>
+						<version>2.17</version>
+						<configuration>
+							<properties>
+								<url>${URL}</url>
+								<browser>${browserCMD}</browser>
+								<student>${student}</student>
+								<teacher>${teacher}</teacher>
+								<machine>${machine}</machine>
+								<envFile>${envFileCMD}</envFile>
+								<desiredAutoStatus>Automated</desiredAutoStatus>
+							</properties>
+							<systemProperties>
+								<property>
+									<name>browser</name>
+									<value>firefox</value>
+								</property>
+								<property>
+									<name>remote.machine</name>
+									<value>http://10.1.0.66:5555</value>
+								</property>
+								<property>
+									<name>institutionId</name>
+									<value>1</value>
+								</property>
+								<property>
+									<name>envFile</name>
+									<value>newux.properties</value>
+								</property>
+							</systemProperties>
+							<testSourceDirectory>${project.basedir}/src/tests/</testSourceDirectory>
+							<testClassesDirectory>${project.basedir}/target/classes/</testClassesDirectory>
+							<includes>
+								<include>**/newux/RecoredYourselfNewUX2.java</include>
+								
+							</includes>
+							<excludes>
+							</excludes>
+							<excludedGroups>testCategories.unstableTests,testCategories.inProgressTests</excludedGroups>
+							<!-- <groups>testCategories.reg2</groups> -->
+						</configuration>
+					</plugin>
+				</plugins>
+			</build>
+		</profile>
+		
+		
+
+		<profile>
+			<activation>
+
+			</activation>
+			<id>newUXScope</id>
+			<build>
+
+				<plugins>
+					<plugin>
+						<groupId>org.apache.maven.plugins</groupId>
+						<artifactId>maven-surefire-plugin</artifactId>
+						<version>2.17</version>
+						<configuration>
+							<properties>
+								<url>${URL}</url>
+								<browser>${browserCMD}</browser>
+								<student>${student}</student>
+								<teacher>${teacher}</teacher>
+								<machine>${machine}</machine>
+								<envFile>${envFileCMD}</envFile>
+								<desiredAutoStatus>Automated</desiredAutoStatus>
+
+							</properties>
+							<systemProperties>
+								<property>
+									<name>browser</name>
+									<value>firefox</value>
+								</property>
+								<property>
+									<name>remote.machine</name>
+									<value>http://10.1.0.66:5555</value>
+								</property>
+								<property>
+									<name>institutionId</name>
+									<value>1</value>
+								</property>
+								<property>
+									<name>envFile</name>
+									<value>newux.properties</value>
+								</property>
+
+							</systemProperties>
+							<testSourceDirectory>${project.basedir}/src/tests/</testSourceDirectory>
+							<testClassesDirectory>${project.basedir}/target/classes/</testClassesDirectory>
+							<includes>
+								<include>**/GoOverCourseGetErrorsNew.java</include>
+							</includes>
+							<excludes>
+								
+							</excludes>
+
+							<excludedGroups>testCategories.inProgressTests</excludedGroups>
+
+
+						</configuration>
+
+
+
+					</plugin>
+				</plugins>
+			</build>
+
+		</profile>
+
+		<profile>
+			<activation>
+
+			</activation>
+			<id>fullProgress</id>
+			<build>
+
+				<plugins>
+					<plugin>
+						<groupId>org.apache.maven.plugins</groupId>
+						<artifactId>maven-surefire-plugin</artifactId>
+						<version>2.17</version>
+						<configuration>
+							<properties>
+								<url>${URL}</url>
+								<browser>${browserCMD}</browser>
+								<student>${student}</student>
+								<teacher>${teacher}</teacher>
+								<machine>${machine}</machine>
+								<envFile>${envFileCMD}</envFile>
+								<desiredAutoStatus>Automated</desiredAutoStatus>
+
+							</properties>
+							<systemProperties>
+								<property>
+									<name>browser</name>
+									<value>firefox</value>
+								</property>
+								<property>
+									<name>remote.machine</name>
+									<value>http://10.1.0.31:5555</value>
+								</property>
+								<property>
+									<name>institutionId</name>
+									<value>1</value>
+								</property>
+								<property>
+									<name>envFile</name>
+									<value>newux.properties</value>
+								</property>
+
+							</systemProperties>
+							<testSourceDirectory>${project.basedir}/src/tests/</testSourceDirectory>
+							<testClassesDirectory>${project.basedir}/target/classes/</testClassesDirectory>
+							<includes>
+								<include>**/newux/CheckProgressTests.java</include>
+							</includes>
+							<excludes>
+								
+							</excludes>
+
+							<excludedGroups>testCategories.unstableTests,testCategories.inProgressTests</excludedGroups>
+							<groups>testCategories.fullProgressInClient</groups>
+
+						</configuration>
+
+
+
+					</plugin>
+				</plugins>
+			</build>
+
+		</profile>
+		
+		<profile>
+			<activation>
+
+			</activation>
+			<id>fullProgressAngLA</id>
+			<build>
+
+				<plugins>
+					<plugin>
+						<groupId>org.apache.maven.plugins</groupId>
+						<artifactId>maven-surefire-plugin</artifactId>
+						<version>2.17</version>
+						<configuration>
+							<properties>
+								<url>${URL}</url>
+								<browser>${browserCMD}</browser>
+								<student>${student}</student>
+								<teacher>${teacher}</teacher>
+								<machine>${machine}</machine>
+								<envFile>${envFileCMD}</envFile>
+								<desiredAutoStatus>Automated</desiredAutoStatus>
+
+							</properties>
+							<systemProperties>
+								<property>
+									<name>browser</name>
+									<value>firefox</value>
+								</property>
+								<property>
+									<name>remote.machine</name>
+									<value>http://10.1.0.31:5555</value>
+								</property>
+								<property>
+									<name>institutionId</name>
+									<value>1</value>
+								</property>
+								<property>
+									<name>envFile</name>
+									<value>newux.properties</value>
+								</property>
+
+							</systemProperties>
+							<testSourceDirectory>${project.basedir}/src/tests/</testSourceDirectory>
+							<testClassesDirectory>${project.basedir}/target/classes/</testClassesDirectory>
+							<includes>
+								<include>**/newux/CheckProgressTests2.java</include>
+							</includes>
+							<excludes>
+								
+							</excludes>
+
+							<excludedGroups>testCategories.unstableTests,testCategories.inProgressTests</excludedGroups>
+							<groups>testCategories.fullProgressInClient</groups>
+
+						</configuration>
+
+
+
+					</plugin>
+				</plugins>
+			</build>
+
+		</profile>
+
+		<profile>
+					<activation>
+		
+					</activation>
+					<id>prepEnvED</id>
+					<build>
+		
+						<plugins>
+							<plugin>
+								<groupId>org.apache.maven.plugins</groupId>
+								<artifactId>maven-surefire-plugin</artifactId>
+								<version>2.17</version>
+								<configuration>
+									<properties>
+										<url>${URL}</url>
+										<browser>${browserCMD}</browser>
+										<student>${student}</student>
+										<teacher>${teacher}</teacher>
+										<machine>${machine}</machine>
+										<envFile>${envFileCMD}</envFile>
+										<desiredAutoStatus>Automated</desiredAutoStatus>
+		
+									</properties>
+									<systemProperties>
+										<property>
+											<name>browser</name>
+											<value>firefox</value>
+										</property>
+										<property>
+											<name>remote.machine</name>
+											<value>http://10.1.0.66:5555</value>
+										</property>
+										<property>
+											<name>institutionId</name>
+											<value>1</value>
+										</property>
+										<property>
+											<name>envFile</name>
+											<value>newux.properties</value>
+										</property>
+		
+									</systemProperties>
+									<testSourceDirectory>${project.basedir}/src/tests/</testSourceDirectory>
+									<testClassesDirectory>${project.basedir}/target/classes/</testClassesDirectory>
+		
+									<includes>
+		
+		
+										<include>**/misc/ConfigEnvED.java</include>
+		
+		
+									</includes>
+				
+		
+								</configuration>
+		
+		
+		
+							</plugin>
+						</plugins>
+					</build>
+		
+				</profile>
+	<profile>
+			<activation>
+
+			</activation>
+			<id>ED_TestEnv</id>
+			<build>
+			
+				<plugins>
+					<plugin>
+						<groupId>org.apache.maven.plugins</groupId>
+						<artifactId>maven-surefire-plugin</artifactId>
+						<version>2.17</version>
+						<configuration>
+							<properties>
+								<url>${URL}</url>
+								<browser>${browserCMD}</browser>
+								<student>${student}</student>
+								<teacher>${teacher}</teacher>
+								<machine>${machine}</machine>
+								<envFile>${envFileCMD}</envFile>
+								<desiredAutoStatus>Automated</desiredAutoStatus>
+
+							</properties>
+							
+							<systemProperties>
+								<property>
+									<name>browser</name>
+									<value>firefox</value>
+								</property>
+								<property>
+									<name>remote.machine</name>
+									<value>http://10.1.0.66:5555</value>
+								</property>
+								<property>
+									<name>institutionId</name>
+									<value>1</value>
+								</property>
+								<property>
+									<name>envFile</name>
+									<value>newux.properties</value>
+								</property>
+
+							</systemProperties>
+							<testSourceDirectory>${project.basedir}/src/tests/</testSourceDirectory>
+							<testClassesDirectory>${project.basedir}/target/classes/</testClassesDirectory>
+							<includes>
+							
+								<!--<include>**/newux/*.java</include> -->
+
+									<include>**/ArgentinaAdaptiveLearning.java</include>
+                                    <include>**/AssessmentsTests.java</include>
+                                    <include>**/TestEnvironmentTests.java</include>
+                                    <include>**/ExternalLoginAndIntegration.java</include>
+                                    <include>**/EDExcellenceTests.java</include>-->
+                                    <!--<include>**/NewUxAssessmentsTests.java.testAssignMidtermTestAndVerifyOn_ED_newTE.test</include>-->
+
+                                <!--<include>**/testsInLearningAreaTests2.java</include>-->
+								 
+							</includes>
+				<!--	<includegroups>testCategories.EDExcellenceArea</includegroups> -->
+					<!--
+							<excludes>
+								<exclude>**/LearnningAreaContainerTests.java</exclude>
+								<exclude>**/Demo.java</exclude>
+								<exclude>**/PerformanceTests.java</exclude>
+								<exclude>**/checkCoursedContentTests.java</exclude>
+								<exclude>**/RecoredYourselfNewUX.java</exclude>
+								<exclude>**/RecoredYourselfNewUX2.java</exclude>
+								<exclude>**/SpeechRecognitionTests.java</exclude>
+								<exclude>**/BackendPracticesTestsByTypes.java</exclude>
+								<exclude>**/WebApi.java</exclude>
+							</excludes>
+					-->
+							<excludedGroups>testCategories.unstableTests,testCategories.inProgressTests,testCategories.fullProgressInClient,testCategories.NonAngularLearningArea,testCategories.notInUse</excludedGroups>
+							<!-- <groups>testCategories.AngularLearningArea</groups>-->
+
+						</configuration>
+
+
+
+					</plugin>
+				</plugins>
+			</build>
+
+		</profile>
+
+
+		<profile>
+			<activation>
+
+			</activation>
+			<id>practiceAndProgress</id>
+			<build>
+
+				<plugins>
+					<plugin>
+						<groupId>org.apache.maven.plugins</groupId>
+						<artifactId>maven-surefire-plugin</artifactId>
+						<version>2.17</version>
+						<configuration>
+							<properties>
+								<url>${URL}</url>
+								<browser>${browserCMD}</browser>
+								<student>${student}</student>
+								<teacher>${teacher}</teacher>
+								<machine>${machine}</machine>
+								<envFile>${envFileCMD}</envFile>
+								<desiredAutoStatus>Automated</desiredAutoStatus>
+
+							</properties>
+							<systemProperties>
+								<property>
+									<name>browser</name>
+									<value>firefox</value>
+								</property>
+								<property>
+									<name>remote.machine</name>
+									<value>http://10.1.0.66:5555</value>
+								</property>
+								<property>
+									<name>institutionId</name>
+									<value>1</value>
+								</property>
+								<property>
+									<name>envFile</name>
+									<value>newux.properties</value>
+								</property>
+
+							</systemProperties>
+							<testSourceDirectory>${project.basedir}/src/tests/</testSourceDirectory>
+							<testClassesDirectory>${project.basedir}/target/classes/</testClassesDirectory>
+						<!--	
+							<goals>
+   								 <goal>edProduction</goal>
+   							</goals>
+  						 --> 
+							<includes>
+							<!--	<include>**/EDExcellenceTests.java</include> -->
+								<include>**/PracticesTestsByTypes2.java</include>
+								<include>**/ResourseToolsTests2.java</include>
+								<include>**/setProgressTests2.java</include> 
+								<include>**/CheckProgressTests2.java</include>  
+							</includes>
+						<!--	<groups>testCategories.edProduction</groups> -->
+							
+							<excludes>
+								 
+							</excludes>
+
+							<excludedGroups>testCategories.unstableTests,testCategories.inProgressTests,testCategories.fullProgressInClient,testCategories.NonAngularLearningArea,testCategories.notInUse</excludedGroups>
+							<!-- <groups>testCategories.AngularLearningArea</groups>-->
+				 			
+						</configuration>
+
+
+
+					</plugin>
+				</plugins>
+			</build>
+
+		</profile>
+		
+		<profile>
+			<activation>
+
+			</activation>
+			<id>WebAPiRest</id>
+			<build>
+
+				<plugins>
+					<plugin>
+						<groupId>org.apache.maven.plugins</groupId>
+						<artifactId>maven-surefire-plugin</artifactId>
+						<version>2.17</version>
+						<configuration>
+							<properties>
+								<url>${URL}</url>
+								<browser>${browserCMD}</browser>
+								<student>${student}</student>
+								<teacher>${teacher}</teacher>
+								<machine>${machine}</machine>
+								<envFile>${envFileCMD}</envFile>
+								<desiredAutoStatus>Automated</desiredAutoStatus>
+
+							</properties>
+							<systemProperties>
+								<property>
+									<name>browser</name>
+									<value>firefox</value>
+								</property>
+								<property>
+									<name>remote.machine</name>
+									<value>http://10.1.0.66:5555</value>
+								</property>
+								<property>
+									<name>institutionId</name>
+									<value>1</value>
+								</property>
+								<property>
+									<name>envFile</name>
+									<value>newux.properties</value>
+								</property>
+
+							</systemProperties>
+							<testSourceDirectory>${project.basedir}/src/tests/</testSourceDirectory>
+							<testClassesDirectory>${project.basedir}/target/classes/</testClassesDirectory>
+						<!--	
+							<goals>
+   								 <goal>edProduction</goal>
+   							</goals>
+  						 --> 
+							<includes>
+								<include>**/REST_API_SwaggerTests/**</include>
+							</includes>
+						<!--	<groups>testCategories.edProduction</groups> -->
+							
+							<excludes>
+								 
+							</excludes>
+
+							<excludedGroups>testCategories.unstableTests,testCategories.inProgressTests,testCategories.fullProgressInClient,testCategories.NonAngularLearningArea,testCategories.notInUse</excludedGroups>
+							<!-- <groups>testCategories.AngularLearningArea</groups>-->
+				 			
+						</configuration>
+
+
+
+					</plugin>
+				</plugins>
+			</build>
+
+		</profile>
+		
+
+
+
+	</profiles>
+</project>

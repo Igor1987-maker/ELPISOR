@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:context="http://www.springframework.org/schema/context"
+	xmlns:aop="http://www.springframework.org/schema/aop"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans-3.2.xsd
+	http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context-3.2.xsd
+            http://jax-ws.dev.java.net/spring/core http://jax-ws.dev.java.net/spring/core.xsd
+            http://jax-ws.dev.java.net/spring/servlet http://jax-ws.dev.java.net/spring/servlet.xsd">
+	<context:property-placeholder location="qa.properties" />
+	<context:annotation-config />
+
+	<context:component-scan base-package="services" />
+	<context:component-scan base-package="drivers" />
+
+	<bean id="ChromeWebDriver" class="drivers.ChromeWebDriver" />
+	<bean id="FirefoxWebDriver" class="drivers.FirefoxWebDriver" />
+	<bean id="IEWebDriver" class="drivers.IEWebDriver" />
+	<bean id="SafariWebDriver" class="drivers.SafariWebDriver" />
+	<bean id="AndroidWebDriver" class="drivers.AndroidWebDriver" />
+	<bean id="AndroidAppiumWebDriver" class="drivers.AndroidAppiumWebDriver" />
+	<bean id="HeadlessBrowser" class="drivers.HeadlessBrowser"/>
+
+	<bean id="PageHelperService" class="services.PageHelperService" />
+
+
+	<bean id="configuration" class="services.Configuration"
+		factory-method="getInstance" />
+	<bean id="TextSerivce" class="services.TextService" />
+	<bean id="DbService" class="services.DbService"></bean>
+	<bean id="NetService" class="services.NetService"></bean>
+	<bean id="EraterService" class="services.EraterService"></bean>
+	<bean id="InstitutionService" class="services.InstitutionService"></bean>
+	<bean id="AudioService" class="services.AudioService"></bean>
+	<bean id="TestResultService" class="services.TestResultService"></bean>
+
+
+	
+	
+
+</beans>

@@ -1,0 +1,2 @@
+FirstName	LastName	UserName	Password	Gender	Email	Class
+St0325	St0325	St0325	12345	u	St0325@mail.com	class200

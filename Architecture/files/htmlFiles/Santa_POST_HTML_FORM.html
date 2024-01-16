@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Post Request and Redirect</title>
+</head>
+<body>
+
+<form id="postDataForm" action="%accessUrl%" method="POST">
+    <!-- JSON input -->
+    <input type="hidden" name="json_data" value='{
+        "user": {
+            "id": "%newUserId%",
+            "username": "%username%",
+            "firstname": "%firstname%",
+            "lastname": "%lastname%",
+            "email": "student22212@student.com",
+            "role": "student",
+            "city": null,
+            "residence_country_code": null,
+            "date_of_birth": null,
+            "gender": "",
+            "native_country_code": "",
+            "native_language_code": ""
+        },
+        "school": {
+            "id": "%newSchoolId%",
+            "name": "SantillanaSchool",
+            "country": "%countryCode%",
+            "businessDivision": "%businessDivision%"
+        },
+        "class": [
+            {
+                "id": "%newClassId%",
+                "name": "class12321",
+                "package": "%packageName%",
+                "numberOfStudents": 25
+            }
+        ]
+    }'/>
+
+    <!-- JWT token input -->
+    <input type="hidden" name="jwt_token" value="Bearer eyJhbGciOiJIUzI1NiJ9.eyJSb2xlIjoiQWRtaW4iLCJJc3N1ZXIiOiJJc3N1ZXIiLCJVc2VySWQiOiI1MjMyMjY0MDAwMDAwMSIsImV4cCI6MTcwNTMwOTIxOCwiaWF0IjoxNzA0MTg2MDE4fQ.24gXGhhAxscWIaqIv4E3SOzULITc8ZwjMYNOlzUmRnU" />
+
+    <!-- Button to trigger the form submission -->
+    <button type="submit">Send POST Request</button>
+</form>
+
+</body>
+</html>
